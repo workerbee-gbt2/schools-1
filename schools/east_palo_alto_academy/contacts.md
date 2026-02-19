@@ -1,5 +1,7 @@
 # East Palo Alto Academy Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletic Department
 - **Athletic Director:** Laura Nuñez [1](#ref-1) [2](#ref-2)
   - Email: lnunez@seq.org [1](#ref-1)
