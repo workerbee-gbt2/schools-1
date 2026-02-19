@@ -8,7 +8,12 @@
 
 ## Opportunities & Athletics
 - **Opportunities Rating:** [Placeholder]
-- **Athletic Resources:** [Placeholder]
+- **Athletic Resources:** Athletic programs are heavily managed through Soccer Without Borders (SWB), which provides soccer-focused youth development and engagement [1](#ref-1).
 
 ## Other Info
 - [Placeholder]
+
+### Citations
+
+<a id="ref-1"></a>
+[1] : https://oaklandinternational.ousd.org/about-us/our-staff
