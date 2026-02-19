@@ -55,7 +55,6 @@ Title I schools receive federal funding to support students from low-income fami
 | **Westmoor High** | Daly City | San Mateo |
 | [**Capuchino High**](capuchino_high/information.md) | San Bruno | San Mateo |
 | **South San Francisco High** | South San Francisco | San Mateo |
-| [**San Mateo High**](san_mateo_high/information.md) | San Mateo | San Mateo |
 | [**Sequoia High**](sequoia_high/information.md) | Redwood City | San Mateo |
 | [**Tide Academy**](tide_academy/information.md) | Menlo Park | San Mateo |
 | [**East Palo Alto Academy**](east_palo_alto_academy/information.md) | East Palo Alto | San Mateo |
