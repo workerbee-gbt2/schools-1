@@ -1,5 +1,7 @@
 # Castlemont High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## Mission Statement
 Castlemont High School’s mission is to create a safe, healthy, inclusive, and engaging learning experience that prepares all of our students for college, career and community. [1](#ref-1)
 

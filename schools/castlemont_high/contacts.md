@@ -1,9 +1,12 @@
 # Castlemont High School Contacts
 
+[School Information](information.md)
+
 ## Administration
-- **Principal:** Joseph Blasher [2](#ref-2)
+- **Principal:** Joseph Blasher [1](#ref-1)
 
-## Citations
+### Citations
 
-<a id="ref-2"></a>
-[2] : https://www.ed-data.org/school/Alameda/Oakland-Unified/Castlemont-High
+<a id="ref-1"></a>
+[1] : https://www.ed-data.org/school/Alameda/Oakland-Unified/Castlemont-High
+
