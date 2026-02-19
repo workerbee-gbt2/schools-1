@@ -12,7 +12,7 @@
 - **Athletic Resources:**
     - **Sports Offered:** Basketball (referred to as 'Valiant Basketball') [3](#ref-3). The school also typically participates in regional middle school leagues like the Artie Dirzo Athletic League (ADAL) [2](#ref-2).
     - **Facilities:**
-        - **Valiant Blacktop:** Primary venue for athletic activities and games [5](#ref-5).
+        - **Valiant Blacktop:** Primary venue for athletic activities and games [4](#ref-4).
         - **Campus:** The school is located at 620 Willow Rd, which serves as the base for its community and physical activities [1](#ref-1).
 
 ## Other Info
@@ -30,7 +30,4 @@
 [3] : https://www.leaguelineup.com/teams_basketball.asp?url=kippvaliantathletics
 
 <a id="ref-4"></a>
-[4] : https://valiant.kippnorcal.org/academics/
-
-<a id="ref-5"></a>
-[5] : https://www.leaguelineup.com/location.asp?url=kippvaliantathletics
+[4] : https://www.leaguelineup.com/location.asp?url=kippvaliantathletics
