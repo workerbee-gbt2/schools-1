@@ -19,9 +19,17 @@
   - Email: abermudez@summitps.org [1](#ref-1)
 
 ## Athletic Department
-- **Athletic Director:** Jorge Chevez [1](#ref-1)
+- **Athletic Director:** Jorge Chevez [1](#ref-1) [4](#ref-4)
   - Email: jchevez@summitps.org [1](#ref-1)
-  - Phone: [Phone]
+  - Phone: (415) 799-4719 [1](#ref-1)
+
+## Coaches
+- **Boys Basketball Head Coach:** Jorge Chevez [5](#ref-5)
+  - Email: jchevez@summitps.org [1](#ref-1)
+- **Girls Basketball Head Coach:** Jerrod Nodar [6](#ref-6)
+  - Email: jnodar@summitps.org [6](#ref-6)
+- **Girls Volleyball Head Coach:** Gilbert Gilberstadt [7](#ref-7)
+  - Email: ggilberstadt@summitps.org [7](#ref-7)
 
 ## District (Network) Leadership
 - **Chief Executive Officer:** Cady Ching [2](#ref-2)
@@ -49,3 +57,15 @@
 
 <a id="ref-3"></a>
 [3] : https://summitps.org/who-we-are/board-of-directors/
+
+<a id="ref-4"></a>
+[4] : https://www.maxpreps.com/ca/daly-city/summit-shasta-black-bears/
+
+<a id="ref-5"></a>
+[5] : https://www.maxpreps.com/ca/daly-city/summit-shasta-black-bears/basketball/staff/all-time/
+
+<a id="ref-6"></a>
+[6] : https://www.maxpreps.com/ca/daly-city/summit-shasta-black-bears/basketball/girls/staff/all-time/
+
+<a id="ref-7"></a>
+[7] : https://www.maxpreps.com/ca/daly-city/summit-shasta-black-bears/volleyball/staff/all-time/

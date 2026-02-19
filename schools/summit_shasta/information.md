@@ -3,8 +3,9 @@
 [Back to Overview](OVERVIEW.md) | [Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
 
 ## School Details
-- **Location:** 905 Campus Drive, Daly City, CA [2](#ref-2)
+- **Location:** 905 Campus Dr, Daly City, CA 94015 [1](#ref-1) [2](#ref-2)
 - **Status:** Free public charter high school [1](#ref-1); Title I Schoolwide [6](#ref-6)
+- **Executive Director:** Anita Ravi [1](#ref-1)
 - **Funding Status:** Directly funded charter school [7](#ref-7)
 - **Founded:** 2013 [1](#ref-1)
 - **Grades:** 9-12 [1](#ref-1)
@@ -49,12 +50,11 @@ Summit Public School: Shasta offers a variety of sports programs for both boys a
 *   Volleyball [5](#ref-5)
 
 ### Facilities
-The school campus is located at 905 Campus Drive, Daly City [2](#ref-2). Facilities include:
+The school campus is located at 905 Campus Dr, Daly City, CA 94015 [1](#ref-1) [2](#ref-2). Facilities include:
 *   **Gymnasium:** Used for indoor sports such as basketball and volleyball [2](#ref-2).
 *   The site consists of four buildings which house classrooms, administrative offices, a servery, and bathrooms [2](#ref-2).
 
 ## Other Info
-- [Placeholder]
 - See [Contacts](contacts.md) for key personnel.
 
 ### Citations
