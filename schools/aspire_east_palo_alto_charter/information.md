@@ -1,6 +1,6 @@
 # Aspire East Palo Alto Charter Information
 
-[View Contacts](./contacts.md)
+- [Contacts](contacts.md)
 
 ## School Details
 - **Location:** East Palo Alto, CA [1](#ref-1)
