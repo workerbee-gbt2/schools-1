@@ -1,5 +1,7 @@
 # Summit Public School: Shasta Contacts
 
+[Back to Overview](OVERVIEW.md) | [View Information](information.md)
+
 ## Administration
 - **Executive Director (Principal):** Anita Ravi [1](#ref-1)
   - Email: aravi@summitps.org [1](#ref-1)

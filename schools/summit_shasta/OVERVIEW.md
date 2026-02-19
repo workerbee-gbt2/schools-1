@@ -6,7 +6,8 @@ Summit Public School: Shasta is a charter high school located in Daly City, Cali
 - **Location:** Daly City, CA [1](#ref-1)
 - **Grades:** 9-12 (High School) [1](#ref-1)
 
-## Related Documents
+## Key Files
+- [School Information](information.md)
 - [Staff Directory and Contacts](contacts.md)
 
 ### Citations
