@@ -3,13 +3,24 @@
 [Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
 
 ## School Details
-- **Location:** Menlo Park, CA
+- **Location:** Menlo Park, CA [9](#ref-9)
 - **Status:** Title 1 [8](#ref-8)
 - **Closing Status:** Scheduled to close in June 2026 [7](#ref-7)
 - **Students:** [Approximate number]
 - **Demographics:** [Percentage low income, etc.]
 
+## School Ratings
+- **GreatSchools Rating:** 9/10 [9](#ref-9)
+- **Test Score Rating:** 7/10 [9](#ref-9)
+- **College Readiness Rating:** 10/10 [9](#ref-9)
+- **4-year High School Graduation Rate:** 99% [9](#ref-9)
+- **UC/CSU Entrance Requirements Met:** 55% [9](#ref-9)
+
 ## Opportunities & Athletics
+- **Advanced Placement (AP) Courses:**
+  - AP Calculus AB [10](#ref-10)
+  - AP Physics 2 [10](#ref-10)
+- **Academic Focus:** STEM-focused curriculum with interdisciplinary and inquiry-based units. The school is categorized as college preparatory [10](#ref-10).
 - **Athletics Partnership:** TIDE Academy students participate in athletics through a partnership with **Menlo-Atherton (M-A) High School** [1](#ref-1). They compete as M-A Bears in the Peninsula Athletic League (PAL) [1](#ref-1).
 - **Sports Offered:** [2](#ref-2)
   - **Girls:** Basketball, Cross Country, Flag Football, Golf, Lacrosse, Soccer, Softball, Swimming, Tennis, Track & Field, Volleyball, Water Polo, and Wrestling.
@@ -18,6 +29,13 @@
 - **Athletic Facilities:**
   - **TIDE Academy Campus:** Limited on-site athletic infrastructure including a Multi-Purpose Room and a Performing Arts Center (Gaming Room) [3](#ref-3).
   - **Menlo-Atherton Campus (Used by TIDE):** TIDE students utilize extensive M-A facilities, including the Spieker Pool [4](#ref-4), the M-A Sports Complex (gymnasiums, weight room, dance studio) [5](#ref-5), and the stadium and fields [6](#ref-6).
+
+## Reviews
+- **Overall Rating:** 5.0/5 stars (based on 3 reviews) [11](#ref-11)
+- **Review Summaries:**
+  - **Parent/Guardian (Jan 27, 2026):** Highly satisfied; notes that the student thrives socially and academically and looks forward to attending school [11](#ref-11).
+  - **Current Student (Dec 07, 2022):** Credits the school's foundational skills for a perfect score on the CAASP English Test [11](#ref-11).
+  - **Parent/Guardian (Dec 07, 2022):** Describes the school as amazing and welcoming to all students [11](#ref-11).
 
 ## Other Info
 - [Placeholder]
@@ -47,3 +65,12 @@
 
 <a id="ref-8"></a>
 [8] : https://www.cde.ca.gov/ds/si/ds/pubschls.asp
+
+<a id="ref-9"></a>
+[9] : https://www.greatschools.org/california/menlo-park/32887-Tide-Academy/
+
+<a id="ref-10"></a>
+[10] : https://www.greatschools.org/california/menlo-park/32887-Tide-Academy/#Courses_and_programs
+
+<a id="ref-11"></a>
+[11] : https://www.greatschools.org/california/menlo-park/32887-Tide-Academy/#Reviews
