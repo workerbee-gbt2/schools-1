@@ -2,18 +2,35 @@
 
 [Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
+## Administration
+- **Principal:** Yvonne Shiu [1](#ref-1)
+  - Email: yshiu@smuhsd.org [1](#ref-1)
+  - Phone: (650) 558-2300 [1](#ref-1)
+- **Assistant Principal:** Mike Holtz [2](#ref-2)
+  - Email: mholtz@smuhsd.org [2](#ref-2)
+  - Phone: (650) 558-2303 [2](#ref-2)
+- **Assistant Principal:** Gary Hong [3](#ref-3)
+  - Email: ghong@smuhsd.org [3](#ref-3)
+  - Phone: (650) 558-2302 [3](#ref-3)
+- **Assistant Principal:** Lauren Ponti [4](#ref-4)
+  - Email: lponti@smuhsd.org [4](#ref-4)
+  - Phone: (650) 558-2306 [4](#ref-4)
+- **Dean of Students:** Michelle Torres [5](#ref-5)
+  - Email: amtorres@smuhsd.org [5](#ref-5)
+  - Phone: (650) 558-2346 [5](#ref-5)
+
 ## Athletic Department
 
 ### Athletic Administration & Support
-- **Athletic Director:** Jeff Scheller [1](#ref-1) [2](#ref-2)
-  - Email: jscheller@smuhsd.org [2](#ref-2)
-  - Phone: 650-558-2338 [1](#ref-1)
-- **Athletic Trainer:** Yareli Vasquez [1](#ref-1)
-  - Phone: 650-558-2326 [1](#ref-1)
-- **Health Aide:** Shana Scatena [1](#ref-1)
-  - Phone: 650-558-2322 [1](#ref-1)
+- **Athletic Director:** Jeff Scheller [6](#ref-6) [7](#ref-7)
+  - Email: jscheller@smuhsd.org [7](#ref-7)
+  - Phone: 650-558-2338 [6](#ref-6)
+- **Athletic Trainer:** Yareli Vasquez [6](#ref-6)
+  - Phone: 650-558-2326 [6](#ref-6)
+- **Health Aide:** Shana Scatena [6](#ref-6)
+  - Phone: 650-558-2322 [6](#ref-6)
 
-### Coaching Staff (2025-2026) [2](#ref-2)
+### Coaching Staff (2025-2026) [7](#ref-7)
 
 #### Fall Sports
 | Sport | Coach | Email |
@@ -64,26 +81,19 @@
 | Track & Field | Asif Rahman | arahman@smuhsd.org |
 | Boys Volleyball | Ib Masri | abemasri04@gmail.com |
 
-## Administration [3](#ref-3)
-- **Principal:** Yvonne Shiu [3](#ref-3)
-- **Assistant Principal:** Mike Holtz [3](#ref-3)
-- **Assistant Principal:** Gary Hong [3](#ref-3)
-- **Assistant Principal:** Lauren Ponti [3](#ref-3)
-- **Dean of Students:** Michelle Torres [3](#ref-3)
-
 ## District Contacts
 
 ### District Leadership
-- **Randall Booker**, Superintendent [4](#ref-4)
-- **Kirk Black, Ed.D.**, Deputy Superintendent, Human Resources and Student Services [5](#ref-5)
-- **Yancy Hawkins, CPA**, Associate Superintendent, Chief Business Officer [5](#ref-5)
-- **Julia Kempkey, Ed.D.**, Assistant Superintendent of Curriculum and Instruction [5](#ref-5)
+- **Randall Booker**, Superintendent [9](#ref-9)
+- **Kirk Black, Ed.D.**, Deputy Superintendent, Human Resources and Student Services [10](#ref-10)
+- **Yancy Hawkins, CPA**, Associate Superintendent, Chief Business Officer [10](#ref-10)
+- **Julia Kempkey, Ed.D.**, Assistant Superintendent of Curriculum and Instruction [10](#ref-10)
 
 ### District Office Staff
-- **Charlene Aquino**, Administrative Assistant III, Superintendent's Office [4](#ref-4)
-- **Laura Chalkley**, Director of Communications [4](#ref-4)
+- **Charlene Aquino**, Administrative Assistant III, Superintendent's Office [9](#ref-9)
+- **Laura Chalkley**, Director of Communications [9](#ref-9)
 
-### Board of Trustees [6](#ref-6)
+### Board of Trustees [11](#ref-11)
 - **Teri Chavez**, President (Trustee Area 1) - Email: tchavez@smuhsd.org
 - **Jennifer Jacobson**, Vice President (Trustee Area 3) - Email: jjacobson@smuhsd.org
 - **Greg Land**, Clerk (Trustee Area 2) - Email: gland@smuhsd.org
@@ -93,19 +103,34 @@
 ### Citations
 
 <a id="ref-1"></a>
-[1] : https://smhs.smuhsd.org/athletics/home
+[1] : https://smhs.smuhsd.org/our-school/administration/yvonne-shiu-principal
 
 <a id="ref-2"></a>
-[2] : https://docs.google.com/spreadsheets/d/1G9ZDg9FaQPhgwsneoPl7X6knUPgwQ366Zb-iaxIO2bU/edit?gid=398301165#gid=398301165
+[2] : https://smhs.smuhsd.org/our-school/administration/mike-holtz-assistant-principal
 
 <a id="ref-3"></a>
-[3] : https://smhs.smuhsd.org/our-school/administration/welcome-from-the-san-mateo-high-school-administrative-team
+[3] : https://smhs.smuhsd.org/our-school/administration/gary-hong-assistant-principal
 
 <a id="ref-4"></a>
-[4] : https://www.smuhsd.org/our-district/superintendent/contact-the-superintendents-office
+[4] : https://smhs.smuhsd.org/our-school/administration/lauren-ponti-assistant-principal
 
 <a id="ref-5"></a>
-[5] : https://www.smuhsd.org/our-district/superintendent/meet-the-deputy-associate-and-assistant-superintendents
+[5] : https://smhs.smuhsd.org/our-school/administration/michelle-torres-dean-of-students
 
 <a id="ref-6"></a>
-[6] : https://www.smuhsd.org/our-district/board-of-trustees/about-the-board
+[6] : https://smhs.smuhsd.org/athletics/home
+
+<a id="ref-7"></a>
+[7] : https://docs.google.com/spreadsheets/d/1G9ZDg9FaQPhgwsneoPl7X6knUPgwQ366Zb-iaxIO2bU/edit?gid=398301165#gid=398301165
+
+<a id="ref-8"></a>
+[8] : https://smhs.smuhsd.org/our-school/administration/welcome-from-the-san-mateo-high-school-administrative-team
+
+<a id="ref-9"></a>
+[9] : https://www.smuhsd.org/our-district/superintendent/contact-the-superintendents-office
+
+<a id="ref-10"></a>
+[10] : https://www.smuhsd.org/our-district/superintendent/meet-the-deputy-associate-and-assistant-superintendents
+
+<a id="ref-11"></a>
+[11] : https://www.smuhsd.org/our-district/board-of-trustees/about-the-board
