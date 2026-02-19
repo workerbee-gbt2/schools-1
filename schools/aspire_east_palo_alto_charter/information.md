@@ -1,5 +1,7 @@
 # Aspire East Palo Alto Charter Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** 1286 Runnymede Street, East Palo Alto, CA 94303 [1](#ref-1)
 - **Status:** TK-8 Charter School [1](#ref-1)
