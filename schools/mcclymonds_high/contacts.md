@@ -3,7 +3,7 @@
 [Information](information.md)
 
 ## Athletic Department
-- **Athletic Director:** Relonda McGhee [[1](#ref-1)]
+- **Athletic Director:** Relonda McGhee [1](#ref-1)
   - Email: [Email]
   - Phone: [Phone]
 
