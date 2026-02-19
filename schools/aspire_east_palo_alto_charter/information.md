@@ -1,5 +1,7 @@
 # Aspire East Palo Alto Charter Information
 
+- [Contacts](contacts.md)
+
 ## School Details
 - **Location:** East Palo Alto, CA [1](#ref-1)
 - **Sponsoring District:** Ravenswood School District [1](#ref-1)
