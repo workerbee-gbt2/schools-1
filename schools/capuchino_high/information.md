@@ -1,5 +1,7 @@
 # Capuchino High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## General Information
 Capuchino High School is located in San Bruno, California, on the San Francisco Peninsula. [1](#ref-1) It is part of the San Mateo Union High School District (SMUHSD). [1](#ref-1) The school is an International Baccalaureate (IB) World School, with the program established in 2004. [1](#ref-1) For the 2025-2026 school year, total enrollment is 1,040 students. [3](#ref-3)
 
@@ -22,9 +24,22 @@ Additional student data for the 2025-2026 school year: [3](#ref-3)
 - **Multilingual Learners:** 13%
 - **Receive Special Education Services:** 12%
 
-## Navigation
-- [Back to Schools Overview](../OVERVIEW.md)
-- [Capuchino High School Contacts](contacts.md)
+## Opportunities & Athletics
+
+### Athletics Program
+Capuchino High School offers a variety of sports across three seasons: [4](#ref-4)
+- **Fall:** Football, Girls Volleyball, Cross Country, Girls Tennis, Girls Golf, Water Polo, Spirit Squad (Cheer/Dance).
+- **Winter:** Boys and Girls Basketball, Boys and Girls Soccer, Wrestling.
+- **Spring:** Baseball, Softball, Badminton, Boys Tennis, Boys Golf, Boys Volleyball, Swimming, Track & Field.
+
+### Facilities
+The school features a modernized athletic complex including:
+- **Gymnasium:** Main campus athletic facility. [6](#ref-6)
+- **Stadium & Track:** Synthetic turf with eco-friendly cork infill and an all-weather track. [5](#ref-5)
+- **Baseball & Softball Fields:** Renovated fields with synthetic turf. [5](#ref-5)
+- **Tennis Courts:** Dedicated courts for tennis programs. [5](#ref-5)
+- **Swimming Pool:** Modernized competition-level pool with lighting. [5](#ref-5)
+- **Multipurpose Field:** Additional field space for various athletic activities. [5](#ref-5)
 
 ### Citations
 
@@ -36,3 +51,12 @@ Additional student data for the 2025-2026 school year: [3](#ref-3)
 
 <a id="ref-3"></a>
 [3] : https://resources.finalsite.net/images/v1765925730/smuhsdorg/k7pye6bphg6pdsfok5rk/CapProfile2025.pdf
+
+<a id="ref-4"></a>
+[4] : https://www.capuchinoathletics.com/page/7648963e-87e6-4c44-bd27-dd897b457477
+
+<a id="ref-5"></a>
+[5] : https://www.carducciassociates.com/projects/project/capuchino-high-school-athletic-complex-project
+
+<a id="ref-6"></a>
+[6] : https://app.nextlevelsports.com/facilities/san-bruno-capuchino-hs-bb
