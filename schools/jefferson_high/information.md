@@ -14,6 +14,8 @@ Jefferson High School offers a comprehensive athletics program across three seas
 - **Winter:** Boys & Girls Basketball, Boys & Girls Soccer, Cheer.
 - **Spring:** Badminton, Baseball, Softball, Swimming, Track and Field, Boys Volleyball.
 
+Athletic resources and programs are managed by the [Athletic Directors](contacts.md).
+
 ### Facilities
 Athletic facilities at the school include [2](#ref-2) [3](#ref-3):
 - **Gymnasium:** Used for basketball, volleyball, and physical education [2](#ref-2).
