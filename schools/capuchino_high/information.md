@@ -1,6 +1,8 @@
 # Capuchino High School Information
-
-## School Details
+ 
+ - [Contacts](contacts.md)
+ 
+ ## School Details
 - **Location:** San Bruno, CA [1](#ref-1)
 - **Status:** Title 1 (Verify)
 - **Students:** [Approximate number]
