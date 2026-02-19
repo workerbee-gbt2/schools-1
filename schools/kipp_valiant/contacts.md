@@ -9,6 +9,21 @@
 - **Edith Malvais Valdes**: Family Ambassador [2](#ref-2)
 - **Ms. Gina Sudaria**: Superintendent (Ravenswood City School District) [1](#ref-1)
 
+## KIPP Northern California Regional Leadership
+- **Beth Thompson**, Chief Executive Officer [6](#ref-6)
+- **Jenny Tan**, Superintendent [6](#ref-6)
+- **Hilary Harmssen**, Chief External Impact Officer [6](#ref-6)
+- **Brandy Woodard**, Chief People Officer [6](#ref-6)
+- **Dr. Savina Woodyard**, Chief Equity and Strategy Officer [6](#ref-6)
+- **Leslie Billie**, Chief Operating Officer [6](#ref-6)
+
+## Board of Directors
+- **Abe Friedman**, Board Chair [7](#ref-7)
+  - Email: abe.friedman@kippnorcal.org [7](#ref-7)
+- **Jenny Shimizu Risk**, Vice Chair [7](#ref-7)
+- **Alisa Pickett**, Board Secretary [7](#ref-7)
+  - Email: boardsecretary@kippnorcal.org [7](#ref-7)
+
 ## Athletic Department
 - **Luis Lerma**: Head Coach (Basketball) [3](#ref-3)
   - Phone: (650) 678-2444 [3](#ref-3)
@@ -38,3 +53,9 @@
 
 <a id="ref-5"></a>
 [5] : https://www.facebook.com/kippvaliant/about
+
+<a id="ref-6"></a>
+[6] : https://kippnorcal.org/executive-team/
+
+<a id="ref-7"></a>
+[7] : https://kippnorcal.org/board-of-directors/
