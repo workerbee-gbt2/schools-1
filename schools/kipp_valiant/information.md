@@ -1,7 +1,10 @@
 # KIPP Valiant Community Prep Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** 620 Willow Rd, Menlo Park, CA 94025 [1](#ref-1)
+- **Grades:** TK-8 [5](#ref-5)
 - **Status:** Title 1 (Verify)
 - **Mascot:** Huskies [2](#ref-2)
 - **Students:** [Approximate number]
@@ -14,6 +17,7 @@
     - **Facilities:**
         - **Valiant Blacktop:** Primary venue for athletic activities and games [4](#ref-4).
         - **Campus:** The school is located at 620 Willow Rd, which serves as the base for its community and physical activities [1](#ref-1).
+- **Athletic Contacts:** See [contacts.md](contacts.md)
 
 ## Other Info
 - [Placeholder]
@@ -31,3 +35,6 @@
 
 <a id="ref-4"></a>
 [4] : https://www.leaguelineup.com/location.asp?url=kippvaliantathletics
+
+<a id="ref-5"></a>
+[5] : https://valiant.kippnorcal.org/
