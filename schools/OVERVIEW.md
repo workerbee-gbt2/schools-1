@@ -2,7 +2,7 @@
 
 This directory contains detailed information about Title 1 and high-need schools in the Bay Area suitable for physical outreach. Each school has an `information.md` file and a `contacts.md` file.
 
-## Schools
+## Schools with Detailed Profiles
 - [Aspire East Palo Alto Charter](aspire_east_palo_alto_charter/information.md)
 - [Capuchino High](capuchino_high/information.md)
 - [Castlemont High](castlemont_high/information.md)
@@ -16,3 +16,75 @@ This directory contains detailed information about Title 1 and high-need schools
 - [Sequoia High](sequoia_high/information.md)
 - [Summit Shasta](summit_shasta/information.md)
 - [Tide Academy](tide_academy/information.md)
+
+## Comprehensive List of Title 1 High Schools in the SF Bay Area
+Title I schools receive federal funding to support students from low-income families. The following schools in the nine Bay Area counties are identified as Title I high schools based on their eligibility for Schoolwide Programs (SWP), typically requiring at least 40% of students to be eligible for Free or Reduced-Price Meals (FRPM) [1](#ref-1) [2](#ref-2) [3](#ref-3).
+
+### Bay Area Title 1 High Schools by County
+
+| School Name | City | County |
+| :--- | :--- | :--- |
+| **Oakland High** | Oakland | Alameda |
+| **Oakland Technical High** | Oakland | Alameda |
+| **Castlemont High** | Oakland | Alameda |
+| **McClymonds High** | Oakland | Alameda |
+| **Fremont High** | Oakland | Alameda |
+| **Skyline High** | Oakland | Alameda |
+| **Hayward High** | Hayward | Alameda |
+| **Tennyson High** | Hayward | Alameda |
+| **Mt. Eden High** | Hayward | Alameda |
+| **San Leandro High** | San Leandro | Alameda |
+| **Richmond High** | Richmond | Contra Costa |
+| **Kennedy High** | Richmond | Contra Costa |
+| **De Anza High** | El Sobrante | Contra Costa |
+| **Pittsburg High** | Pittsburg | Contra Costa |
+| **Antioch High** | Antioch | Contra Costa |
+| **Deer Valley High** | Antioch | Contra Costa |
+| **San Rafael High** | San Rafael | Marin |
+| **American Canyon High** | American Canyon | Napa |
+| **Mission High** | San Francisco | San Francisco |
+| **Balboa High** | San Francisco | San Francisco |
+| **John O'Connell High** | San Francisco | San Francisco |
+| **Philip & Sala Burton High** | San Francisco | San Francisco |
+| **Thurgood Marshall Academic High**| San Francisco | San Francisco |
+| **June Jordan School for Equity** | San Francisco | San Francisco |
+| **Jefferson High** | Daly City | San Mateo |
+| **Westmoor High** | Daly City | San Mateo |
+| **South San Francisco High** | South San Francisco | San Mateo |
+| **Sequoia High** | Redwood City | San Mateo |
+| **East Palo Alto Academy** | East Palo Alto | San Mateo |
+| **Overfelt (William C.) High** | San Jose | Santa Clara |
+| **Andrew P. Hill High** | San Jose | Santa Clara |
+| **Yerba Buena High** | San Jose | Santa Clara |
+| **James Lick High** | San Jose | Santa Clara |
+| **Mount Pleasant High** | San Jose | Santa Clara |
+| **Independence High** | San Jose | Santa Clara |
+| **San Jose High** | San Jose | Santa Clara |
+| **Vallejo High** | Vallejo | Solano |
+| **Jesse M. Bethel High** | Vallejo | Solano |
+| **Fairfield High** | Fairfield | Solano |
+| **Armijo High** | Fairfield | Solano |
+| **Elsie Allen High** | Santa Rosa | Sonoma |
+| **Piner High** | Santa Rosa | Sonoma |
+| **Roseland University Prep** | Santa Rosa | Sonoma |
+
+### Interactive Map
+An interactive map of Title I schools in California is maintained by the California Department of Education [5](#ref-5).
+- [CDE Title I School Directory Map](https://data-cdegis.opendata.arcgis.com/datasets/CDE::title-i-school-directory-2023-24/explore)
+
+### Citations
+
+<a id="ref-1"></a>
+[1] : https://www.cde.ca.gov/sp/sw/t1/studentcounts.asp
+
+<a id="ref-2"></a>
+[2] : https://www.cde.ca.gov/ds/si/ds/pubschls.asp
+
+<a id="ref-3"></a>
+[3] : https://nces.ed.gov/ccd/schoolsearch/
+
+<a id="ref-4"></a>
+[4] : https://www.sfusd.edu/schools/school-funding/title-i
+
+<a id="ref-5"></a>
+[5] : https://data-cdegis.opendata.arcgis.com/datasets/CDE::title-i-school-directory-2023-24/explore
