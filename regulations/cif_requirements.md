@@ -27,3 +27,7 @@ Under the Eric Paredes Sudden Cardiac Arrest Prevention Act, any pupil who passe
 
 <a id="ref-3"></a>
 [3] : https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=33479.5.&article=13.5.&highlight=true&keyword=athletic
+
+## See Also
+- [Regulations Overview](OVERVIEW.md)
+- [Medical Eligibility Form Details](medical_eligibility.md)
