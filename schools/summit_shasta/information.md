@@ -1,9 +1,11 @@
 # Summit Public School: Shasta Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** Daly City, CA [1](#ref-1)
 - **Student Count:** 458 [1](#ref-1)
-- **Status:** Title 1
+- **Status:** Title 1 [1](#ref-1)
 
 ## School Ratings
 - **Overall GreatSchools Rating:** 10/10 [1](#ref-1)
