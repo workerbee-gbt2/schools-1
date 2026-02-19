@@ -1,5 +1,7 @@
 # Sequoia High School Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Administration
 - **Principal:** Sean Priest [1](#ref-1) [2](#ref-2)
 - **Instructional Vice-Principal:** Tara Charles [1](#ref-1) [2](#ref-2)
