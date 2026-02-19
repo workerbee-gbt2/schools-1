@@ -5,12 +5,14 @@
 ## Castlemont High School Leadership
 - **Principal:** Joseph Blasher [1](#ref-1) [5](#ref-5)
 - **Assistant Principal:** Samantha Odom [1](#ref-1)
+- **Assistant Principal:** Jen Bender [2](#ref-2)
 
 ## Administration
 - **General School Phone:** (510) 879-2301 [2](#ref-2)
 
 ## Athletic Department
 - **Athletic Directors:** Phylisha Nelson and Traivon Soto Johnson [4](#ref-4)
+  - **Phylisha Nelson Email:** phylisha.nelson@ousd.org [2](#ref-2)
 - **Head Football Coach:** Edward Washington [2](#ref-2)
   - Email: edward.washington@ousd.org [2](#ref-2)
 - **Pathway Coach:** Marvin Boomer [2](#ref-2)
