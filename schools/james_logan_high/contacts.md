@@ -1,10 +1,11 @@
 # James Logan High School Contacts
- 
+
 [Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
- 
+
 ## Athletic Department
-- **Athletic Director:** Eli Bagaoisan [1](#ref-1)
-  - Email: ebagaoisan@nhusd.k12.ca.us [1](#ref-1)
+- **Athletic Director:** Eli Bagaoisan [1](#ref-1) [2](#ref-2)
+  - Email: ebagaoisan@nhusd.k12.ca.us [1](#ref-1) [2](#ref-2)
+  - Phone: 510-471-2520, EXT 60389 [2](#ref-2)
 
 ## Coaches
 | Name | Sport / Department | Email Address |
@@ -35,3 +36,5 @@
 <a id="ref-1"></a>
 [1] : [James Logan High School Staff Directory (Athletics/Coaches Tab)](https://docs.google.com/spreadsheets/d/1Mt2geGG3cw8gV7EGnsnmRLzQh_L1Qp-L9Ue-fLdBhdM/edit?gid=1207320456#gid=1207320456)
 
+<a id="ref-2"></a>
+[2] : https://sites.google.com/nhusd.k12.ca.us/loganathletics/athletic-staff-directory
