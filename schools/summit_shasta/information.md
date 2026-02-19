@@ -1,7 +1,7 @@
 # Summit Public School: Shasta Information
 
 ## School Details
-- **Location:** Daly City, CA
+- **Location:** Daly City, CA [2](#ref-2)
 - **Status:** Title I Schoolwide [1](#ref-1)
 - **Funding Status:** Directly funded charter school [2](#ref-2)
 - **Socioeconomic Data:** 34.1% of students are classified as Socioeconomically Disadvantaged [3](#ref-3)
@@ -16,6 +16,7 @@
 
 ## Other Info
 - [Placeholder]
+- See [Contacts](contacts.md) for key personnel.
 
 ### Citations
 
