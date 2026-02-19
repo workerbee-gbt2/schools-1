@@ -4,12 +4,13 @@
 
 ## School Details
 - **Location:** 1286 Runnymede Street, East Palo Alto, CA 94303 [1](#ref-1)
-- **Status:** TK-8 Charter School [1](#ref-1); Title 1 (Verify)
+- **Status:** Title 1 (Schoolwide Program) [7](#ref-7) [10](#ref-10)
 - **Website:** http://www.epacs.org [1](#ref-1)
 - **Grades:** TK – 8 [5](#ref-5)
 - **Sponsoring District:** Ravenswood School District [5](#ref-5)
-- **Enrollment:** 473 students [5](#ref-5)
-- **CDS Number:** #41-68999-0134197 [5](#ref-5)
+- **Funding Status:** Directly funded [7](#ref-7)
+- **Enrollment:** 496 students (2024-25) [9](#ref-9)
+- **CDS Number:** #41-68999-0134197 [5](#ref-5) [7](#ref-7)
 - **Charter Number:** #125 [5](#ref-5)
 - **GreatSchools Rating:** 2/10 [2](#ref-2)
 - **Test Scores:** [2](#ref-2)
@@ -18,7 +19,8 @@
     - Science: 12% (State Average: 33%)
 
 ## Student Demographics
-- **Free and Reduced Lunch:** 53% [5](#ref-5)
+- **Free and Reduced Lunch:** 90.7% (2024-25) [9](#ref-9)
+- **Socioeconomically Disadvantaged:** 90.1% [8](#ref-8)
 - **Ethnicity Breakdown:** [5](#ref-5)
     - Hispanic: 87%
     - Black or African-American: 6%
@@ -64,3 +66,15 @@ The school has an overall rating of 4.0/5 stars based on 4 reviews. [4](#ref-4)
 
 <a id="ref-6"></a>
 [6] : https://aspirepublicschools.org/discover_aspire/
+
+<a id="ref-7"></a>
+[7] : https://www.cde.ca.gov/SchoolDirectory/details?cdscode=41689990134197
+
+<a id="ref-8"></a>
+[8] : https://www.caschooldashboard.org/reports/41689990134197/2024
+
+<a id="ref-9"></a>
+[9] : https://dq.cde.ca.gov/dataquest/Cbeds4.asp?FreeLunch=on&cSelect=Aspire%5EEast%5EPalo%5EAlt--Ravenswood%5ECity--4168999-0134197&cChoice=SchProf2&cYear=2024-25&cLevel=School&cTopic=FRPM&myTimeFrame=S&submit1=Submit
+
+<a id="ref-10"></a>
+[10] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?InstName=Aspire&ID=060160414051
