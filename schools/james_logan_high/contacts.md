@@ -1,5 +1,7 @@
 # James Logan High School Contacts
-
+ 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+ 
 ## Athletic Department
 - **Athletic Director:** Eli Bagaoisan [1](#ref-1)
   - Email: ebagaoisan@nhusd.k12.ca.us [1](#ref-1)
@@ -33,8 +35,3 @@
 <a id="ref-1"></a>
 [1] : [James Logan High School Staff Directory (Athletics/Coaches Tab)](https://docs.google.com/spreadsheets/d/1Mt2geGG3cw8gV7EGnsnmRLzQh_L1Qp-L9Ue-fLdBhdM/edit?gid=1207320456#gid=1207320456)
 
-<a id="ref-2"></a>
-[2] : [MaxPreps James Logan High School Profile](https://www.maxpreps.com/ca/union-city/james-logan-colts/)
-
-<a id="ref-3"></a>
-[3] : [James Logan High School Official Website](https://www.jameslogan.org/)
