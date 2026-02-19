@@ -32,7 +32,7 @@
     - American Indian or Alaska Native: 0%
 
 ## Opportunities & Athletics
-- **Athletic Resources:** Athletics managed by general administration; no dedicated Athletic Director listed. [1](#ref-1)
+- **Athletic Resources:** Sports programs (including the Phoenix Ladies Volleyball team) are managed through the **Expanded Learning Program (ExL)**, which provides after-school academic and social-emotional support. [11](#ref-11)
 - **Advanced Placement (AP) Math Participation:** 16% (State Average: 6%) [3](#ref-3)
 - **AP Science Participation:** <1% (State Average: 7%) [3](#ref-3)
 
@@ -78,3 +78,6 @@ The school has an overall rating of 4.0/5 stars based on 4 reviews. [4](#ref-4)
 
 <a id="ref-10"></a>
 [10] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?InstName=Aspire&ID=060160414051
+
+<a id="ref-11"></a>
+[11] : [Aspire Public Schools - Scholar and Family Resources](https://aspirepublicschools.org/scholar-and-family-resources/)
