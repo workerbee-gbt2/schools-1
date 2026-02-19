@@ -1,10 +1,10 @@
 # Oakland International High School Information
 
-[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+[Back to Oakland International Overview](OVERVIEW.md) | [View Contacts](contacts.md)
 
 ## School Details
 - **Location:** 4521 Webster Street, Oakland, CA 94609 [1](#ref-1)
-- **Status:** Title 1 Public School [1](#ref-1)
+- **Status:** Title 1 Public School [1](#ref-1) [7](#ref-7)
 - **Grades:** 9-12 [1](#ref-1)
 - **Students:** 270 [1](#ref-1)
 - **Student Demographics:** 100% of students are eligible for Free or Reduced-Price Meals (FRPM) [1](#ref-1)
@@ -63,3 +63,6 @@
 
 <a id="ref-6"></a>
 [6] : https://www.soccerwithoutborders.org/oakland
+
+<a id="ref-7"></a>
+[7] : https://www.cde.ca.gov/sp/sw/t1/studentcounts.asp

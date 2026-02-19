@@ -1,10 +1,10 @@
 # Oakland International High School Contacts
 
-[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+[Back to Oakland International Overview](OVERVIEW.md) | [View Information](information.md)
 
 ## Athletic Department
 - **Athletic Contact:** Ronan Gillespie (PE Teacher & Coach) [1](#ref-1)
-  - Email: ronan.gillespie@ousd.org
+  - Email: ronan.gillespie@ousd.org [1](#ref-1)
 - **Athletic Director:** Erin Posbergh [1](#ref-1)
   - Email: [Email]
   - Phone: [Phone]
@@ -21,14 +21,26 @@ Oakland International High School's athletic programs are also supported through
 Soccer Without Borders is a primary partner for athletics at Oakland International High School [2](#ref-2).
 
 - **Director of SWB Oakland:** Ben Gucciardi [2](#ref-2)
-  - Email: ben@soccerwithoutborders.org
+  - Email: ben@soccerwithoutborders.org [2](#ref-2)
 - **Coach:** Christian Ruiz [2](#ref-2)
   - Email: christian@soccerwithoutborders.org [2](#ref-2)
 
 ## Administration
-- **Principal:** Tom Felix [1](#ref-1)
-  - Email: tom.felix@ousd.org
-  - Phone: (510) 879-1353
+- **Principal:** Tom Felix [1](#ref-1) [2](#ref-2)
+  - Email: tom.felix@ousd.org [1](#ref-1) [2](#ref-2)
+  - Phone: (510) 879-1353 [1](#ref-1)
+- **Assistant Principal:** Irene Kim [2](#ref-2)
+  - Email: irene.kim@ousd.org [2](#ref-2)
+
+## Other Administrative Staff
+- **Dean of Culture/Case Manager:** Cormac Kilgallen [2](#ref-2)
+  - Email: cormac.kilgallen@ousd.org [2](#ref-2)
+- **Dean of Culture/Case Manager:** Luis Alberto Lopez [2](#ref-2)
+  - Email: luis.lopez@ousd.org [2](#ref-2)
+- **Youth Program Manager (Refugee & Immigrant Transitions):** Kajal Shahali [2](#ref-2)
+  - Email: kajal@reftrans.org [2](#ref-2)
+- **Case Manager:** Karen Carranza Moya [2](#ref-2)
+  - Email: karen.carranzamoya@ousd.org [2](#ref-2)
 
 ## Other Contacts
 - **Address:** 4521 Webster Street, Oakland, CA 94609 [1](#ref-1)
