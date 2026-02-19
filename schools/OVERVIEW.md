@@ -1,6 +1,6 @@
 # Schools Overview
 
-This directory contains detailed information about Title 1 and high-need schools in the Bay Area suitable for physical outreach. Each school has an `information.md` file and a `contacts.md` file.
+This directory contains detailed information about Title 1 and high-need schools in the Bay Area suitable for physical outreach. Each school has an `information.md` file and a `contacts.md` file. District-wide contact information can be found in [DISTRICTS.md](DISTRICTS.md).
 
 ## Schools with Detailed Profiles
 - **Aspire East Palo Alto Charter School**: [Information](aspire_east_palo_alto_charter/information.md) | [Contacts](aspire_east_palo_alto_charter/contacts.md)

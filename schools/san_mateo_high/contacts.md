@@ -19,6 +19,9 @@
   - Email: amtorres@smuhsd.org [5](#ref-5)
   - Phone: (650) 558-2346 [5](#ref-5)
 
+## District Leadership
+San Mateo High School is part of the San Mateo Union High School District. See [District Leadership and Board of Trustees](../DISTRICTS.md#san-mateo-union-high-school-district-smuhsd) for district-level contacts.
+
 ## Athletic Department
 
 ### Athletic Administration & Support
@@ -81,25 +84,6 @@
 | Track & Field | Asif Rahman | arahman@smuhsd.org |
 | Boys Volleyball | Ib Masri | abemasri04@gmail.com |
 
-## District Contacts
-
-### District Leadership
-- **Randall Booker**, Superintendent [9](#ref-9)
-- **Kirk Black, Ed.D.**, Deputy Superintendent, Human Resources and Student Services [10](#ref-10)
-- **Yancy Hawkins, CPA**, Associate Superintendent, Chief Business Officer [10](#ref-10)
-- **Julia Kempkey, Ed.D.**, Assistant Superintendent of Curriculum and Instruction [10](#ref-10)
-
-### District Office Staff
-- **Charlene Aquino**, Administrative Assistant III, Superintendent's Office [9](#ref-9)
-- **Laura Chalkley**, Director of Communications [9](#ref-9)
-
-### Board of Trustees [11](#ref-11)
-- **Teri Chavez**, President (Trustee Area 1) - Email: tchavez@smuhsd.org
-- **Jennifer Jacobson**, Vice President (Trustee Area 3) - Email: jjacobson@smuhsd.org
-- **Greg Land**, Clerk (Trustee Area 2) - Email: gland@smuhsd.org
-- **Ligia Andrade Zúñiga**, Trustee (Trustee Area 4) - Email: landradezuniga@smuhsd.org
-- **Robert H. Griffin**, Trustee (Trustee Area 5)
-
 ### Citations
 
 <a id="ref-1"></a>
@@ -125,12 +109,3 @@
 
 <a id="ref-8"></a>
 [8] : https://smhs.smuhsd.org/our-school/administration/welcome-from-the-san-mateo-high-school-administrative-team
-
-<a id="ref-9"></a>
-[9] : https://www.smuhsd.org/our-district/superintendent/contact-the-superintendents-office
-
-<a id="ref-10"></a>
-[10] : https://www.smuhsd.org/our-district/superintendent/meet-the-deputy-associate-and-assistant-superintendents
-
-<a id="ref-11"></a>
-[11] : https://www.smuhsd.org/our-district/board-of-trustees/about-the-board
