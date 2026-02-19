@@ -2,6 +2,12 @@
 
 [Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
+## Administration
+- **Principal:** Sean Priest [4](#ref-4) [5](#ref-5)
+- **Instructional Vice-Principal:** Tara Charles [4](#ref-4) [5](#ref-5)
+- **Administrative Vice-Principal (9th & 11th Grades):** Sophia Olliver [4](#ref-4) [5](#ref-5)
+- **Administrative Vice-Principal (10th & 12th Grades):** Gary Gooch [4](#ref-4) [5](#ref-5)
+
 ## Athletics Administration & Support
 - **Admin VP:** Sophia Olliver [1](#ref-1)
   - Email: solliver@seq.org [1](#ref-1)
@@ -95,10 +101,6 @@
 - **JV Cheerleading:** Justin Samortin [1](#ref-1)
   - Email: shsravencheer@gmail.com [1](#ref-1)
 
-## Administration
-- **Principal:** [Name]
-  - Email: [Email]
-
 ## Other Contacts
 - [Role]: [Name]
 
@@ -112,3 +114,9 @@
 
 <a id="ref-3"></a>
 [3] : https://www.sequoiahs.org/Athletics/index.html
+
+<a id="ref-4"></a>
+[4] : https://docs.google.com/document/d/1D4jpBOztAkyBBMHgD9FiawZEUmJZsGg5DBm0HwnNQYE/edit?tab=t.0
+
+<a id="ref-5"></a>
+[5] : https://www.sequoiahs.org/ABOUT/Admin-Span-of-Control/index.html
