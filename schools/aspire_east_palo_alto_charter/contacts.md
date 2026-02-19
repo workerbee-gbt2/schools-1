@@ -1,5 +1,7 @@
 # Aspire East Palo Alto Charter Contacts
 
+[View Information](./information.md)
+
 ## Athletic Department
 - **Athletic Director:** [Name]
   - Email: [Email]
