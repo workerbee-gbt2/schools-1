@@ -1,17 +1,17 @@
 # Capuchino High School Information
 
 ## School Details
-- **Location:** 1501 Magnolia Avenue, San Bruno, CA 94066 [1, 4]
-- **Status:** Non-Title 1 (Verified) [1, 2, 4]
-- **Students:** 1,108 (2024-2025) [1, 2]
-- **Demographics:** ~30% Low Income (Free/Reduced Lunch eligible) [1, 2]
+- **Location:** 1501 Magnolia Avenue, San Bruno, CA 94066 [1](#ref-1), [4](#ref-4)
+- **Status:** Non-Title 1 (Verified) [1](#ref-1), [2](#ref-2), [4](#ref-4)
+- **Students:** 1,108 (2024-2025) [1](#ref-1), [2](#ref-2)
+- **Demographics:** ~30% Low Income (Free/Reduced Lunch eligible) [1](#ref-1), [2](#ref-2)
 
 ## Opportunities & Athletics
 - **Opportunities Rating:** [Placeholder]
 - **Athletic Resources:** [Placeholder]
 
 ## Other Info
-- **School District:** San Mateo Union High School District (SMUHSD) [3, 4]
+- **School District:** San Mateo Union High School District (SMUHSD) [3](#ref-3), [4](#ref-4)
 
 ### Citations
 
