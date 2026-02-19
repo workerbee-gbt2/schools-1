@@ -4,13 +4,13 @@
 
 ## Athletic Department
 - **Head Football Coach:** Edward Washington [1](#ref-1)
-  - Email: edward.washington@ousd.org
+  - Email: edward.washington@ousd.org [1](#ref-1)
 - **Pathway Coach:** Marvin Boomer [1](#ref-1)
-  - Email: marvin.boomer@ousd.org
+  - Email: marvin.boomer@ousd.org [1](#ref-1)
 - **Physical Education / Coach:** Luis Barajas [1](#ref-1)
-  - Email: luis.barajas@ousd.org
+  - Email: luis.barajas@ousd.org [1](#ref-1)
 - **Physical Education / Coach:** Traivon Soto Johnson [1](#ref-1)
-  - Email: traivon.soto@ousd.org
+  - Email: traivon.soto@ousd.org [1](#ref-1)
 
 ### Additional Athletic Staff
 The following individuals are listed as athletic staff, but their specific contact information is not publicly listed in the directory [2](#ref-2):
@@ -33,7 +33,6 @@ The following individuals are listed as athletic staff, but their specific conta
 
 ## Administration
 - **General School Phone:** (510) 879-2301 [1](#ref-1)
-- **Address:** 8601 MacArthur Boulevard, Oakland, CA 94605 [1](#ref-1)
 
 ### Citations
 
