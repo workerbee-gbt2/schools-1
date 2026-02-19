@@ -9,7 +9,12 @@
 - **Funding Status:** Directly funded charter school [7](#ref-7)
 - **Founded:** 2013 [1](#ref-1)
 - **Grades:** 9-12 [1](#ref-1)
-- **Students:** Approximately 449 students [3](#ref-3)
+- **Student Count:** Approximately 449-458 students [3](#ref-3) [10](#ref-10)
+
+## School Ratings [10](#ref-10)
+- **Overall GreatSchools Rating:** 10/10
+- **Test Scores Rating:** 9/10
+- **College Readiness Rating:** 10/10
 
 ## Mission and Vision
 The core vision of Summit Public School: Shasta is that "every student should be equipped to lead a fulfilled life" [4](#ref-4). Its educational approach focuses on developing habits of success, providing 1:1 mentorship, and utilizing project-based learning to prepare students for success in college and life [1](#ref-1).
@@ -25,11 +30,30 @@ Summit Public School: Shasta has a total minority enrollment of 96% [3](#ref-3).
 
 The gender distribution of the student body is 52% male and 48% female [3](#ref-3). Approximately 33-34.1% of students are considered socioeconomically disadvantaged [3](#ref-3) [8](#ref-8).
 
+## Academic Opportunities & Programs
+- **Graduation Rate:** 99% [10](#ref-10)
+- **UC/CSU Entrance Requirements:** 100% of graduates meet eligibility [10](#ref-10)
+- **College Pursuit Rate:** 93% total (83% 4-year in-state, 15% 2-year) [10](#ref-10)
+- **AP Participation:** 50% [10](#ref-10)
+- **AP Course Participation:** 13% in Math, 21% in Science [11](#ref-11)
+- **AP Courses Offered (7):** [11](#ref-11)
+    - AP Calculus AB
+    - AP English Language and Composition
+    - AP English Literature and Composition
+    - AP Environmental Science
+    - AP Statistics
+    - AP U.S. Government and Politics
+    - AP U.S. History
+- **Test Score Proficiency:** [10](#ref-10)
+    - English: 75%
+    - Math: 49%
+    - Science: 40%
+
 ## Funding & Expenditures
 - **Restricted Expenditures:** $1,933 per pupil (includes federal programs like Title I) [9](#ref-9)
 - **Unrestricted Expenditures:** $14,976 per pupil [9](#ref-9)
 
-## Opportunities & Athletics
+## Athletics & Facilities
 Summit Public School: Shasta offers a variety of sports programs for both boys and girls, overseen by the [Athletic Director](contacts.md) [5](#ref-5).
 
 ### Sports Offered
@@ -53,6 +77,17 @@ Summit Public School: Shasta offers a variety of sports programs for both boys a
 The school campus is located at 905 Campus Dr, Daly City, CA 94015 [1](#ref-1) [2](#ref-2). Facilities include:
 *   **Gymnasium:** Used for indoor sports such as basketball and volleyball [2](#ref-2).
 *   The site consists of four buildings which house classrooms, administrative offices, a servery, and bathrooms [2](#ref-2).
+
+## Reviews
+- **Overall Review Rating:** 4.1 / 5 stars (based on 27 reviews) [12](#ref-12)
+- **Category Ratings:** [12](#ref-12)
+    - Family Engagement: 4.8/5
+    - Teaching: 4.8/5
+    - Social Emotional Support: 4.4/5
+    - Learning: 4.2/5
+    - Safety: 4.2/5
+    - Special Education: 4.0/5
+- **Recent Feedback Summary:** Reviews highlight caring teachers and a welcoming environment, although some notes mention that the self-directed learning style may not be ideal for every student. [12](#ref-12)
 
 ## Other Info
 - See [Contacts](contacts.md) for key personnel.
@@ -85,3 +120,12 @@ The school campus is located at 905 Campus Dr, Daly City, CA 94015 [1](#ref-1) [
 
 <a id="ref-9"></a>
 [9] : https://summitps.org/wp-content/uploads/2025/01/2024_School_Accountability_Report_Card_Summit_Public_School__Shasta_20250129.pdf
+
+<a id="ref-10"></a>
+[10] : https://www.greatschools.org/california/daly-city/31109-Summit-Public-School-Shasta/
+
+<a id="ref-11"></a>
+[11] : https://www.greatschools.org/california/daly-city/31109-Summit-Public-School-Shasta/#Courses_and_programs
+
+<a id="ref-12"></a>
+[12] : https://www.greatschools.org/california/daly-city/31109-Summit-Public-School-Shasta/#Reviews
