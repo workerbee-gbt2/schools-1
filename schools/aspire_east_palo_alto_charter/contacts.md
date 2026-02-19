@@ -20,6 +20,9 @@
   - Email: jonathan.cuevas@aspirepublicschools.org [<1>](#ref-1)
 - **Homeless/Foster Youth Liaison:** Samantha Perez [<3>](#ref-3)
 
+## Navigation
+- [School Information](information.md)
+
 ### Citations
 
 <a id="ref-1"></a>

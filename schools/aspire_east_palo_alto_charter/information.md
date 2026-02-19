@@ -2,6 +2,8 @@
 
 ## School Details
 - **Location:** East Palo Alto, CA
+- **Grades:** TK-8 [<2>](#ref-2)
+- **Network:** Part of the Aspire Public Schools network [<2>](#ref-2)
 - **Status:** Title 1 (Verify)
 - **Students:** [Approximate number]
 - **Demographics:** [Percentage low income, etc.]
@@ -12,6 +14,9 @@
 ## Other Info
 - **Address:** 1286 Runnymede St, East Palo Alto, CA 94303 [<2>](#ref-2)
 - **Phone:** (650) 463-1234 [<2>](#ref-2)
+
+## Navigation
+- [Contacts](contacts.md)
 
 ### Citations
 
