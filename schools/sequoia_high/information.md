@@ -8,19 +8,19 @@ Sequoia High School is a comprehensive public high school located in Redwood Cit
 ## School Details
 - **Address:** 1201 Brewster Ave, Redwood City, CA 94062 [1](#ref-1)
 - **Phone:** 650-367-9780 [1](#ref-1)
-- **Status:** Title I Academic Achievement Award [3](#ref-3)
-- **Student-to-Teacher Ratio:** 18:1 [8](#ref-8)
-- **Teacher Certification:** 100% of teachers are certified [8](#ref-8)
+- **Status:** Title I Academic Achievement Award [3](#ref-3), Title 1 [8](#ref-8)
+- **Student-to-Teacher Ratio:** 18:1 [9](#ref-9)
+- **Teacher Certification:** 100% of teachers are certified [9](#ref-9)
 - **Enrollment:** Approximately 1,839 students [3](#ref-3)
 
 ## Mission Statement
 "Sequoia High School will provide a stimulating and caring community that encourages respect for diversity and promotes academic and vocational excellence through creative and critical thinking as well as appreciation of the arts. A Sequoia education develops responsibility, communication skills, self-esteem and self-direction, and promotes educational success and lifelong learning for all students." [2](#ref-2)
 
 ## School Ratings
-- **Overall GreatSchools Rating:** 7/10 [8](#ref-8)
-- **Test Scores Rating:** 7/10 [8](#ref-8)
-- **College Readiness Rating:** 6/10 [8](#ref-8)
-- **Parent Review Rating:** 4.0/5 stars (based on 14 reviews) [8](#ref-8)
+- **Overall GreatSchools Rating:** 7/10 [9](#ref-9)
+- **Test Scores Rating:** 7/10 [9](#ref-9)
+- **College Readiness Rating:** 6/10 [9](#ref-9)
+- **Parent Review Rating:** 4.0/5 stars (based on 14 reviews) [9](#ref-9)
 
 ## Student Demographics (2025-2026)
 The student body is diverse, with the following ethnic breakdown [3](#ref-3):
@@ -40,7 +40,7 @@ The student body is diverse, with the following ethnic breakdown [3](#ref-3):
 ## Opportunities & Athletics
 
 ### Academic Opportunities
-Sequoia High School offers a robust International Baccalaureate (IB) program with 16 available courses, including Biology, Business Management, Environmental Systems and Societies, History, Language A: Language and Literature, Literature and Performance, Mathematics (Analysis & Approaches; Applications & Interpretation), Music, Philosophy, Physics, Psychology, Sports, Exercise and Health Science, Theory of Knowledge, and Visual Arts [9](#ref-9).
+Sequoia High School offers a robust International Baccalaureate (IB) program with 16 available courses, including Biology, Business Management, Environmental Systems and Societies, History, Language A: Language and Literature, Literature and Performance, Mathematics (Analysis & Approaches; Applications & Interpretation), Music, Philosophy, Physics, Psychology, Sports, Exercise and Health Science, Theory of Knowledge, and Visual Arts [10](#ref-10).
 
 ### Athletics Program
 Sequoia High School offers a wide variety of sports across three seasons [5](#ref-5):
@@ -61,9 +61,9 @@ The Sequoia High School campus features several dedicated athletic facilities [7
 - **Facility Rentals:** Athletic facilities can be viewed and requested for use via Facilitron [6](#ref-6).
 
 ## Parent Reviews
-- **Positive (August 2025):** A parent gave 5 stars, highlighting the excellence of the IB program, the quality of teachers, and the strong personal relationships maintained by the administration [10](#ref-10).
-- **Critical (May 2022):** A parent gave 1 star, expressing concerns regarding school safety and described the curriculum as very limited [10](#ref-10).
-- **Detailed (February 2018):** A parent gave 4 stars, noting the effectiveness of the IB program and the school's strong support for students with learning differences through 504 plans [10](#ref-10).
+- **Positive (August 2025):** A parent gave 5 stars, highlighting the excellence of the IB program, the quality of teachers, and the strong personal relationships maintained by the administration [11](#ref-11).
+- **Critical (May 2022):** A parent gave 1 star, expressing concerns regarding school safety and described the curriculum as very limited [11](#ref-11).
+- **Detailed (February 2018):** A parent gave 4 stars, noting the effectiveness of the IB program and the school's strong support for students with learning differences through 504 plans [11](#ref-11).
 
 ### Citations
 
@@ -89,10 +89,13 @@ The Sequoia High School campus features several dedicated athletic facilities [7
 [7] : https://www.sequoiahs.org/documents/About/School%20Map/Campus-Map-2022.pdf
 
 <a id="ref-8"></a>
-[8] : https://www.greatschools.org/california/redwood-city/6953-Sequoia-High-School/
+[8] : https://www.cde.ca.gov/sp/sw/t1/studentcounts.asp
 
 <a id="ref-9"></a>
-[9] : https://www.greatschools.org/california/redwood-city/6953-Sequoia-High-School/#Advanced_courses
+[9] : https://www.greatschools.org/california/redwood-city/6953-Sequoia-High-School/
 
 <a id="ref-10"></a>
-[10] : https://www.greatschools.org/california/redwood-city/6953-Sequoia-High-School/#Reviews
+[10] : https://www.greatschools.org/california/redwood-city/6953-Sequoia-High-School/#Advanced_courses
+
+<a id="ref-11"></a>
+[11] : https://www.greatschools.org/california/redwood-city/6953-Sequoia-High-School/#Reviews
