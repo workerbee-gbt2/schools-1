@@ -5,6 +5,7 @@
 ## Castlemont High School Leadership
 - **Principal:** Joseph Blasher [1](#ref-1) [5](#ref-5)
 - **Assistant Principal:** Samantha Odom [1](#ref-1)
+- **Assistant Principal:** Jen Bender [2](#ref-2)
 
 ## Administration
 - **General School Phone:** (510) 879-2301 [2](#ref-2)
