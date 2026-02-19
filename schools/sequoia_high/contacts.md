@@ -1,10 +1,13 @@
 # Sequoia High School Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletics Administration & Support
 - **Admin VP:** Sophia Olliver [1](#ref-1)
   - Email: solliver@seq.org [1](#ref-1)
 - **Athletic Director:** Melissa Schmidt [1](#ref-1) [2](#ref-2)
-  - Email: mschmidt@seq.org [1](#ref-1) [2](#ref-2)
+  - Email: mschmidt@seq.org [1](#ref-1)
+  - Phone: (650) 367-9780, ext. 63703 [3](#ref-3)
 - **Athletic Trainer:** Francisco Gallardo [1](#ref-1)
   - Email: fgallardoramirez@stanfordchildrens.org [1](#ref-1)
 
@@ -92,6 +95,13 @@
 - **JV Cheerleading:** Justin Samortin [1](#ref-1)
   - Email: shsravencheer@gmail.com [1](#ref-1)
 
+## Administration
+- **Principal:** [Name]
+  - Email: [Email]
+
+## Other Contacts
+- [Role]: [Name]
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -99,3 +109,6 @@
 
 <a id="ref-2"></a>
 [2] : https://www.maxpreps.com/ca/redwood-city/sequoia-ravens/
+
+<a id="ref-3"></a>
+[3] : https://www.sequoiahs.org/Athletics/index.html
