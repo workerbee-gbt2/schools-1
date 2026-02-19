@@ -1,14 +1,14 @@
 # James Logan High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## Mission Statement
 The mission of James Logan High School, a diverse learning community, is to equitably serve, nurture and educate every student to become an empowered, socially and culturally conscious graduate who is a responsible and productive citizen. [1](#ref-1)
 
 ## School Details
 - **Location:** 1800 H Street, Union City, CA 94587-3321 [2](#ref-2)
-- **Administrator:** Ron Polk [2](#ref-2)
-- **Phone:** (510) 471-2520 [2](#ref-2)
 - **Grade Span:** 9-12 [2](#ref-2)
-- **Status:** Title 1 (Verify) - 52.7% Socioeconomically Disadvantaged [2](#ref-2)
+- **Status:** Title 1 (Verified) - 52.7% Socioeconomically Disadvantaged [2](#ref-2)
 - **Students:** 3,096 (2024-25 Total Enrollment) [2](#ref-2)
 
 ## Student Demographics (2024-25)
