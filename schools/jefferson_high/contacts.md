@@ -1,10 +1,13 @@
 # Jefferson High School Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletic Department
-- **Athletic Director:** Rebecca Ellner [1](#ref-1)
-- **Athletic Director:** John Falabella [2](#ref-2)
-  - Email: jfalab@jeffersonunion.net [2](#ref-2)
-  - Phone: 650-550-7750 [2](#ref-2)
+- **Athletic Directors:**
+  - Rebecca Ellner [1](#ref-1)
+  - John Falabella [2](#ref-2)
+    - Email: jfalab@jeffersonunion.net [2](#ref-2)
+    - Phone: 650-550-7750 [2](#ref-2)
 
 ## Administration
 - **Principal:** [Name]
