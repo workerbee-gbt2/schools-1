@@ -1,44 +1,77 @@
 # Aspire East Palo Alto Charter Contacts
 
-- [Information](information.md)
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
 ## Athletic Department
-- **Athletic Director:** [Name]
-  - Email: [Email]
-  - Phone: [Phone]
+- **Athletic Director:** Jose Rodriguez [4](#ref-4)
+  - Email: jose.rodriguez@aspirepublicschools.org [4](#ref-4)
+  - Phone: 650-614-9100 [1](#ref-1)
+- **Volleyball Coach (Phoenix Ladies Volleyball):** Deon Taylor [4](#ref-4)
+  - Email: deon.taylor@aspirepublicschools.org [4](#ref-4)
+- **Physical Education & Athletics Support:** David Shinn [4](#ref-4)
+- **Potential Athletic/Sports Contact:** Brooke Kuhn [5](#ref-5)
+  - Email: Brooke.Kuhn@aspirepublicschools.org [5](#ref-5)
 
 ## Administration
-- **Principal:** [Name]
-  - Email: [Email]
+- **Principal:** Terry Kawi [4](#ref-4)
+  - Email: terry.kawi@aspirepublicschools.org [4](#ref-4)
+- **Assistant Principal:** David Tellez [4](#ref-4)
+  - Email: David.Tellez@aspirepublicschools.org [4](#ref-4)
+- **Special Populations Dean / Assistant Principal:** Brittany Shouse [4](#ref-4)
+  - Email: Brittany.Shouse@aspirepublicschools.org [4](#ref-4)
+- **Community School Director:** Stephen Ashford [4](#ref-4)
+  - Email: Stephen.Ashford@aspirepublicschools.org [4](#ref-4)
+- **Dean of Students:** Samantha Perez [4](#ref-4)
+  - Email: samantha.perez@aspirepublicschools.org [4](#ref-4)
+- **Expanded Learning Site Director:** Lily Rosales [4](#ref-4)
+  - Email: lily.rosales@aspirepublicschools.org [4](#ref-4)
+- **Business Manager:** Susie Estrada [4](#ref-4)
+- **Office Assistant:** Stephanie Caudillo [4](#ref-4)
+- **Program Manager of Enrollment & Special Projects:** Veronica Rivera Vega [4](#ref-4)
+  - Phone: (510) 434-5023 ext. 27504 [4](#ref-4)
+
+## Other Contacts
+- **ExL Program Manager:** Jonathan Cuevas [4](#ref-4)
+  - Email: jonathan.cuevas@aspirepublicschools.org [4](#ref-4)
+- **Homeless/Foster Youth Liaison:** Samantha Perez [4](#ref-4)
 
 ## District Leadership (Aspire Public Schools)
-- **Executive Director, Bay Area:** Javier Cabra Walteros [1](#ref-1)
-  - Email: javier.cabra@aspirepublicschools.org [1](#ref-1)
-- **Bay Area Title IX Coordinator:** [1](#ref-1)
-  - Email: BA_TitleIX@aspirepublicschools.org [1](#ref-1)
-- **Executive Director, Aspire Home Office & Foundation:** Bess Kennedy [1](#ref-1)
-  - Email: bess.kennedy@aspirepublicschools.org [1](#ref-1)
-- **Chief Financial Officer:** Michael Wimbish [1](#ref-1)
-  - Email: michael.wimbish@aspirepublicschools.org [1](#ref-1)
-- **Vice President, Strategy:** Lisa Freccero [1](#ref-1)
-  - Email: lisa.freccero@aspirepublicschools.org [1](#ref-1)
-- **General Counsel:** Dan Soleimani [1](#ref-1)
-  - Email: daniel.soleimani@aspirepublicschools.org [1](#ref-1)
+- **Executive Director, Bay Area:** Javier Cabra Walteros [2](#ref-2)
+  - Email: javier.cabra@aspirepublicschools.org [2](#ref-2)
+- **Bay Area Title IX Coordinator:** [2](#ref-2)
+  - Email: BA_TitleIX@aspirepublicschools.org [2](#ref-2)
+- **Executive Director, Aspire Home Office & Foundation:** Bess Kennedy [2](#ref-2)
+  - Email: bess.kennedy@aspirepublicschools.org [2](#ref-2)
+- **Chief Financial Officer:** Michael Wimbish [2](#ref-2)
+  - Email: michael.wimbish@aspirepublicschools.org [2](#ref-2)
+- **Vice President, Strategy:** Lisa Freccero [2](#ref-2)
+  - Email: lisa.freccero@aspirepublicschools.org [2](#ref-2)
+- **General Counsel:** Dan Soleimani [2](#ref-2)
+  - Email: daniel.soleimani@aspirepublicschools.org [2](#ref-2)
 
 ## Board of Directors
-- **Board Member:** Beth Hunkapiller [2](#ref-2)
-  - Email: bhunkapiller@aspirepublicschools.org [2](#ref-2)
-- **Board Member:** Ay'Anna Moody [2](#ref-2)
-  - Email: ayanna.moody@aspirepublicschools.org [2](#ref-2)
-- **Board Member:** Lorea Martínez [2](#ref-2)
-  - Email: lorea.martinez@aspirepublicschools.org [2](#ref-2)
-- **Board Member:** Veleta Savannah [2](#ref-2)
-  - Email: veleta.savannah@aspirepublicschools.org [2](#ref-2)
+- **Board Member:** Beth Hunkapiller [3](#ref-3)
+  - Email: bhunkapiller@aspirepublicschools.org [3](#ref-3)
+- **Board Member:** Ay'Anna Moody [3](#ref-3)
+  - Email: ayanna.moody@aspirepublicschools.org [3](#ref-3)
+- **Board Member:** Lorea Martínez [3](#ref-3)
+  - Email: lorea.martinez@aspirepublicschools.org [3](#ref-3)
+- **Board Member:** Veleta Savannah [3](#ref-3)
+  - Email: veleta.savannah@aspirepublicschools.org [3](#ref-3)
 
 ### Citations
 
 <a id="ref-1"></a>
-[1] : https://aspirepublicschools.org/discover_aspire/aspire-wide-leadership-team/
+[1] : http://www.epacs.org/contact.html
 
 <a id="ref-2"></a>
-[2] : https://aspirepublicschools.org/discover_aspire/board-of-directors/
+[2] : https://aspirepublicschools.org/discover_aspire/aspire-wide-leadership-team/
+
+<a id="ref-3"></a>
+[3] : https://aspirepublicschools.org/discover_aspire/board-of-directors/
+
+<a id="ref-4"></a>
+[4] : https://aspirepublicschools.org/locations/bay-area/aspire-east-palo-alto-charter-school/
+
+<a id="ref-5"></a>
+[5] : https://www.facebook.com/AspireEPACSEPAPA/
