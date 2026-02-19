@@ -1,14 +1,19 @@
-# Jefferson High School Information
+# Jefferson High School (Daly City, CA) Information
 
 ## School Details
-- **Location:** Daly City, CA
-- **Status:** Title 1 (Verify)
-- **Students:** [Approximate number]
-- **Demographics:** [Percentage low income, etc.]
+- **Location:** 6996 Mission Street, Daly City, CA 94014 [[1]](#ref-1)
+- **Status:** Public High School [[1]](#ref-1)
+- **Mascot:** Grizzlies [[2]](#ref-2)
+- **District:** Jefferson Union High School District (JUHSD) [[1]](#ref-1)
 
 ## Opportunities & Athletics
-- **Opportunities Rating:** [Placeholder]
-- **Athletic Resources:** [Placeholder]
+- **Athletic Website:** https://jhs.juhsd.net/athletics [[1]](#ref-1)
+- **MaxPreps:** https://www.maxpreps.com/ca/daly-city/jefferson-grizzlies/ [[2]](#ref-2)
 
-## Other Info
-- [Placeholder]
+### Citations
+
+<a id="ref-1"></a>
+[1] : https://jhs.juhsd.net/athletics
+
+<a id="ref-2"></a>
+[2] : https://www.maxpreps.com/ca/daly-city/jefferson-grizzlies/
