@@ -1,18 +1,41 @@
 # TIDE Academy Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Administration
-- **Principal:** Simone Rick-Kennel [1](#ref-1)
-- **Administrative Vice-Principal:** Carla Chavez [1](#ref-1)
-- **Secretary, School:** Rocio Chavez [1](#ref-1)
-- **Secretary, Sr. Admin:** Nichole Coy [1](#ref-1)
-- **Small School Lead Counselor:** Lara Sandora [1](#ref-1)
+- **Principal:** Simone Rick-Kennel [3](#ref-3)
+  - Phone: (650) 306-1755 x79010
+- **Administrative Vice-Principal:** Carla Chavez [3](#ref-3)
+  - Phone: (650) 306-1755 x79020
+- **Secretary, School:** Rocio Chavez [3](#ref-3)
+- **Secretary, Sr. Admin:** Nichole Coy [3](#ref-3)
+  - Phone: (650) 306-1755 x79011
+- **Small School Lead Counselor:** Lara Sandora [3](#ref-3)
 
 ## Athletic Department
-- **Athletic Director:** [Name]
-  - Email: [Email]
-  - Phone: [Phone]
+- **Athletic Director:** Hector Cornejo [1](#ref-1)
+  - Email: hcornejo@seq.org [1](#ref-1)
+  - Phone: (650) 306-1755 x79907 [2](#ref-2)
+
+## District Leadership
+TIDE Academy is part of the Sequoia Union High School District. See [District Leadership and Board of Trustees](../DISTRICTS.md#sequoia-union-high-school-district-suhsd) for district-level contacts.
+
+## Other Contacts
+- **Recruitment/Outreach:** Daphne Pacia-McCann [4](#ref-4)
+  - Email: dmccann@seq.org
+- **Guidance/Counseling:** Wendy Mosqueda [4](#ref-4)
+  - Email: wmosqueda@seq.org
 
 ### Citations
 
 <a id="ref-1"></a>
-[1] : https://www.tideacademy.org/About/Staff-Directory/index.html
+[1] : https://www.tideacademy.org/Students/Athletics/index.html
+
+<a id="ref-2"></a>
+[2] : https://www.tideacademy.org/About/Staff-Directory/
+
+<a id="ref-3"></a>
+[3] : https://www.tideacademy.org/About/Staff-Directory/index.html
+
+<a id="ref-4"></a>
+[4] : https://www.tideacademy.org/

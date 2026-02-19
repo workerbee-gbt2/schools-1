@@ -4,10 +4,11 @@
 
 ## School Details
 - **Location:** 4521 Webster Street, Oakland, CA 94609 [1](#ref-1)
-- **Status:** Title 1 Public School [1](#ref-1) [7](#ref-7)
+- **Status:** Title 1 Public School [1](#ref-1) [7](#ref-7) [9](#ref-9)
 - **Grades:** 9-12 [1](#ref-1)
-- **Students:** 270 [1](#ref-1)
-- **Student Demographics:** 100% of students are eligible for Free or Reduced-Price Meals (FRPM) [1](#ref-1)
+- **Students:** 290 [8](#ref-8); 270 [1](#ref-1)
+- **Demographics:** 100% socioeconomically disadvantaged [8](#ref-8); 96.2% English Language Learners [8](#ref-8); 99.2%-100% eligible for Free and Reduced Price Lunch program [1](#ref-1) [10](#ref-10)
+- **Funding:** Receives Local Control Funding Formula (LCFF) supplemental and concentration grants due to high percentage of unduplicated students [9](#ref-9)
 
 ## School Ratings
 - **GreatSchools Rating:** 1/10 [1](#ref-1)
@@ -66,3 +67,12 @@
 
 <a id="ref-7"></a>
 [7] : https://www.cde.ca.gov/sp/sw/t1/studentcounts.asp
+
+<a id="ref-8"></a>
+[8] : https://www6.cde.ca.gov/californiamodel/studentgroupsreport?&year=2024&cdcode=&scode=0115667&reporttype=sgroups&cdsname=
+
+<a id="ref-9"></a>
+[9] : https://alamedacountysr2s.org/wp-content/uploads/2024/11/2023-24_SR2S_Oakland-USD-Oakland-International-High.pdf
+
+<a id="ref-10"></a>
+[10] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?ID=062805012049
