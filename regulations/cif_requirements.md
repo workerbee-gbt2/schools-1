@@ -20,6 +20,14 @@ Athletes suspected of sustaining a concussion must be removed from activity and 
 Under the Eric Paredes Sudden Cardiac Arrest Prevention Act, any pupil who passes out or exhibits symptoms of sudden cardiac arrest during or after athletic activity must be cleared by a physician, nurse practitioner, or physician assistant before returning to play [4](#ref-4).
 *   **Code Section**: EDC Section 33479.5
 
+## CIF Sports Medicine Handbook Guidelines
+The CIF Sports Medicine Handbook provides additional guidelines for the Pre-Participation Physical Examination (PPE) mandated by CIF Bylaw 307 [5](#ref-5):
+*   **Annual Requirement**: Student-athletes must undergo a PPE annually before participating in tryouts, practice, or competition [5](#ref-5).
+*   **Authorized Forms**: The PPE must be completed using a form approved by the school's governing board [5](#ref-5).
+*   **Family Health History**: The examination must include a thorough family health history as part of the screening [5](#ref-5).
+*   **Authorized Practitioners**: The handbook indicates that the examination clearance should be signed by an authorized medical practitioner (MD or DO) [5](#ref-5).
+*   **Primary Objectives**: The PPE is designed to screen for life-threatening or disabling medical or musculoskeletal conditions and to meet legal and administrative requirements [5](#ref-5).
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -33,6 +41,9 @@ Under the Eric Paredes Sudden Cardiac Arrest Prevention Act, any pupil who passe
 
 <a id="ref-4"></a>
 [4] : https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=33479.5.&article=13.5.&highlight=true&keyword=athletic
+
+<a id="ref-5"></a>
+[5] : https://resources.finalsite.net/images/v1738855677/luhsdnet/ew0rhrcecrvfx8bmzxqv/CIF_sportsmedicinehandbook.pdf
 
 ## See Also
 - [Regulations Overview](OVERVIEW.md)
