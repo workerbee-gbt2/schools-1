@@ -1,5 +1,7 @@
 # KIPP Valiant Community Prep Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** East Palo Alto/Menlo Park, CA
 - **Status:** Title 1 (Verify)

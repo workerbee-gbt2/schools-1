@@ -1,5 +1,7 @@
 # KIPP Valiant Community Prep Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletic Department
 - **Athletic Director:** Christian Goudy [1](#ref-1)
   - Email: christian.goudy@kippnorcal.org [1](#ref-1)
@@ -18,9 +20,6 @@
   - Email: michelle.verrochi@kippnorcal.org [5](#ref-5)
 - **Elementary School Leader:** Karsen Matos [6](#ref-6)
   - Email: karsen.matos@kippnorcal.org [6](#ref-6)
-
-## Other Contacts
-- [Role]: [Name]
 
 ### Citations
 
