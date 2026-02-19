@@ -1,7 +1,9 @@
 # Sequoia High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
-- **Location:** Redwood City, CA
+- **Location:** Redwood City, CA [2](#ref-2)
 - **Status:** Title 1 School [1](#ref-1), [2](#ref-2)
 - **Students:** 1,903 (2023-24 school year) [1](#ref-1)
 - **Demographics:** 
