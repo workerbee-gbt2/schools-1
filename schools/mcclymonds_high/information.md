@@ -16,6 +16,7 @@ At McClymonds High School, students create and implement STEAM (Science, Technol
     - Teaching: 3.3/5
 
 ## General Information
+- **District:** Oakland Unified School District (OUSD) [5](#ref-5)
 - **Location:** 2607 Myrtle Street, Oakland, CA 94607 [7](#ref-7)
 - **Phone:** (510) 879-2303 [7](#ref-7)
 - **Fax:** (510) 627-9303 [7](#ref-7)
