@@ -1,5 +1,7 @@
 # Sequoia High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** Redwood City, CA
 - **Status:** Title 1 (Verify)
@@ -16,16 +18,15 @@ Sequoia High School offers a wide variety of sports across three seasons [2](#re
 
 Additional sports listed on MaxPreps include Baseball, Basketball, Cross Country, Football, Golf, Lacrosse, Soccer, Swimming, Tennis, Track & Field, Volleyball, Water Polo, and Wrestling [1](#ref-1).
 
+Athletic resources and programs are managed by the [Athletic Department](contacts.md).
+
 ### Athletic Facilities
 The Sequoia High School campus features several dedicated athletic facilities [4](#ref-4):
 - **Gymnasiums:** Gym 1, Gym 2, and Gym 3.
 - **Aquatics:** A swimming pool located near Gym 3.
 - **Fitness & Training:** A Weight Room and a Dance room.
-- **Outdoor Fields:** Baseball/softball field and a stadium/track area (implied by sports offered and map layout).
+- **Outdoor Fields:** Baseball/softball field and a stadium/track area.
 - **Facility Rentals:** Athletic facilities can be viewed and requested for use via Facilitron [3](#ref-3).
-
-## Other Info
-- [Placeholder]
 
 ### Citations
 
