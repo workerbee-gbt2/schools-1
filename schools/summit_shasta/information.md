@@ -4,7 +4,8 @@
 
 ## School Details
 - **Location:** 905 Campus Drive, Daly City, CA [2](#ref-2)
-- **Status:** Free public charter high school [1](#ref-1)
+- **Status:** Free public charter high school [1](#ref-1); Title I Schoolwide [6](#ref-6)
+- **Funding Status:** Directly funded charter school [7](#ref-7)
 - **Founded:** 2013 [1](#ref-1)
 - **Grades:** 9-12 [1](#ref-1)
 - **Students:** Approximately 449 students [3](#ref-3)
@@ -21,7 +22,11 @@ Summit Public School: Shasta has a total minority enrollment of 96% [3](#ref-3).
 - **Black:** 0.9% [3](#ref-3)
 - **Native Hawaiian/Pacific Islander:** 0.7% [3](#ref-3)
 
-The gender distribution of the student body is 52% male and 48% female [3](#ref-3). Approximately 33% of students are considered economically disadvantaged, with 26% participating in the free lunch program and 7% in the reduced-price lunch program [3](#ref-3).
+The gender distribution of the student body is 52% male and 48% female [3](#ref-3). Approximately 33-34.1% of students are considered socioeconomically disadvantaged [3](#ref-3) [8](#ref-8).
+
+## Funding & Expenditures
+- **Restricted Expenditures:** $1,933 per pupil (includes federal programs like Title I) [9](#ref-9)
+- **Unrestricted Expenditures:** $14,976 per pupil [9](#ref-9)
 
 ## Opportunities & Athletics
 Summit Public School: Shasta offers a variety of sports programs for both boys and girls, overseen by the [Athletic Director](contacts.md) [5](#ref-5).
@@ -50,6 +55,7 @@ The school campus is located at 905 Campus Drive, Daly City [2](#ref-2). Facilit
 
 ## Other Info
 - [Placeholder]
+- See [Contacts](contacts.md) for key personnel.
 
 ### Citations
 
@@ -67,3 +73,15 @@ The school campus is located at 905 Campus Drive, Daly City [2](#ref-2). Facilit
 
 <a id="ref-5"></a>
 [5] : https://www.maxpreps.com/ca/daly-city/summit-shasta-black-bears/
+
+<a id="ref-6"></a>
+[6] : https://www.cde.ca.gov/search/searchresults.asp?cx=001779225245372747843:gpfwm5rhxiw&q=41689240127548%20Title%20I
+
+<a id="ref-7"></a>
+[7] : https://www.cde.ca.gov/SchoolDirectory/details?cdscode=41689240127548
+
+<a id="ref-8"></a>
+[8] : https://www.caschooldashboard.org/reports/41689240127548/2024
+
+<a id="ref-9"></a>
+[9] : https://summitps.org/wp-content/uploads/2025/01/2024_School_Accountability_Report_Card_Summit_Public_School__Shasta_20250129.pdf
