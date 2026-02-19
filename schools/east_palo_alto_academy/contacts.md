@@ -6,6 +6,11 @@
 - **Phone:** (650) 839-8900 [4](#ref-4)
 - **Address:** 1050 Myrtle St, East Palo Alto, CA 94303 [4](#ref-4)
 
+## Athletic Department
+- **Athletic Director:** [Name]
+  - Email: [Email]
+  - Phone: [Phone]
+
 ## Sequoia Union High School District (SUHSD) Leadership
 - **Superintendent:** Crystal Leach [1](#ref-1)
 - **Executive Assistant to the Superintendent:** Laura Lauese [2](#ref-2)
@@ -20,6 +25,9 @@
 - **Trustee:** Dr. Maria E. Cruz [3](#ref-3)
 - **Trustee:** Sathvik Nori [3](#ref-3)
 - **Collective Board Email:** board@seq.org [3](#ref-3)
+
+## Other Contacts
+- [Role]: [Name]
 
 ### Citations
 
