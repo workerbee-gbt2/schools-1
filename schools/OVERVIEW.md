@@ -14,7 +14,7 @@ This directory contains detailed information about Title 1 and high-need schools
 - **Oakland International High School**: [Information](oakland_international/information.md) | [Contacts](oakland_international/contacts.md)
 - **San Mateo High School**: [Information](san_mateo_high/information.md) | [Contacts](san_mateo_high/contacts.md)
 - **Sequoia High School**: [Information](sequoia_high/information.md) | [Contacts](sequoia_high/contacts.md)
-- **Summit Shasta**: [Information](summit_shasta/information.md) | [Contacts](summit_shasta/contacts.md)
+- **Summit Shasta**: [Overview](summit_shasta/OVERVIEW.md) | [Information](summit_shasta/information.md) | [Contacts](summit_shasta/contacts.md)
 - **TIDE Academy** (Closing June 2026): [Information](tide_academy/information.md) | [Contacts](tide_academy/contacts.md)
 
 ## Comprehensive List of Title 1 High Schools in the SF Bay Area
@@ -50,8 +50,8 @@ Title I schools receive federal funding to support students from low-income fami
 | **Philip & Sala Burton High** [4](#ref-4) | San Francisco | San Francisco |
 | **Thurgood Marshall Academic High** [4](#ref-4) | San Francisco | San Francisco |
 | **June Jordan School for Equity** [4](#ref-4) | San Francisco | San Francisco |
-| [**Jefferson High**](jefferson_high/information.md) | Daly City | San Mateo |
-| [**Summit Public School: Shasta**](summit_shasta/information.md) | Daly City | San Mateo |
+| [**Jefferson High**](jefferson_high/OVERVIEW.md) | Daly City | San Mateo |
+| [**Summit Public School: Shasta**](summit_shasta/OVERVIEW.md) | Daly City | San Mateo |
 | **Westmoor High** | Daly City | San Mateo |
 | [**Capuchino High**](capuchino_high/information.md) | San Bruno | San Mateo |
 | **South San Francisco High** | South San Francisco | San Mateo |

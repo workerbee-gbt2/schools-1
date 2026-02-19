@@ -3,6 +3,25 @@
 ## Overview
 Details about the specific forms required for the Preparticipation Physical Evaluation (PPE) in California.
 
+## History and Purpose of the PPE
+
+### Purpose
+The primary goal of the Preparticipation Physical Evaluation (PPE) is to promote the health and safety of athletes [3](#ref-3). Key objectives include:
+- **Safety and Screening**: Identifying life-threatening conditions (such as cardiovascular risks) or injury predispositions that could make participation unsafe [3](#ref-3).
+- **Health Evaluation**: Assessing physical and psychological health, including mental health screenings [3](#ref-3).
+- **Medical Home Integration**: Ideally conducted by a primary care provider to ensure continuity of care and comprehensive medical history [4](#ref-4).
+- **Counseling and Education**: Providing health and lifestyle counseling and connecting athletes with regular medical care [3](#ref-3).
+- **Standardization**: Maintaining a consistent, evidence-based approach for middle school through college athletes [5](#ref-5).
+
+### History
+The PPE has evolved over decades from localized practices into a standardized national monograph [3](#ref-3):
+- **1976**: The American Medical Association's (AMA) Committee on Medical Aspects of Sports first recognized the importance of the PPE [6](#ref-6).
+- **1992**: Publication of the first official PPE Monograph establishing a unified standard [7](#ref-7).
+- **2010**: Release of the 4th edition reflecting updated medical evidence [8](#ref-8).
+- **2019**: Publication of the 5th (current) edition, which introduced chapters on mental health, transgender athletes, and disability screening [3](#ref-3).
+
+The PPE is developed collaboratively by major medical organizations, including the American Academy of Family Physicians (AAFP), American Academy of Pediatrics (AAP), American College of Sports Medicine (ACSM), American Medical Society for Sports Medicine (AMSSM), American Orthopaedic Society for Sports Medicine (AOSSM), and American Osteopathic Academy of Sports Medicine (AOASM) [4](#ref-4).
+
 ## California PPE Forms
 The California Interscholastic Federation (CIF) provides standardized forms for student-athletes to ensure they are medically cleared for participation in school sports [1](#ref-1).
 
@@ -39,6 +58,20 @@ To ensure student safety, this section is intended to be shared with coaches and
 - Other relevant medical information [2](#ref-2)
 - Emergency contact details [2](#ref-2)
 
+## Preparticipation Physical Evaluation (PPE) FAQs
+
+**How often is a PPE required?**
+While California (CIF) requires a physical evaluation annually (see [CIF Medical Eligibility Requirements](cif_requirements.md)) [11](#ref-11), there is no universal frequency nationally [9](#ref-9). Some states require an evaluation every 18 months or once upon entry into high school [9](#ref-9). The NFHS SMAC suggests that while a comprehensive exam may occur every 2-3 years, annual screenings for specific areas like heart, head, heat, mental health, and musculoskeletal issues are beneficial [9](#ref-9), [10](#ref-10).
+
+**When should the PPE be scheduled?**
+Ideally, the PPE should be conducted at least six weeks before the start of the sports season to allow time for any necessary follow-up evaluations or treatments [9](#ref-9).
+
+**Are PPEs from other states accepted for transfer students?**
+The NFHS SMAC encourages schools to accept documented PPEs from out-of-state transfer students, noting that variations in forms across states do not significantly impact the effectiveness of the evaluation [10](#ref-10).
+
+**What were the specific recommendations during the COVID-19 pandemic?**
+During the 2020-21 period, the NFHS SMAC recommended a one-year extension for existing PPEs that were set to expire, provided it aligned with state laws [10](#ref-10). However, new participants (such as incoming freshmen) were still required to obtain a new PPE before participating [10](#ref-10).
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -46,6 +79,33 @@ To ensure student safety, this section is intended to be shared with coaches and
 
 <a id="ref-2"></a>
 [2] : https://www.cifstate.org/sports-medicine/physical_forms/PPE_Medical-Eligibility.pdf
+
+<a id="ref-3"></a>
+[3] : https://www.aafp.org/pubs/afp/issues/2020/0601/p692.html
+
+<a id="ref-4"></a>
+[4] : https://www.aap.org/en/patient-care/preparticipation-physical-evaluation/
+
+<a id="ref-5"></a>
+[5] : https://shop.aap.org/preparticipation-physical-evaluation-5th-edition-paperback/
+
+<a id="ref-6"></a>
+[6] : https://link.springer.com/rwe/10.1007/978-3-319-14418-4_90
+
+<a id="ref-7"></a>
+[7] : https://api.pageplace.de/preview/DT0400.9781610023023_A37804890/preview-9781610023023_A37804890.pdf
+
+<a id="ref-8"></a>
+[8] : https://pubmed.ncbi.nlm.nih.gov/21658544/
+
+<a id="ref-9"></a>
+[9] : https://www.nfhs.org/stories/reviewing-value-timing-of-the-preparticipation-physical-evaluation
+
+<a id="ref-10"></a>
+[10] : https://assets.nfhs.org/umbraco/media/3812225/nfhs-smac-statement-on-ppe-and-athletic-participation-final-april-2020.pdf
+
+<a id="ref-11"></a>
+[11] : https://www.cifstate.org/governance/constitution/500_Series.pdf
 
 ## See Also
 - [Regulations Overview](OVERVIEW.md)
