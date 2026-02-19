@@ -58,6 +58,20 @@ To ensure student safety, this section is intended to be shared with coaches and
 - Other relevant medical information [2](#ref-2)
 - Emergency contact details [2](#ref-2)
 
+## Preparticipation Physical Evaluation (PPE) FAQs
+
+**How often is a PPE required?**
+While California (CIF) requires a physical evaluation annually (see [CIF Medical Eligibility Requirements](cif_requirements.md)) [11](#ref-11), there is no universal frequency nationally [9](#ref-9). Some states require an evaluation every 18 months or once upon entry into high school [9](#ref-9). The NFHS SMAC suggests that while a comprehensive exam may occur every 2-3 years, annual screenings for specific areas like heart, head, heat, mental health, and musculoskeletal issues are beneficial [9](#ref-9), [10](#ref-10).
+
+**When should the PPE be scheduled?**
+Ideally, the PPE should be conducted at least six weeks before the start of the sports season to allow time for any necessary follow-up evaluations or treatments [9](#ref-9).
+
+**Are PPEs from other states accepted for transfer students?**
+The NFHS SMAC encourages schools to accept documented PPEs from out-of-state transfer students, noting that variations in forms across states do not significantly impact the effectiveness of the evaluation [10](#ref-10).
+
+**What were the specific recommendations during the COVID-19 pandemic?**
+During the 2020-21 period, the NFHS SMAC recommended a one-year extension for existing PPEs that were set to expire, provided it aligned with state laws [10](#ref-10). However, new participants (such as incoming freshmen) were still required to obtain a new PPE before participating [10](#ref-10).
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -83,6 +97,15 @@ To ensure student safety, this section is intended to be shared with coaches and
 
 <a id="ref-8"></a>
 [8] : https://pubmed.ncbi.nlm.nih.gov/21658544/
+
+<a id="ref-9"></a>
+[9] : https://www.nfhs.org/stories/reviewing-value-timing-of-the-preparticipation-physical-evaluation
+
+<a id="ref-10"></a>
+[10] : https://assets.nfhs.org/umbraco/media/3812225/nfhs-smac-statement-on-ppe-and-athletic-participation-final-april-2020.pdf
+
+<a id="ref-11"></a>
+[11] : https://www.cifstate.org/governance/constitution/500_Series.pdf
 
 ## See Also
 - [Regulations Overview](OVERVIEW.md)
