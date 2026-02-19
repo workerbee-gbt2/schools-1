@@ -1,7 +1,7 @@
 # Sequoia High School Information
 
 ## School Overview
-Sequoia High School is a comprehensive public high school located in Redwood City, California. It was established in 1895 [3](#ref-3) and is currently a California Distinguished High School and recipient of the Title I Academic Achievement Award [3](#ref-3). The school is fully accredited and offers an authorized International Baccalaureate (IB) program [3](#ref-3).
+Sequoia High School is a comprehensive public high school located in Redwood City, California [3](#ref-3). It was established in 1895 [3](#ref-3) and is currently a California Distinguished High School and recipient of the Title I Academic Achievement Award [3](#ref-3). The school is fully accredited and offers an authorized International Baccalaureate (IB) program [3](#ref-3).
 
 - **Address:** 1201 Brewster Ave, Redwood City, CA 94062 [1](#ref-1)
 - **Phone:** 650-367-9780 [1](#ref-1)
