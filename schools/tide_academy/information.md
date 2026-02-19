@@ -1,9 +1,10 @@
 # Tide Academy Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** Menlo Park, CA
 - **Status:** Title 1 (Confirmed) [1](#ref-1)
-- **Students:** [Approximate number]
 - **Demographics:** 47.2% Socioeconomically Disadvantaged (2024-25) [4](#ref-4)
 
 ## Funding & Budget
@@ -12,10 +13,6 @@
 - **Expenditures Per Pupil (Unrestricted Sources):** $62,407 [2](#ref-2)
 - **Average Teacher Salary:** $111,221 [2](#ref-2)
 - **Capital Funding:** $50 million in Bond Measure A funds for facility construction [3](#ref-3)
-
-## Opportunities & Athletics
-- **Opportunities Rating:** [Placeholder]
-- **Athletic Resources:** [Placeholder]
 
 ## Future Status
 - **Closure:** Proposed closure in June 2026 due to ongoing budget challenges [5](#ref-5)

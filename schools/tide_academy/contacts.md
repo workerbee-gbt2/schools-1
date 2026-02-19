@@ -1,5 +1,7 @@
 # Tide Academy Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletic Department
 - **Athletic Director:** [Name]
   - Email: [Email]
