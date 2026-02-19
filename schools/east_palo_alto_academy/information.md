@@ -1,7 +1,9 @@
 # East Palo Alto Academy Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
-- **Location:** East Palo Alto, CA
+- **Location:** East Palo Alto, CA [1](#ref-1), [4](#ref-4)
 - **Status:** Title I Schoolwide School [1](#ref-1)
 - **School Type:** Charter school (Directly funded) [4](#ref-4)
 - **Students:** [Approximate number]
