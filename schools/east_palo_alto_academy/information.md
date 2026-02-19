@@ -3,10 +3,9 @@
 [Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
 
 ## School Details
-- **Location:** East Palo Alto, CA
-- **Status:** Title 1 (Verify)
-- **Students:** [Approximate number]
-- **Demographics:** [Percentage low income, etc.]
+- **Location:** 1050 Myrtle St, East Palo Alto, CA 94303 [3](#ref-3)
+- **Status:** Title 1 [3](#ref-3)
+- **Phone:** (650) 839-8900 [3](#ref-3)
 
 ## Opportunities & Athletics
 - **Opportunities Rating:** [Placeholder]
@@ -28,3 +27,6 @@
 
 <a id="ref-2"></a>
 [2] : https://www.seq.org/DEPARTMENTS/Administrative-Services/Construction/index.html
+
+<a id="ref-3"></a>
+[3] : https://www.seq.org/our-schools/#/schoolInfo/201
