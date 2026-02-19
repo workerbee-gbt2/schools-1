@@ -4,7 +4,7 @@ This directory contains information about California Interscholastic Federation 
 
 ## Documents
 - [CIF Medical Eligibility Requirements](cif_requirements.md): Details on California Education Code requirements, CIF Bylaws, and CIF Sports Medicine Handbook guidelines for student athlete physicals and medical clearances.
-- [Medical Eligibility Form Details](medical_eligibility.md): History, purpose, and specific PPE forms used for sports participation.
+- [Medical Eligibility Form Details](medical_eligibility.md): History, purpose, and detailed components of PPE forms used for sports participation.
 
 ## CIF Regulations: Sports Physicals
 Based on the CIF Constitution and Bylaws (500 Series: General Rules) and the CIF Sports Medicine Handbook, the following are key regulations for student-athletes:
