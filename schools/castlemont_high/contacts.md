@@ -1,17 +1,24 @@
-# Castlemont High School District Contacts
+# Castlemont High School Contacts
+
+[Information](information.md)
 
 ## Castlemont High School Leadership
-- **Principal:** Joseph Blasher [[1]](#ref-1)
-- **Assistant Principal:** Samantha Odom [[1]](#ref-1)
+- **Principal:** Joseph Blasher [1](#ref-1)
+- **Assistant Principal:** Samantha Odom [1](#ref-1)
+
+## Athletic Department
+- **Athletic Director:** [Name]
+  - Email: [Email]
+  - Phone: [Phone]
 
 ## OUSD District Leadership
-- **Superintendent:** Kyla Johnson-Trammell [[2]](#ref-2)
-- **Board of Education Director (District 7 - Castlemont):** Clifford Thompson [[3]](#ref-3)
-  - **Email:** clifford.thompson@ousd.org [[3]](#ref-3)
+- **Superintendent:** Kyla Johnson-Trammell [2](#ref-2)
+- **Board of Education Director (District 7 - Castlemont):** Clifford Thompson [3](#ref-3)
+  - **Email:** clifford.thompson@ousd.org [3](#ref-3)
 
 ## High School Network Contacts
-- **High School Network Superintendent:** Vanessa Sifuentes [[4]](#ref-4)
-  - **Email:** vanessa.sifuentes@ousd.org [[4]](#ref-4)
+- **High School Network Superintendent:** Vanessa Sifuentes [4](#ref-4)
+  - **Email:** vanessa.sifuentes@ousd.org [4](#ref-4)
 
 ### Citations
 
