@@ -1,5 +1,7 @@
 # McClymonds High School Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletic Department
 - **Football Coach:** Michael Peters [2](#ref-2)
   - Email: mpeters@spaat.org

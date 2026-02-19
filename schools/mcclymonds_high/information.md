@@ -1,5 +1,7 @@
 # McClymonds High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** 2607 Myrtle Street, Oakland, CA 94607 [2](#ref-2)
 - **Status:** Title 1 [1](#ref-1)
@@ -10,7 +12,7 @@
 - **Athletics:** Offers track and football, among other sports. Notable for a strong athletic legacy in West Oakland. [3](#ref-3)
 
 ## Other Info
-- McClymonds is known as the "Warriors."
+- McClymonds is known as the "Warriors." [2](#ref-2)
 - The school has a strong focus on community activism and personalized education pathways. [2](#ref-2)
 
 ### Citations
