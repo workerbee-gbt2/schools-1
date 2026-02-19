@@ -8,8 +8,12 @@ The mission of James Logan High School, a diverse learning community, is to equi
 ## School Details
 - **Location:** 1800 H Street, Union City, CA 94587-3321 [2](#ref-2)
 - **Grade Span:** 9-12 [2](#ref-2)
-- **Status:** Title 1 (Verified) - 52.7% Socioeconomically Disadvantaged [2](#ref-2)
+- **Status:** Title I School (Eligible for Schoolwide Program) [2](#ref-2) [9](#ref-9)
+- **NCES ID:** 062691004072 [10](#ref-10)
 - **Students:** 3,096 (2024-25 Total Enrollment) [2](#ref-2)
+
+## Funding Status
+James Logan High School is a Title I school and receives federal Part A funds to support the academic achievement of disadvantaged students [11](#ref-11). Eligibility for Schoolwide Title I programs generally requires an FRPM rate of 40% or higher, which the school meets with a 52.8% rate [9](#ref-9) [12](#ref-12). Specific annual dollar allocations are managed at the district level (New Haven Unified School District) [11](#ref-11).
 
 ## Student Demographics (2024-25)
 - **Hispanic or Latino:** 1,087 [2](#ref-2)
@@ -23,7 +27,7 @@ The mission of James Logan High School, a diverse learning community, is to equi
 - **None Reported:** 12 [2](#ref-2)
 
 ## Student Groups (2024-25)
-- **Socioeconomically Disadvantaged (Free/Reduced-Price Meals):** 1,634 [2](#ref-2)
+- **Socioeconomically Disadvantaged (Free/Reduced-Price Meals):** 1,634 (52.8%) [2](#ref-2) [9](#ref-9)
 - **English Learners:** 398 [2](#ref-2)
 
 ## School Ratings
@@ -82,3 +86,15 @@ James Logan High School offers the following sports programs [4](#ref-4), [5](#r
 
 <a id="ref-8"></a>
 [8] : https://www.greatschools.org/california/union-city/170-James-Logan-High-School/#Reviews
+
+<a id="ref-9"></a>
+[9] : https://dq.cde.ca.gov/dataquest/Cbeds4.asp?FreeLunch=on&cSelect=James%5ELogan%5EHigh--New%5EHaven%5EUnifi--0161242-0134668&cChoice=SchProf2&cYear=2024-25&cLevel=School&cTopic=FRPM&myTimeFrame=S&submit1=Submit
+
+<a id="ref-10"></a>
+[10] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?ID=062691004072
+
+<a id="ref-11"></a>
+[11] : https://www.cde.ca.gov/sp/sw/t1/schoolallocations.asp
+
+<a id="ref-12"></a>
+[12] : https://www.cde.ca.gov/schooldirectory/details?cdscode=01612420134668
