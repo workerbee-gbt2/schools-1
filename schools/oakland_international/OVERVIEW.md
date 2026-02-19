@@ -1,9 +1,12 @@
-# Oakland International High School
+# Oakland International High School Overview
 
-Oakland International High School is part of the Oakland Unified School District (OUSD). It specifically serves recently arrived immigrant and refugee students.
+[Back to Schools Overview](../OVERVIEW.md)
 
-## Quick Links
-- [Staff Directory and Contacts](contacts.md)
+Oakland International High School is part of the Oakland Unified School District (OUSD). It specifically serves recently arrived immigrant and refugee students [1](#ref-1).
+
+## Key Files
+- [Information](information.md)
+- [Contacts](contacts.md)
 
 ### Citations
 

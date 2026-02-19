@@ -1,5 +1,7 @@
 # Oakland International High School Contacts
 
+[Back to Oakland International Overview](OVERVIEW.md) | [View Information](information.md)
+
 ## Administration
 - **Principal:** Tom Felix [1](#ref-1)
   - Email: tom.felix@ousd.org [1](#ref-1)
