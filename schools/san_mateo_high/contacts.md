@@ -1,5 +1,7 @@
 # San Mateo High School Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletic Department
 - **Athletic Director:** [Name]
   - Email: [Email]
@@ -12,16 +14,16 @@
 ## District Contacts
 
 ### District Leadership
-- **Randall Booker**, Superintendent [[1]](#ref-1)
-- **Kirk Black, Ed.D.**, Deputy Superintendent, Human Resources and Student Services [[2]](#ref-2)
-- **Yancy Hawkins, CPA**, Associate Superintendent, Chief Business Officer [[2]](#ref-2)
-- **Julia Kempkey, Ed.D.**, Assistant Superintendent of Curriculum and Instruction [[2]](#ref-2)
+- **Randall Booker**, Superintendent [1](#ref-1)
+- **Kirk Black, Ed.D.**, Deputy Superintendent, Human Resources and Student Services [2](#ref-2)
+- **Yancy Hawkins, CPA**, Associate Superintendent, Chief Business Officer [2](#ref-2)
+- **Julia Kempkey, Ed.D.**, Assistant Superintendent of Curriculum and Instruction [2](#ref-2)
 
 ### District Office Staff
-- **Charlene Aquino**, Administrative Assistant III, Superintendent's Office [[1]](#ref-1)
-- **Laura Chalkley**, Director of Communications [[1]](#ref-1)
+- **Charlene Aquino**, Administrative Assistant III, Superintendent's Office [1](#ref-1)
+- **Laura Chalkley**, Director of Communications [1](#ref-1)
 
-### Board of Trustees [[3]](#ref-3)
+### Board of Trustees [3](#ref-3)
 - **Teri Chavez**, President (Trustee Area 1) - Email: tchavez@smuhsd.org
 - **Jennifer Jacobson**, Vice President (Trustee Area 3) - Email: jjacobson@smuhsd.org
 - **Greg Land**, Clerk (Trustee Area 2) - Email: gland@smuhsd.org
