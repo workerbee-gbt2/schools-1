@@ -1,5 +1,7 @@
 # Summit Public School: Shasta Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** Daly City, CA [2](#ref-2)
 - **Status:** Title 1 (Verify)
@@ -7,7 +9,7 @@
 - **Demographics:** [Percentage low income, etc.]
 
 ## Opportunities & Athletics
-Summit Public School: Shasta offers a variety of sports programs for both boys and girls, overseen by Athletic Director Michael Lofberg [1](#ref-1).
+Summit Public School: Shasta offers a variety of sports programs for both boys and girls, overseen by the [Athletic Director](contacts.md) [1](#ref-1).
 
 ### Sports Offered
 **Boys Sports:**
