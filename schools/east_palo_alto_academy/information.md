@@ -10,7 +10,6 @@
 - **Demographics:** 86.4% socioeconomically disadvantaged (2024 Dashboard) [2](#ref-2); 92.36% Unduplicated Pupil Percentage (2018-19) [3](#ref-3)
 
 ## Opportunities & Athletics
-- **Opportunities Rating:** [Placeholder]
 - **Athletic Resources:** The school offers several varsity sports and maintains a dedicated gymnasium facility. [5](#ref-5) [6](#ref-6)
 - **Sports Offered:**
     - **Boys:** Basketball, Soccer, Volleyball [5](#ref-5)
@@ -18,9 +17,6 @@
 - **Facilities:** Includes a gymnasium facility which has been a focus of district construction and renovation projects [6](#ref-6).
 - **Mascot:** Bulldogs [5](#ref-5)
 - **Athletic Administration:** Managed by the [Athletic Director](contacts.md).
-
-## Other Info
-- [Placeholder]
 
 ### Citations
 
