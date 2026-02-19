@@ -3,15 +3,21 @@
 [Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
 
 ## School Details
-- **Location:** East Palo Alto, CA [1](#ref-1), [4](#ref-4)
+- **Location:** 1050 Myrtle St, East Palo Alto, CA 94303 [7](#ref-7)
 - **Status:** Title I Schoolwide School [1](#ref-1)
 - **School Type:** Charter school (Directly funded) [4](#ref-4)
-- **Students:** [Approximate number]
+- **Phone:** (650) 839-8900 [7](#ref-7)
 - **Demographics:** 86.4% socioeconomically disadvantaged (2024 Dashboard) [2](#ref-2); 92.36% Unduplicated Pupil Percentage (2018-19) [3](#ref-3)
 
 ## Opportunities & Athletics
 - **Opportunities Rating:** [Placeholder]
-- **Athletic Resources:** [Placeholder]
+- **Athletic Resources:** The school offers several varsity sports and maintains a dedicated gymnasium facility. [5](#ref-5) [6](#ref-6)
+- **Sports Offered:**
+    - **Boys:** Basketball, Soccer, Volleyball [5](#ref-5)
+    - **Girls:** Basketball, Soccer, Volleyball [5](#ref-5)
+- **Facilities:** Includes a gymnasium facility which has been a focus of district construction and renovation projects [6](#ref-6).
+- **Mascot:** Bulldogs [5](#ref-5)
+- **Athletic Administration:** Managed by the [Athletic Director](contacts.md).
 
 ## Other Info
 - [Placeholder]
@@ -29,3 +35,12 @@
 
 <a id="ref-4"></a>
 [4] : https://www.cde.ca.gov/SchoolDirectory/details?cdscode=41690620126722
+
+<a id="ref-5"></a>
+[5] : https://www.maxpreps.com/ca/east-palo-alto/east-palo-alto-academy-bulldogs/
+
+<a id="ref-6"></a>
+[6] : https://www.seq.org/DEPARTMENTS/Administrative-Services/Construction/index.html
+
+<a id="ref-7"></a>
+[7] : https://www.seq.org/our-schools/#/schoolInfo/201
