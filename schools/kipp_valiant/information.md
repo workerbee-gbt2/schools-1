@@ -1,5 +1,7 @@
 # KIPP Valiant Community Prep Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** 620 Willow Rd, Menlo Park, CA 94025 [1](#ref-1)
 - **Status:** Title 1 School [5](#ref-5)
@@ -17,6 +19,7 @@
         - **Campus:** The school is located at 620 Willow Rd, which serves as the base for its community and physical activities [1](#ref-1).
 
 ## Other Info
+- **Contacts:** See [contacts.md](contacts.md) for staff details.
 - [Placeholder]
 
 ### Citations
