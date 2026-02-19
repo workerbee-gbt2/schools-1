@@ -1,10 +1,13 @@
 # Oakland International High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
-- **Location:** Oakland, CA
-- **Status:** Public School [1](#ref-1)
+- **Location:** 4521 Webster Street, Oakland, CA 94609 [1](#ref-1)
+- **Status:** Title 1 Public School [1](#ref-1)
 - **Grades:** 9-12 [1](#ref-1)
 - **Students:** 270 [1](#ref-1)
+- **Student Demographics:** 100% of students are eligible for Free or Reduced-Price Meals (FRPM) [1](#ref-1)
 
 ## School Ratings
 - **GreatSchools Rating:** 1/10 [1](#ref-1)
@@ -24,6 +27,11 @@
     - UC/CSU requirements met: 68% of students (State Average: 53%) [1](#ref-1)
     - SAT college readiness: 4% (State Average: 45%) [1](#ref-1)
 
+## Athletics & Resources
+- **Soccer Without Borders (SWB):** Flagship athletic program providing year-round soccer, academic support, and community-building for newcomer students. [4](#ref-4)
+- **Facilities:** Uses Temescal Fields (turf soccer field) behind the school, often in partnership with Oakland Technical High School. [4](#ref-4)
+- **Other Programs:** Multimedia Academy (athletic storytelling) and New Roots Program (wellness/gardening). [4](#ref-4)
+
 ## Reviews
 - **Prospective Teacher (2014):** Noted constructive teaching and collective learning environments [3](#ref-3).
 - **Volunteer (2013):** Described the school as a great institution specifically designed for recent immigrants [3](#ref-3).
@@ -39,3 +47,6 @@
 
 <a id="ref-3"></a>
 [3] : https://www.greatschools.org/california/oakland/17625-Oakland-International-High-School/#Reviews
+
+<a id="ref-4"></a>
+[4] : https://www.soccerwithoutborders.org/oakland
