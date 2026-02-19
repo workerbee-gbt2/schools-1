@@ -1,13 +1,9 @@
 # Castlemont High School Contacts
 
-## Athletic Department
-- **Athletic Director:** [Name]
-  - Email: [Email]
-  - Phone: [Phone]
-
 ## Administration
-- **Principal:** [Name]
-  - Email: [Email]
+- **Principal:** Joseph Blasher [2](#ref-2)
 
-## Other Contacts
-- [Role]: [Name]
+## Citations
+
+<a id="ref-2"></a>
+[2] : https://www.ed-data.org/school/Alameda/Oakland-Unified/Castlemont-High
