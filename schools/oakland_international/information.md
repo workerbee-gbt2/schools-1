@@ -1,6 +1,8 @@
 # Oakland International High School Information
-
-## School Details
+ 
+ [Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+ 
+ ## School Details
 - **Location:** Oakland, CA
 - **Status:** Title 1 (Verify)
 - **Students:** [Approximate number]

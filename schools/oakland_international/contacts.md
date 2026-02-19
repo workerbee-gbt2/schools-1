@@ -6,17 +6,17 @@
 Oakland International High School's athletic programs are managed through the Oakland Unified School District (OUSD) and Soccer Without Borders (SWB) [1](#ref-1), [2](#ref-2).
 
 - **Manager, Athletics & Activities (OUSD):** William Chavarin [2](#ref-2)
-  - Email: william.chavarin@OUSD.ORG
+  - Email: william.chavarin@ousd.org [2](#ref-2)
 - **Manager, Athletics & Activities (OUSD):** Lamont Robinson Jr [2](#ref-2)
-  - Email: lamont.robinson@OUSD.ORG
+  - Email: lamont.robinson@ousd.org [2](#ref-2)
 
 ## Soccer Without Borders (SWB)
 Soccer Without Borders is a primary partner for athletics at Oakland International High School [1](#ref-1).
 
 - **Director of SWB Oakland:** Ben Gucciardi [1](#ref-1)
-  - Email: ben@soccerwithoutborders.org
+  - Email: ben@soccerwithoutborders.org [1](#ref-1)
 - **Coach:** Christian Ruiz [1](#ref-1)
-  - Email: christian@soccerwithoutborders.org
+  - Email: christian@soccerwithoutborders.org [1](#ref-1)
 
 ## School Administration
 - **Principal:** [Name]
