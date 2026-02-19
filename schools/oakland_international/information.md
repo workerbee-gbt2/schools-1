@@ -10,7 +10,7 @@
 
 ## Opportunities & Athletics
 - **Opportunities Rating:** [Placeholder]
-- **Athletic Resources:** The athletics program is managed by the [Athletic Director](contacts.md). [1](#ref-1)
+- **Athletic Resources:** The athletics program is managed by the [Athletic Director](contacts.md) [1](#ref-1). Programs are heavily supported through Soccer Without Borders (SWB), which provides soccer-focused youth development and engagement [3](#ref-3).
 - **Sports Offered (Varsity):**
     - Boys Basketball [1](#ref-1)
     - Boys Soccer [1](#ref-1)
@@ -30,3 +30,6 @@
 
 <a id="ref-2"></a>
 [2] : https://oaklandinternational.ousd.org/new-page/our-soccer-field
+
+<a id="ref-3"></a>
+[3] : https://oaklandinternational.ousd.org/about-us/our-staff
