@@ -32,9 +32,22 @@
     - American Indian or Alaska Native: 0%
 
 ## Opportunities & Athletics
-- **Athletic Resources:** Sports programs (including the Phoenix Ladies Volleyball team) are managed through the **Expanded Learning Program (ExL)**, which provides after-school academic and social-emotional support. [11](#ref-11)
+- **Athletic Resources:** Aspire East Palo Alto Charter (EPACS) provides a variety of athletics and enrichment programs specifically for middle school students. [5](#ref-5) [11](#ref-11) [12](#ref-12)
 - **Advanced Placement (AP) Math Participation:** 16% (State Average: 6%) [3](#ref-3)
 - **AP Science Participation:** <1% (State Average: 7%) [3](#ref-3)
+- **Contacts:** See [contacts.md](contacts.md) for staff details.
+
+### Sports Offered
+- **Girls' Volleyball:** The school offers volleyball training for middle school students (Phoenix Ladies Volleyball team). [11](#ref-11) [12](#ref-12)
+- **Basketball:** Participation in local leagues, including the East Palo Alto/Redwood City Middle School Basketball League. [15](#ref-15)
+- **Streetsoccer:** Included as an enrichment program. [13](#ref-13)
+- **General Afterschool Sports:** Various sports clubs are offered as part of the school's enrichment program. [14](#ref-14)
+
+### Facilities
+- **Indoor Gym:** Used for middle school sports training sessions. [12](#ref-12)
+- **Garden:** Features a dedicated garden area with a specialized teacher. [13](#ref-13)
+- **Playground:** The campus includes outdoor playground areas and school grounds for physical activity. [13](#ref-13)
+- **Modular Classrooms:** The site utilizes modular structures for instruction. [13](#ref-13)
 
 ## Mission and Vision
 - **Mission:** To provide a rigorous, joyful academic experience that cultivates our scholars’ skills, talents, and gifts, such that they may pursue and persist in college or any post-secondary pathway that is authentic to their identities; Promote inclusivity and disrupt systems that have historically oppressed marginalized communities, including Black, Latino/a/x, Indigenous, and People of Color; and Nurture our scholars’ pride in their abilities, identities, and communities. [6](#ref-6)
@@ -80,4 +93,16 @@ The school has an overall rating of 4.0/5 stars based on 4 reviews. [4](#ref-4)
 [10] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?InstName=Aspire&ID=060160414051
 
 <a id="ref-11"></a>
-[11] : [Aspire Public Schools - Scholar and Family Resources](https://aspirepublicschools.org/scholar-and-family-resources/)
+[11] : https://aspirepublicschools.org/scholar-and-family-resources/
+
+<a id="ref-12"></a>
+[12] : https://www.facebook.com/epacs.aspire/posts/1589401152622646/
+
+<a id="ref-13"></a>
+[13] : https://aspirepublicschools.org/wp-content/uploads/2017/10/EPACS-EPAPA-SARC-18-19.pdf
+
+<a id="ref-14"></a>
+[14] : https://aspirepublicschools.org/wp-content/uploads/2020/05/2025-26-Aspire-Student-Family-Handbook.pdf
+
+<a id="ref-15"></a>
+[15] : https://www.google.com/search?q=Aspire+East+Palo+Alto+Charter+School+middle+school+sports+league
