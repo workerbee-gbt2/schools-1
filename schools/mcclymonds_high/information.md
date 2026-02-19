@@ -1,5 +1,7 @@
 # McClymonds High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Ratings
 - **GreatSchools Rating:** 2/10 (Below average) [1](#ref-1)
 - **Average User Rating:** 2.6 / 5 stars (based on 7 reviews) [2](#ref-2)
@@ -11,10 +13,10 @@
     - Teaching: 3.3/5
 
 ## School Details
-- **Location:** Oakland, CA
+- **Location:** Oakland, CA [1](#ref-1)
 - **Graduation Rate:** 94% [1](#ref-1)
 - **College Readiness:** 57% of students meet UC/CSU requirements [1](#ref-1)
-- **Status:** Title 1
+- **Status:** Title 1 [1](#ref-1)
 
 ## Opportunities & Athletics
 - **Advanced Placement (AP) Courses:** AP Chemistry, AP English Literature and Composition, AP U.S. Government and Politics, AP U.S. History, and AP World History: Modern [1](#ref-1)
