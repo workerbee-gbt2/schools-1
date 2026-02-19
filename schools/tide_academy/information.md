@@ -1,5 +1,7 @@
 # Tide Academy Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** Menlo Park, CA
 - **Status:** Title 1 (Verify)
