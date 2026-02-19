@@ -1,5 +1,7 @@
 # KIPP Valiant Community Prep Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletic Department
 - **Luis Lerma** - Head Coach (Basketball) [1](#ref-1)
   - Phone: (650) 678-2444 [1](#ref-1)
