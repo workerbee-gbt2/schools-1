@@ -1,7 +1,10 @@
 # Aspire East Palo Alto Charter Information
 
 ## School Details
-- **Location:** East Palo Alto, CA
+- **Location:** East Palo Alto, CA [1](#ref-1)
+- **Status:** Title 1 (Verify)
+- **Students:** [Approximate number]
+- **Demographics:** [Percentage low income, etc.]
 - **GreatSchools Rating:** 2/10 [1](#ref-1)
 - **Test Scores:** [1](#ref-1)
     - English: 15% (State Average: 49%)
@@ -18,6 +21,9 @@ The school has an overall rating of 4.0/5 stars based on 4 reviews. [3](#ref-3)
 - **Review (Feb 14, 2021):** 5/5 stars. Parent praised academics and "specials" (art, PE, music) over a 5-year period. [3](#ref-3)
 - **Review (Feb 5, 2020):** 4/5 stars. Parent stated their son loves the school. [3](#ref-3)
 - **Review (Mar 13, 2019):** Positive feedback from a staff/family member describing it as a "special place." [3](#ref-3)
+
+## Other Info
+- [Contacts](contacts.md)
 
 ### Citations
 
