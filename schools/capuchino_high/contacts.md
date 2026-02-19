@@ -19,27 +19,8 @@
   - Email: tnetane@smuhsd.org [16](#ref-16)
   - Phone: 650-558-2799 [16](#ref-16)
 
-## District Leadership (San Mateo Union High School District)
-- **Superintendent:** Randall Booker [3](#ref-3)
-- **Deputy Superintendent, Human Resources and Student Services:** Kirk Black, Ed.D. [4](#ref-4)
-- **Associate Superintendent Chief Business Officer:** Yancy Hawkins, CPA [5](#ref-5)
-- **Assistant Superintendent of Curriculum and Instruction:** Julia Kempkey, Ed.D. [6](#ref-6)
-
-## Board of Trustees
-- **President:** Teri Chavez (Trustee Area 1 - Represents Capuchino High School) [3](#ref-3)
-- **Vice President:** Jennifer Jacobson (Trustee Area 3) [3](#ref-3)
-- **Clerk:** Greg Land (Trustee Area 2) [3](#ref-3)
-- **Trustee:** Ms. Ligia Andrade Zúñiga (Trustee Area 4) [3](#ref-3)
-- **Trustee:** Robert H. Griffin (Trustee Area 5) [3](#ref-3)
-- **Board Group Email**: board@smuhsd.org [3](#ref-3)
-
-## District Departmental Contacts
-- **Student Services:** Dr. Sheliah Burnette, Director of Student Services [7](#ref-7)
-- **Special Education:** Rochelle Hooks, Ed.D., Director of Special Education Services [8](#ref-8)
-- **Communications:** Laura B. Chalkley, Director of Communications [9](#ref-9)
-- **Human Resources:** Monique Castellon, Executive Coordinator to the Deputy Superintendent [10](#ref-10)
-- **Business Services:** Christina Tang, Executive Coordinator to Business Services [5](#ref-5)
-- **Technology:** Simon Bettis, Director of Technology [11](#ref-11)
+## District Leadership
+Capuchino High School is part of the San Mateo Union High School District. See [District Leadership and Board of Trustees](../DISTRICTS.md#san-mateo-union-high-school-district-smuhsd) for district-level contacts.
 
 ## Athletic Department
 - **Athletic Director:** Jay Oca [1](#ref-1)
@@ -127,33 +108,6 @@
 
 <a id="ref-2"></a>
 [2] : https://docs.google.com/document/d/1JcH8UjcDhI5-ZPIABpqQhkoksS-Ug1GJIJDlZRgU7YU/edit?tab=t.0
-
-<a id="ref-3"></a>
-[3] : https://www.smuhsd.org/our-district/board-of-trustees/about-the-board
-
-<a id="ref-4"></a>
-[4] : https://www.smuhsd.org/our-district/superintendent/meet-the-deputy-associate-and-assistant-superintendents
-
-<a id="ref-5"></a>
-[5] : https://www.smuhsd.org/departments/business-and-operations
-
-<a id="ref-6"></a>
-[6] : https://www.smuhsd.org/departments/curriculum-and-assessment/contact-us
-
-<a id="ref-7"></a>
-[7] : https://www.smuhsd.org/departments/student-services/contact-student-services
-
-<a id="ref-8"></a>
-[8] : https://www.smuhsd.org/departments/special-education/welcome-to-special-education
-
-<a id="ref-9"></a>
-[9] : https://www.smuhsd.org/departments/communications
-
-<a id="ref-10"></a>
-[10] : https://www.smuhsd.org/departments/human-resources/contact-the-human-resources-staff
-
-<a id="ref-11"></a>
-[11] : https://www.smuhsd.org/facultystaff-directory
 
 <a id="ref-12"></a>
 [12] : https://chs.smuhsd.org/our-school/administration/principal-jose-gomez

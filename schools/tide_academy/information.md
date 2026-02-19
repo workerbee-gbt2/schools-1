@@ -2,6 +2,9 @@
 
 [Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
 
+## School Status
+- **Closure Notice:** The SUHSD Board voted on February 4, 2026, to close TIDE Academy on June 30, 2026. The program is planned to move to Woodside High School [12](#ref-12).
+
 ## School Details
 - **Location:** Menlo Park, CA [9](#ref-9)
 - **Status:** Title 1 [8](#ref-8)
@@ -74,3 +77,6 @@
 
 <a id="ref-11"></a>
 [11] : https://www.greatschools.org/california/menlo-park/32887-Tide-Academy/#Reviews
+
+<a id="ref-12"></a>
+[12] : https://www.seq.org/ABOUT-US/Superintendent/TIDE-Academy-Process-and-Plan-Information-Page/index.html

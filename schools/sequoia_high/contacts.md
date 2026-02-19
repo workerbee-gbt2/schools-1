@@ -8,6 +8,9 @@
 - **Administrative Vice-Principal (9th & 11th Grades):** Sophia Olliver [4](#ref-4) [5](#ref-5)
 - **Administrative Vice-Principal (10th & 12th Grades):** Gary Gooch [4](#ref-4) [5](#ref-5)
 
+## District Leadership
+Sequoia High School is part of the Sequoia Union High School District. See [District Leadership and Board of Trustees](../DISTRICTS.md#sequoia-union-high-school-district-suhsd) for district-level contacts.
+
 ## Athletics Administration & Support
 - **Admin VP:** Sophia Olliver [1](#ref-1)
   - Email: solliver@seq.org [1](#ref-1)
