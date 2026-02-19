@@ -1,4 +1,4 @@
-# Tide Academy Information
+# TIDE Academy Information
 
 ## School Details
 - **Location:** Menlo Park, CA
