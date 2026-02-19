@@ -17,19 +17,22 @@ At McClymonds High School, students create and implement STEAM (Science, Technol
 
 ## General Information
 - **District:** Oakland Unified School District (OUSD) [5](#ref-5)
-- **Location:** 2607 Myrtle Street, Oakland, CA 94607 [7](#ref-7)
+- **Location:** 2607 Myrtle Street, Oakland, CA 94607 [7](#ref-7) [10](#ref-10)
 - **Phone:** (510) 879-2303 [7](#ref-7)
 - **Fax:** (510) 627-9303 [7](#ref-7)
 - **Graduation Rate:** 94% [1](#ref-1)
 - **College Readiness:** 57% of students meet UC/CSU requirements [1](#ref-1)
-- **Status:** Title 1 (Schoolwide Program) [6](#ref-6) [9](#ref-9)
+- **Status:** Title I Schoolwide [6](#ref-6) [9](#ref-9) [11](#ref-11)
 - **Grades:** 9-12 [9](#ref-9)
 - **Principal:** Darielle Davis (McClymonds Class of 2007) [8](#ref-8)
 
 ## Student Demographics [9](#ref-9)
-- **Total Enrollment:** 265 students [9](#ref-9)
+- **Total Enrollment:** 265 students [9](#ref-9) [10](#ref-10)
 - **Gender:** 42% Female, 58% Male [9](#ref-9)
-- **Socioeconomically Disadvantaged:** 95% (87% Free Lunch, 8% Reduced-Price Lunch) [9](#ref-9)
+- **Socioeconomically Disadvantaged:** 95% (87% Free Lunch, 8% Reduced-Price Lunch) [9](#ref-9); 94.7% Socioeconomically Disadvantaged [11](#ref-11); 94.7% Free & Reduced Price Meals (FRPM) rate [12](#ref-12)
+
+## Funding Status
+McClymonds High School is a Title I school. With a Free & Reduced Price Meals (FRPM) rate of 94.7% for the 2023-24 school year, the school exceeds the 75% threshold generally required for Title I Schoolwide program funding eligibility [12](#ref-12).
 
 ### Enrollment by Ethnicity [9](#ref-9)
 - **Black:** 71.7% [9](#ref-9)
@@ -98,3 +101,12 @@ Recent feedback from 2025 indicates concerns regarding significant teacher turno
 
 <a id="ref-9"></a>
 [9] : https://www.usnews.com/education/best-high-schools/california/districts/oakland-unified-school-district/mcclymonds-high-school-2912
+
+<a id="ref-10"></a>
+[10] : https://www.cde.ca.gov/sdprofile/details.aspx?cds=01612590110189
+
+<a id="ref-11"></a>
+[11] : https://www.caschooldashboard.org/reports/01612590110189/2024
+
+<a id="ref-12"></a>
+[12] : https://dq.cde.ca.gov/dataquest/Cbeds4.asp?FreeLunch=on&cSelect=McClymonds%5EHigh--Oakland%5EUnified--0161259-0110189&cChoice=SchProf2&cYear=2023-24&cLevel=School&cTopic=FRPM&myTimeFrame=S&submit1=Submit

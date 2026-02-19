@@ -9,6 +9,11 @@
 - **Dean of Expeditions:** Eric Gross [1](#ref-1)
 - **Special Projects Manager:** Stelle Chavez [1](#ref-1)
 
+## Athletic Department
+- **Athletic Director:** Jorge Chevez [1](#ref-1)
+  - Email: jchevez@summitps.org [1](#ref-1)
+  - Phone: [Phone]
+
 ## District (Network) Leadership
 - **Chief Executive Officer:** Cady Ching [2](#ref-2)
 - **Chief Finance Officer:** Bryce Fleming [2](#ref-2)
