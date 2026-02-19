@@ -26,14 +26,16 @@ Title I schools receive federal funding to support students from low-income fami
 | :--- | :--- | :--- |
 | **Oakland High** | Oakland | Alameda |
 | **Oakland Technical High** | Oakland | Alameda |
-| **Castlemont High** | Oakland | Alameda |
-| **McClymonds High** | Oakland | Alameda |
+| [**Castlemont High**](castlemont_high/information.md) | Oakland | Alameda |
+| [**McClymonds High**](mcclymonds_high/information.md) | Oakland | Alameda |
+| [**Oakland International High**](oakland_international/information.md) | Oakland | Alameda |
 | **Fremont High** | Oakland | Alameda |
 | **Skyline High** | Oakland | Alameda |
 | **Hayward High** | Hayward | Alameda |
 | **Tennyson High** | Hayward | Alameda |
 | **Mt. Eden High** | Hayward | Alameda |
 | **San Leandro High** | San Leandro | Alameda |
+| [**James Logan High**](james_logan_high/information.md) | Union City | Alameda |
 | **Richmond High** | Richmond | Contra Costa |
 | **Kennedy High** | Richmond | Contra Costa |
 | **De Anza High** | El Sobrante | Contra Costa |
@@ -42,17 +44,21 @@ Title I schools receive federal funding to support students from low-income fami
 | **Deer Valley High** | Antioch | Contra Costa |
 | **San Rafael High** | San Rafael | Marin |
 | **American Canyon High** | American Canyon | Napa |
-| **Mission High** | San Francisco | San Francisco |
-| **Balboa High** | San Francisco | San Francisco |
-| **John O'Connell High** | San Francisco | San Francisco |
-| **Philip & Sala Burton High** | San Francisco | San Francisco |
-| **Thurgood Marshall Academic High**| San Francisco | San Francisco |
-| **June Jordan School for Equity** | San Francisco | San Francisco |
-| **Jefferson High** | Daly City | San Mateo |
+| **Mission High** [4](#ref-4) | San Francisco | San Francisco |
+| **Balboa High** [4](#ref-4) | San Francisco | San Francisco |
+| **John O'Connell High** [4](#ref-4) | San Francisco | San Francisco |
+| **Philip & Sala Burton High** [4](#ref-4) | San Francisco | San Francisco |
+| **Thurgood Marshall Academic High** [4](#ref-4) | San Francisco | San Francisco |
+| **June Jordan School for Equity** [4](#ref-4) | San Francisco | San Francisco |
+| [**Jefferson High**](jefferson_high/information.md) | Daly City | San Mateo |
+| [**Summit Public School: Shasta**](summit_shasta/information.md) | Daly City | San Mateo |
 | **Westmoor High** | Daly City | San Mateo |
+| [**Capuchino High**](capuchino_high/information.md) | San Bruno | San Mateo |
 | **South San Francisco High** | South San Francisco | San Mateo |
-| **Sequoia High** | Redwood City | San Mateo |
-| **East Palo Alto Academy** | East Palo Alto | San Mateo |
+| [**San Mateo High**](san_mateo_high/information.md) | San Mateo | San Mateo |
+| [**Sequoia High**](sequoia_high/information.md) | Redwood City | San Mateo |
+| [**Tide Academy**](tide_academy/information.md) | Menlo Park | San Mateo |
+| [**East Palo Alto Academy**](east_palo_alto_academy/information.md) | East Palo Alto | San Mateo |
 | **Overfelt (William C.) High** | San Jose | Santa Clara |
 | **Andrew P. Hill High** | San Jose | Santa Clara |
 | **Yerba Buena High** | San Jose | Santa Clara |
