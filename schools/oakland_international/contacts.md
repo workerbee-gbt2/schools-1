@@ -3,6 +3,8 @@
 [Back to Oakland International Overview](OVERVIEW.md) | [View Information](information.md)
 
 ## Athletic Department
+- **Athletic Contact:** Ronan Gillespie (PE Teacher & Coach) [1](#ref-1)
+  - Email: ronan.gillespie@ousd.org [1](#ref-1)
 - **Athletic Director:** Erin Posbergh [1](#ref-1)
   - Email: [Email]
   - Phone: [Phone]
@@ -24,8 +26,9 @@ Soccer Without Borders is a primary partner for athletics at Oakland Internation
   - Email: christian@soccerwithoutborders.org [2](#ref-2)
 
 ## Administration
-- **Principal:** Tom Felix [2](#ref-2)
-  - Email: tom.felix@ousd.org [2](#ref-2)
+- **Principal:** Tom Felix [1](#ref-1) [2](#ref-2)
+  - Email: tom.felix@ousd.org [1](#ref-1) [2](#ref-2)
+  - Phone: (510) 879-1353 [1](#ref-1)
 - **Assistant Principal:** Irene Kim [2](#ref-2)
   - Email: irene.kim@ousd.org [2](#ref-2)
 
@@ -38,6 +41,9 @@ Soccer Without Borders is a primary partner for athletics at Oakland Internation
   - Email: kajal@reftrans.org [2](#ref-2)
 - **Case Manager:** Karen Carranza Moya [2](#ref-2)
   - Email: karen.carranzamoya@ousd.org [2](#ref-2)
+
+## Other Contacts
+- **Address:** 4521 Webster Street, Oakland, CA 94609 [1](#ref-1)
 
 ### Citations
 
