@@ -1,10 +1,10 @@
 # Summit Public School: Shasta Contacts
-
+ 
 [Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
-
-## Athletic Department
-- **Athletic Director:** Michael Lofberg [1](#ref-1)
-  - Email: [Email]
+ 
+ ## Athletic Department
+- **Athletic Director:** Jorge Chevez [1](#ref-1)
+  - Email: jchevez@summitps.org [1](#ref-1)
   - Phone: [Phone]
 
 ## Administration
@@ -17,4 +17,4 @@
 ### Citations
 
 <a id="ref-1"></a>
-[1] : https://www.maxpreps.com/ca/daly-city/summit-shasta-black-bears/
+[1] : https://summitps.org/our-schools/summit-shasta-daly-city/contact-summit-shasta/
