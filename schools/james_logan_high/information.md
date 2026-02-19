@@ -1,5 +1,7 @@
 # James Logan High School Information
 
+[Contacts](contacts.md)
+
 ## School Details
 - **Location:** Union City, CA
 - **Status:** Title 1 (Verify)

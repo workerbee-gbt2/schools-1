@@ -1,18 +1,23 @@
 # Capuchino High School Contacts
 
-[School Information](information.md)
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
 ## School Administration
 - **Principal:** Jose A. Gomez [12](#ref-12)
   - Email: jagomez@smuhsd.org [12](#ref-12)
   - Phone: 650-558-2700 [12](#ref-12)
-
-## Athletic Department
-- **Athletic Director:** Jay Oca [1](#ref-1)
-  - Email: goca@smuhsd.org [1](#ref-1)
-  - Phone: 650-558-2799 [1](#ref-1)
-- **Athletic Trainer:** Kris Rocha [1](#ref-1)
-  - Email: krocha@smuhsd.org [1](#ref-1)
+- **Assistant Principal:** Mauricio Rodriguez [13](#ref-13)
+  - Email: mdrodriguez@smuhsd.org [13](#ref-13)
+  - Phone: 650-558-2706 [13](#ref-13)
+- **Assistant Principal:** Michalis Gordon [14](#ref-14)
+  - Email: mgordon@smuhsd.org [14](#ref-14)
+  - Phone: 650-558-2799 or 650-558-2752 [14](#ref-14)
+- **Assistant Principal:** Deyango Harris [15](#ref-15)
+  - Email: dharris@smuhsd.org [15](#ref-15)
+  - Phone: 650-558-2799 or 650-558-2752 [15](#ref-15)
+- **Dean of Students:** Tim Netane [16](#ref-16)
+  - Email: tnetane@smuhsd.org [16](#ref-16)
+  - Phone: 650-558-2799 [16](#ref-16)
 
 ## District Leadership (San Mateo Union High School District)
 - **Superintendent:** Randall Booker [3](#ref-3)
@@ -35,6 +40,13 @@
 - **Human Resources:** Monique Castellon, Executive Coordinator to the Deputy Superintendent [10](#ref-10)
 - **Business Services:** Christina Tang, Executive Coordinator to Business Services [5](#ref-5)
 - **Technology:** Simon Bettis, Director of Technology [11](#ref-11)
+
+## Athletic Department
+- **Athletic Director:** Jay Oca [1](#ref-1)
+  - Email: goca@smuhsd.org [1](#ref-1)
+  - Phone: 650-558-2799 [1](#ref-1)
+- **Athletic Trainer:** Kris Rocha [1](#ref-1)
+  - Email: krocha@smuhsd.org [1](#ref-1)
 
 ## Fall Sports Coaches
 - **Varsity Spirit Squad:** Alana Tipton [2](#ref-2)
@@ -145,3 +157,15 @@
 
 <a id="ref-12"></a>
 [12] : https://chs.smuhsd.org/our-school/administration/principal-jose-gomez
+
+<a id="ref-13"></a>
+[13] : https://chs.smuhsd.org/our-school/administration/assistant-principal-mauricio-rodriguez
+
+<a id="ref-14"></a>
+[14] : https://chs.smuhsd.org/our-school/administration/assistant-principal-michalis-gordon
+
+<a id="ref-15"></a>
+[15] : https://chs.smuhsd.org/our-school/administration/assistant-principal-deyango-harris
+
+<a id="ref-16"></a>
+[16] : https://chs.smuhsd.org/our-school/staff-directory?utf8=%E2%9C%93&const_search_group_ids=216&const_search_role_ids=1&const_search_keyword=&const_search_first_name=&const_search_last_name=Netane
