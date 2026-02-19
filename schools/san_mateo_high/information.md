@@ -6,6 +6,7 @@
 - **Location:** 506 North Delaware Street, San Mateo, CA 94401 [5](#ref-5)
 - **School District:** San Mateo Union High School District (SMUHSD) [5](#ref-5)
 - **Status:** Title 1 [4](#ref-4)
+- **Principal:** Yvonne Shiu [7](#ref-7)
 - **Enrollment:** Approximately 1,560 students (Grades 9-12) [5](#ref-5)
 - **Graduation Rate:** 91% [1](#ref-1)
 - **UC/CSU Requirements Met:** 60% [1](#ref-1)
@@ -67,3 +68,6 @@ The ethnic distribution of the student body is as follows: [5](#ref-5)
 
 <a id="ref-6"></a>
 [6] : https://smhs.smuhsd.org/our-school/about-us/mission-and-vision-statements
+
+<a id="ref-7"></a>
+[7] : https://smhs.smuhsd.org/our-school/administration/welcome-from-the-san-mateo-high-school-administrative-team
