@@ -1,9 +1,13 @@
 # McClymonds High School Contacts
+ 
+ [Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+ 
+ ## Athletic Department
+-- **Athletic Director:** Humphrey Gerrett [1](#ref-1)
++- **Athletic Director:** Humphrey Garrett [1](#ref-1)
+   - Email: humphrey.garrettsr@ousd.org [2](#ref-2)
+   - Phone: (510) 879-2303 [2](#ref-2)
 
-## Athletic Department
-- **Athletic Director:** Humphrey Gerrett [1](#ref-1)
-  - Email: humphrey.garrettsr@ousd.org [2](#ref-2)
-  - Phone: (510) 879-2303 [2](#ref-2)
 
 ## Administration
 - **Principal:** [Name]
