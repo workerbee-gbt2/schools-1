@@ -1,5 +1,7 @@
 # East Palo Alto Academy Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** 1050 Myrtle Street, East Palo Alto, CA 94303 [1](#ref-1)
 - **Status:** Title 1 [1](#ref-1)
