@@ -24,7 +24,7 @@ The primary goals of the PPE are to determine the general physical and psycholog
 It is considered best practice for the PPE to be performed in the athlete's "medical home" (their primary care provider's office) rather than through mass school screenings or urgent care centers [2](#ref-2). This ensures a more thorough review of medical history and continuity of care [2](#ref-2).
 
 **How often is a PPE required?**
-There is no universal frequency; requirements vary by state [2](#ref-2). Some states require an evaluation annually, while others require it every 18 months or once upon entry into high school [2](#ref-2). The NFHS SMAC suggests that while a comprehensive exam may occur every 2-3 years, annual screenings for specific areas like heart, head, heat, mental health, and musculoskeletal issues are beneficial [2](#ref-2), [3](#ref-3).
+While California (CIF) requires a physical evaluation annually (see [CIF Medical Eligibility Requirements](cif_requirements.md)) [4](#ref-4), there is no universal frequency nationally [2](#ref-2). Some states require an evaluation every 18 months or once upon entry into high school [2](#ref-2). The NFHS SMAC suggests that while a comprehensive exam may occur every 2-3 years, annual screenings for specific areas like heart, head, heat, mental health, and musculoskeletal issues are beneficial [2](#ref-2), [3](#ref-3).
 
 **When should the PPE be scheduled?**
 Ideally, the PPE should be conducted at least six weeks before the start of the sports season to allow time for any necessary follow-up evaluations or treatments [2](#ref-2).
@@ -45,6 +45,9 @@ During the 2020-21 period, the NFHS SMAC recommended a one-year extension for ex
 
 <a id="ref-3"></a>
 [3] : https://assets.nfhs.org/umbraco/media/3812225/nfhs-smac-statement-on-ppe-and-athletic-participation-final-april-2020.pdf
+
+<a id="ref-4"></a>
+[4] : https://www.cifstate.org/governance/constitution/500_Series.pdf
 
 ## See Also
 - [Regulations Overview](OVERVIEW.md)
