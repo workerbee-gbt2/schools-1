@@ -8,9 +8,31 @@
 - **School Type:** Charter school (Directly funded) [4](#ref-4)
 - **Phone:** (650) 839-8900 [7](#ref-7)
 - **Demographics:** 86.4% socioeconomically disadvantaged (2024 Dashboard) [2](#ref-2); 92.36% Unduplicated Pupil Percentage (2018-19) [3](#ref-3)
+- **GreatSchools Rating:** 3/10 [8](#ref-8)
+- **Test Scores Rating:** 3/10 [8](#ref-8)
+- **College Readiness Rating:** 2/10 [8](#ref-8)
 
-## Opportunities & Athletics
-- **Opportunities Rating:** [Placeholder]
+## Academic Performance
+- **English Proficiency:** 39% [9](#ref-9)
+- **Math Proficiency:** 4% [9](#ref-9)
+- **Science Proficiency:** 9% [9](#ref-9)
+
+## Opportunities
+### Advanced Courses
+- **AP Math participation:** 5% [9](#ref-9)
+- **AP Science participation:** <1% [9](#ref-9)
+- **Available AP Courses:** [10](#ref-10)
+    - AP 2-D Art and Design
+    - AP Spanish Language and Culture
+    - AP Spanish Literature and Culture
+
+### Arts & Programs
+- **Art:** Design, Drawing/Sketching, Graphics, Painting, Photography, Printmaking, Technical design and production [10](#ref-10)
+- **Music:** Instrumental music lessons [10](#ref-10)
+- **Performance Arts:** Creative writing, Drama, Poetry [10](#ref-10)
+- **World Language:** Spanish [10](#ref-10)
+
+## Athletics
 - **Athletic Resources:** The school offers several varsity sports and maintains a dedicated gymnasium facility. [5](#ref-5) [6](#ref-6)
 - **Sports Offered:**
     - **Boys:** Basketball, Soccer, Volleyball [5](#ref-5)
@@ -19,8 +41,10 @@
 - **Mascot:** Bulldogs [5](#ref-5)
 - **Athletic Administration:** Managed by the [Athletic Director](contacts.md).
 
-## Other Info
-- [Placeholder]
+## Reviews
+The school has an average rating of 4.0/5 stars based on 5 reviews [11](#ref-11).
+- **Positive feedback:** Reviews highlight dynamic teachers, strong leadership, restorative justice programs, dedicated staff, and a commitment to equity and social justice [11](#ref-11).
+- **Negative feedback:** Some feedback notes concerns regarding new teachers and perceived lack of staff care [11](#ref-11).
 
 ### Citations
 
@@ -44,3 +68,15 @@
 
 <a id="ref-7"></a>
 [7] : https://www.seq.org/our-schools/#/schoolInfo/201
+
+<a id="ref-8"></a>
+[8] : https://www.greatschools.org/california/east-palo-alto/27100-East-Palo-Alto-Academy/
+
+<a id="ref-9"></a>
+[9] : https://www.greatschools.org/california/east-palo-alto/27100-East-Palo-Alto-Academy/#Advanced_courses
+
+<a id="ref-10"></a>
+[10] : https://www.greatschools.org/california/east-palo-alto/27100-East-Palo-Alto-Academy/#Courses_and_programs
+
+<a id="ref-11"></a>
+[11] : https://www.greatschools.org/california/east-palo-alto/27100-East-Palo-Alto-Academy/#Reviews
