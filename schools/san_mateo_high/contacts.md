@@ -71,6 +71,25 @@
 - **Assistant Principal:** Lauren Ponti [3](#ref-3)
 - **Dean of Students:** Michelle Torres [3](#ref-3)
 
+## District Contacts
+
+### District Leadership
+- **Randall Booker**, Superintendent [4](#ref-4)
+- **Kirk Black, Ed.D.**, Deputy Superintendent, Human Resources and Student Services [5](#ref-5)
+- **Yancy Hawkins, CPA**, Associate Superintendent, Chief Business Officer [5](#ref-5)
+- **Julia Kempkey, Ed.D.**, Assistant Superintendent of Curriculum and Instruction [5](#ref-5)
+
+### District Office Staff
+- **Charlene Aquino**, Administrative Assistant III, Superintendent's Office [4](#ref-4)
+- **Laura Chalkley**, Director of Communications [4](#ref-4)
+
+### Board of Trustees [6](#ref-6)
+- **Teri Chavez**, President (Trustee Area 1) - Email: tchavez@smuhsd.org
+- **Jennifer Jacobson**, Vice President (Trustee Area 3) - Email: jjacobson@smuhsd.org
+- **Greg Land**, Clerk (Trustee Area 2) - Email: gland@smuhsd.org
+- **Ligia Andrade Zúñiga**, Trustee (Trustee Area 4) - Email: landradezuniga@smuhsd.org
+- **Robert H. Griffin**, Trustee (Trustee Area 5)
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -81,3 +100,12 @@
 
 <a id="ref-3"></a>
 [3] : https://smhs.smuhsd.org/our-school/administration/welcome-from-the-san-mateo-high-school-administrative-team
+
+<a id="ref-4"></a>
+[4] : https://www.smuhsd.org/our-district/superintendent/contact-the-superintendents-office
+
+<a id="ref-5"></a>
+[5] : https://www.smuhsd.org/our-district/superintendent/meet-the-deputy-associate-and-assistant-superintendents
+
+<a id="ref-6"></a>
+[6] : https://www.smuhsd.org/our-district/board-of-trustees/about-the-board
