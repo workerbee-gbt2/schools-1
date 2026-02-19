@@ -12,6 +12,7 @@
 
 ## Athletic Department
 - **Athletic Directors:** Phylisha Nelson and Traivon Soto Johnson [4](#ref-4)
+  - **Phylisha Nelson Email:** phylisha.nelson@ousd.org [2](#ref-2)
 - **Head Football Coach:** Edward Washington [2](#ref-2)
   - Email: edward.washington@ousd.org [2](#ref-2)
 - **Pathway Coach:** Marvin Boomer [2](#ref-2)

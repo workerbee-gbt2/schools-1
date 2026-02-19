@@ -3,9 +3,9 @@
 [Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
 ## Athletic Department
-- **Athletic Director:** Eli Bagaoisan [3](#ref-3)
-  - Email: [Email]
-  - Phone: [Phone]
+- **Athletic Director:** Eli Bagaoisan [1](#ref-1)
+  - Email: ebagaoisan@nhusd.k12.ca.us [1](#ref-1)
+  - Phone: 510-471-2520, EXT 60389 [1](#ref-1)
 
 ## Administration
 - **Principal:** [Name]
@@ -16,5 +16,5 @@
 
 ### Citations
 
-<a id="ref-3"></a>
-[3] : https://www.maxpreps.com/ca/union-city/james-logan-colts/
+<a id="ref-1"></a>
+[1] : https://sites.google.com/nhusd.k12.ca.us/loganathletics/athletic-staff-directory
