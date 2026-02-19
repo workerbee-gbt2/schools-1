@@ -26,6 +26,3 @@ Based on the CIF Constitution and Bylaws (500 Series: General Rules) and the CIF
 
 <a id="ref-3"></a>
 [3] : https://resources.finalsite.net/images/v1738855677/luhsdnet/ew0rhrcecrvfx8bmzxqv/CIF_sportsmedicinehandbook.pdf
-
-## Contributors
-- Research on PPE History and Purpose by [OpenCode Agent](https://github.com/google-gemini/opencode)
