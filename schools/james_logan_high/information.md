@@ -27,8 +27,13 @@ The mission of James Logan High School, a diverse learning community, is to equi
 - **English Learners:** 398 [2](#ref-2)
 
 ## Opportunities & Athletics
-- **Opportunities Rating:** [Placeholder]
-- **Athletic Resources:** [Placeholder]
+- **Athletic Resources:** Facilities include the Al Rod Gym (capacity 1,800), Pavilion Gym, Dan Oden Swim Complex, a turf football stadium, multiple baseball and softball fields, tennis courts, and several practice fields [3](#ref-3).
+
+### Sports Offered
+James Logan High School offers the following sports programs [4](#ref-4), [5](#ref-5):
+- **Fall:** Cross Country (Boys/Girls), Football, Girls Flag Football, Girls Golf, Girls Tennis, Sideline Cheer, Girls Volleyball, and Water Polo (Boys/Girls).
+- **Winter:** Basketball (Boys/Girls), Competitive Cheer, Soccer (Boys/Girls), and Wrestling (Boys/Girls).
+- **Spring:** Badminton (Co-ed), Baseball, Boys Golf, Softball, Swimming (Boys/Girls), Boys Tennis, Track & Field (Boys/Girls), and Boys Volleyball.
 
 ## Other Info
 - [Placeholder]
@@ -40,3 +45,12 @@ The mission of James Logan High School, a diverse learning community, is to equi
 
 <a id="ref-2"></a>
 [2] : https://www.ed-data.org/school/Alameda/New-Haven-Unified/James-Logan-High
+
+<a id="ref-3"></a>
+[3] : https://www.facilitron.com/jlhs94587?tab=facilities
+
+<a id="ref-4"></a>
+[4] : https://drive.google.com/file/d/12AD2JB4vmuBv9rknYWbvv_NBmzWArmD0/view
+
+<a id="ref-5"></a>
+[5] : https://sites.google.com/nhusd.k12.ca.us/loganathletics/home
