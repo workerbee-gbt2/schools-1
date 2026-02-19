@@ -4,8 +4,6 @@
 
 ## Athletic Department
 - **Athletic Directors:** Phylisha Nelson and Traivon Soto Johnson [1](#ref-1)
-  - Email: [Email]
-  - Phone: [Phone]
 
 ## Administration
 - **Principal:** Joseph Blasher [2](#ref-2)
