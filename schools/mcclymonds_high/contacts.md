@@ -1,9 +1,9 @@
 # McClymonds High School Contacts
 
 ## Athletic Department
-- **Athletic Director:** [Name]
-  - Email: [Email]
-  - Phone: [Phone]
+- **Athletic Director:** Humphrey Gerrett [1](#ref-1)
+  - Email: humphrey.garrettsr@ousd.org [2](#ref-2)
+  - Phone: (510) 879-2303 [2](#ref-2)
 
 ## Administration
 - **Principal:** [Name]
@@ -11,3 +11,11 @@
 
 ## Other Contacts
 - [Role]: [Name]
+
+### Citations
+
+<a id="ref-1"></a>
+[1] : https://www.ousd.org/oakland-athletic-league/schools
+
+<a id="ref-2"></a>
+[2] : https://mcclymonds.ousd.org/about-us/our-staff
