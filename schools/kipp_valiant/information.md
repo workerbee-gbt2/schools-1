@@ -7,6 +7,7 @@
 - **Grades:** TK-8 [5](#ref-5)
 - **Type:** Public Charter (KIPP Network) [6](#ref-6)
 - **Status:** Title 1 [6](#ref-6)
+- **District:** Ravenswood City School District [8](#ref-8)
 - **Mascot:** Huskies [2](#ref-2)
 
 ## Ratings
@@ -60,3 +61,6 @@
 
 <a id="ref-7"></a>
 [7] : https://www.greatschools.org/california/east-palo-alto/32723-KIPP-Valiant-Community-Prep/#Reviews
+
+<a id="ref-8"></a>
+[8] : https://drive.google.com/file/d/1QNhlZt8_0629yERIl2JD4kRL2aqnOzsW/view
