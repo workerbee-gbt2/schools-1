@@ -1,6 +1,8 @@
 # Summit Public School: Shasta Contacts
-
-## Athletic Department
+ 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+ 
+ ## Athletic Department
 - **Athletic Director:** Jorge Chevez [1](#ref-1)
   - Email: jchevez@summitps.org [1](#ref-1)
   - Phone: [Phone]
