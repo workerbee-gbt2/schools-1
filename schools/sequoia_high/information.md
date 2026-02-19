@@ -1,5 +1,7 @@
 # Sequoia High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** Redwood City, CA
 - **Status:** Title 1 (Verify)
