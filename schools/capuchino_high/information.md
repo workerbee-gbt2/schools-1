@@ -24,9 +24,24 @@ Additional student data for the 2025-2026 school year: [3](#ref-3)
 - **Multilingual Learners:** 13%
 - **Receive Special Education Services:** 12%
 
-## Opportunities & Athletics
+## Academics & Opportunities
+- **Opportunities Rating:** 7/10 [7](#ref-7)
+- **AP Courses:** AP Physics 1 [8](#ref-8)
+- **Academic Programs:** Gifted and Talented Program [8](#ref-8)
+- **International Baccalaureate (IB) Courses:** 14 courses including Biology, Dance, Diploma Programme, Environmental Systems and Societies, Film, History, Language A, Math, Music, Psychology, Social and Cultural Anthropology, Sports/Exercise/Health Science, Theory of Knowledge, and Visual Arts. [8](#ref-8)
 
-### Athletics Program
+## Ratings & Reviews
+- **GreatSchools Rating:** 7/10 [7](#ref-7)
+- **Review Rating:** 3.9/5 stars (based on 15 reviews) [9](#ref-9)
+- **Category Ratings:** [9](#ref-9)
+  - Family Engagement: 4.3/5
+  - Learning: 4.3/5
+  - Safety: 4.8/5
+  - Social Emotional Support: 4.5/5
+  - Special Education: 5.0/5
+  - Teaching: 4.0/5
+
+## Athletics
 Capuchino High School offers a variety of sports across three seasons: [4](#ref-4)
 - **Fall:** Football, Girls Volleyball, Cross Country, Girls Tennis, Girls Golf, Water Polo, Spirit Squad (Cheer/Dance).
 - **Winter:** Boys and Girls Basketball, Boys and Girls Soccer, Wrestling.
@@ -60,3 +75,12 @@ The school features a modernized athletic complex including:
 
 <a id="ref-6"></a>
 [6] : https://app.nextlevelsports.com/facilities/san-bruno-capuchino-hs-bb
+
+<a id="ref-7"></a>
+[7] : https://www.greatschools.org/california/san-bruno/6977-Capuchino-High-School/
+
+<a id="ref-8"></a>
+[8] : https://www.greatschools.org/california/san-bruno/6977-Capuchino-High-School/#Courses_and_programs
+
+<a id="ref-9"></a>
+[9] : https://www.greatschools.org/california/san-bruno/6977-Capuchino-High-School/#Reviews
