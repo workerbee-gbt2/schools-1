@@ -22,6 +22,10 @@ Additional student data for the 2025-2026 school year: [3](#ref-3)
 - **Multilingual Learners:** 13%
 - **Receive Special Education Services:** 12%
 
+## Navigation
+- [Back to Schools Overview](../OVERVIEW.md)
+- [Capuchino High School Contacts](contacts.md)
+
 ### Citations
 
 <a id="ref-1"></a>
