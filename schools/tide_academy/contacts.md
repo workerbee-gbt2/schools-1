@@ -1,5 +1,7 @@
 # Tide Academy Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletic Department
 - **Athletic Director:** Hector Cornejo [1](#ref-1)
   - Email: hcornejo@seq.org [1](#ref-1)
