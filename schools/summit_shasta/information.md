@@ -1,6 +1,6 @@
 # Summit Public School: Shasta Information
 
-[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+[Back to Overview](OVERVIEW.md) | [Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
 
 ## School Details
 - **Location:** 905 Campus Drive, Daly City, CA [2](#ref-2)
@@ -47,6 +47,9 @@ Summit Public School: Shasta offers a variety of sports programs for both boys a
 The school campus is located at 905 Campus Drive, Daly City [2](#ref-2). Facilities include:
 *   **Gymnasium:** Used for indoor sports such as basketball and volleyball [2](#ref-2).
 *   The site consists of four buildings which house classrooms, administrative offices, a servery, and bathrooms [2](#ref-2).
+
+## Other Info
+- [Placeholder]
 
 ### Citations
 
