@@ -8,6 +8,7 @@ Sequoia High School is a comprehensive public high school located in Redwood Cit
 - **Address:** 1201 Brewster Ave, Redwood City, CA 94062 [1](#ref-1)
 - **Phone:** 650-367-9780 [1](#ref-1)
 - **Enrollment:** Approximately 1,839 students [3](#ref-3)
+- **Status:** Title 1 [8](#ref-8)
 
 ## Mission Statement
 "Sequoia High School will provide a stimulating and caring community that encourages respect for diversity and promotes academic and vocational excellence through creative and critical thinking as well as appreciation of the arts. A Sequoia education develops responsibility, communication skills, self-esteem and self-direction, and promotes educational success and lifelong learning for all students." [2](#ref-2)
@@ -69,3 +70,6 @@ The Sequoia High School campus features several dedicated athletic facilities [7
 
 <a id="ref-7"></a>
 [7] : https://www.sequoiahs.org/documents/About/School%20Map/Campus-Map-2022.pdf
+
+<a id="ref-8"></a>
+[8] : https://www.cde.ca.gov/sp/sw/t1/studentcounts.asp
