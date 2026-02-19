@@ -2,11 +2,13 @@
 
 [Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
+## School Information
+- **Address:** 1050 Myrtle St, East Palo Alto, CA 94303 [4](#ref-4)
+- **Phone:** (650) 839-8900 [4](#ref-4)
+
 ## Administration
 - **Interim Principal (2024-2025):** Veronica Miranda-Pinkney [5](#ref-5)
 - **Incoming Principal (Starting July 1, 2025):** Dr. Sabrina Silverman-Fernandez [6](#ref-6)
-- **Phone:** (650) 839-8900 [4](#ref-4)
-- **Address:** 1050 Myrtle St, East Palo Alto, CA 94303 [4](#ref-4)
 
 ## Athletic Department
 - **Athletic Director:** Laura Nuñez [7](#ref-7) [8](#ref-8) [9](#ref-9)
@@ -27,9 +29,6 @@
 - **Trustee:** Dr. Maria E. Cruz [3](#ref-3)
 - **Trustee:** Sathvik Nori [3](#ref-3)
 - **Collective Board Email:** board@seq.org [3](#ref-3)
-
-## Other Contacts
-- [Role]: [Name]
 
 ### Citations
 
