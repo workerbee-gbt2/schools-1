@@ -1,8 +1,9 @@
-# Tide Academy Information
+# TIDE Academy Information
 
 ## School Details
 - **Location:** Menlo Park, CA
-- **Status:** Title 1 (Verify)
+- **Status:** Title 1 [8](#ref-8)
+- **Closing Status:** Scheduled to close in June 2026 [7](#ref-7)
 - **Students:** [Approximate number]
 - **Demographics:** [Percentage low income, etc.]
 
@@ -17,7 +18,7 @@
   - **Menlo-Atherton Campus (Used by TIDE):** TIDE students utilize extensive M-A facilities, including the Spieker Pool [4](#ref-4), the M-A Sports Complex (gymnasiums, weight room, dance studio) [5](#ref-5), and the stadium and fields [6](#ref-6).
 
 ## Other Info
-- **Status Update:** TIDE Academy is scheduled to close in June 2026 [7](#ref-7).
+- [Placeholder]
 
 ### Citations
 
@@ -41,3 +42,6 @@
 
 <a id="ref-7"></a>
 [7] : https://www.almanacnews.com/education/2026/02/05/after-6-years-tide-academy-is-closing-down/
+
+<a id="ref-8"></a>
+[8] : https://www.cde.ca.gov/ds/si/ds/pubschls.asp
