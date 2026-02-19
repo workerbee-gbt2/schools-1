@@ -6,11 +6,26 @@
 - **Closure Notice:** The SUHSD Board voted on February 4, 2026, to close TIDE Academy on June 30, 2026. The program is planned to move to Woodside High School [12](#ref-12).
 
 ## School Details
-- **Location:** Menlo Park, CA [9](#ref-9)
-- **Status:** Title 1 [8](#ref-8)
-- **Closing Status:** Scheduled to close in June 2026 [7](#ref-7)
-- **Students:** [Approximate number]
-- **Demographics:** [Percentage low income, etc.]
+- **Location:** 150 Jefferson Drive, Menlo Park, CA 94025 [14](#ref-14)
+- **Status:** Title 1 (Verified) [8](#ref-8); Opened in August 2019 [14](#ref-14); scheduled to close in June 2026 due to declining enrollment and budget considerations [7](#ref-7)
+- **District:** Sequoia Union High School District (SUHSD) [14](#ref-14)
+- **Type:** Small public STEAM (Science, Technology, Engineering, Art, and Math) high school [13](#ref-13)
+- **Students:** Approximately 245 students in grades 9-12 (2022-2023) [14](#ref-14)
+- **Demographics:**
+    - 60% of students reside in Menlo Park and East Palo Alto [14](#ref-14)
+    - 20% of students have an Individualized Education Program (IEP) [14](#ref-14)
+    - 16.5% of students have a 504 plan [14](#ref-14)
+    - Gender distribution shows a larger percentage of male students than female students [14](#ref-14)
+
+## Mission and Vision
+- **Mission Statement:** "As a small, diverse public high school we support students to develop academically and socially in a safe, collaborative learning environment that prepares them for college and career pathways." [13](#ref-13)
+- **Schoolwide Learner Outcomes (SLOs):** Known by the acronym **TIDE**:
+    - **T**houghtfulness
+    - **I**ntegrity
+    - **D**etermination
+    - **E**mpathy
+    [14](#ref-14)
+- **Vision/Mission Revision:** Revised and finalized on October 7, 2022, to reflect post-pandemic needs and leadership changes [14](#ref-14)
 
 ## School Ratings
 - **GreatSchools Rating:** 9/10 [9](#ref-9)
@@ -80,3 +95,9 @@
 
 <a id="ref-12"></a>
 [12] : https://www.seq.org/ABOUT-US/Superintendent/TIDE-Academy-Process-and-Plan-Information-Page/index.html
+
+<a id="ref-13"></a>
+[13] : https://www.tideacademy.org/
+
+<a id="ref-14"></a>
+[14] : https://drive.google.com/file/d/16WVrOGbBDz1ADy2CiQ4WZ7jmoWi69vRT/view
