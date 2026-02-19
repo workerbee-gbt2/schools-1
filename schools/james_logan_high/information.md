@@ -1,6 +1,6 @@
 # James Logan High School Information
 
-[Contacts](contacts.md)
+[Schools Overview](../OVERVIEW.md) | [Contacts](contacts.md)
 
 ## School Details
 - **Location:** Union City, CA
@@ -22,13 +22,13 @@ James Logan High School is a Title I school and receives federal Part A funds to
 ### Citations
 
 <a id="ref-1"></a>
-[1] : [California Department of Education - DataQuest (2024-25 FRPM Data)](https://dq.cde.ca.gov/dataquest/Cbeds4.asp?FreeLunch=on&cSelect=James%5ELogan%5EHigh--New%5EHaven%5EUnifi--0161242-0134668&cChoice=SchProf2&cYear=2024-25&cLevel=School&cTopic=FRPM&myTimeFrame=S&submit1=Submit)
+[1] : https://dq.cde.ca.gov/dataquest/Cbeds4.asp?FreeLunch=on&cSelect=James%5ELogan%5EHigh--New%5EHaven%5EUnifi--0161242-0134668&cChoice=SchProf2&cYear=2024-25&cLevel=School&cTopic=FRPM&myTimeFrame=S&submit1=Submit
 
 <a id="ref-2"></a>
-[2] : [National Center for Education Statistics (NCES) - School Profile](https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?ID=062691004072)
+[2] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?ID=062691004072
 
 <a id="ref-3"></a>
-[3] : [California Department of Education - Title I Part A School Allocations](https://www.cde.ca.gov/sp/sw/t1/schoolallocations.asp)
+[3] : https://www.cde.ca.gov/sp/sw/t1/schoolallocations.asp
 
 <a id="ref-4"></a>
-[4] : [California School Directory - James Logan High School Details](https://www.cde.ca.gov/schooldirectory/details?cdscode=01612420134668)
+[4] : https://www.cde.ca.gov/schooldirectory/details?cdscode=01612420134668
