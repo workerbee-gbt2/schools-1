@@ -1,7 +1,13 @@
 # Summit Public School: Shasta Information
 
-## General Information
-Summit Public School: Shasta is a free public charter high school located in Daly City, California [1](#ref-1). Founded in 2013, it serves students in grades 9-12 from Peninsula communities, including South San Francisco, San Bruno, and Pacifica [1](#ref-1). The school has a total enrollment of approximately 449 students [3](#ref-3).
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
+## School Details
+- **Location:** Daly City, California [1](#ref-1)
+- **Status:** Free public charter high school [1](#ref-1)
+- **Founded:** 2013 [1](#ref-1)
+- **Grades:** 9-12 [1](#ref-1)
+- **Students:** Approximately 449 students [3](#ref-3)
 
 ## Mission and Vision
 The core vision of Summit Public School: Shasta is that "every student should be equipped to lead a fulfilled life" [2](#ref-2). Its educational approach focuses on developing habits of success, providing 1:1 mentorship, and utilizing project-based learning to prepare students for success in college and life [1](#ref-1).
