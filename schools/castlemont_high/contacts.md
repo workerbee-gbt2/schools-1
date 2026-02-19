@@ -1,6 +1,6 @@
 # Castlemont High School Contacts
 
-[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+[School Information](information.md)
 
 ## Athletic Department
 - **Athletic Directors:** Phylisha Nelson and Traivon Soto Johnson [3](#ref-3)
@@ -34,9 +34,7 @@ The following individuals are listed as athletic staff, but their specific conta
 
 ## Administration
 - **General School Phone:** (510) 879-2301 [1](#ref-1)
-
-## Other Contacts
-- [Role]: [Name]
+- **Principal:** Joseph Blasher [4](#ref-4)
 
 ### Citations
 
@@ -48,3 +46,6 @@ The following individuals are listed as athletic staff, but their specific conta
 
 <a id="ref-3"></a>
 [3] : https://castlemont.ousd.org/athletics
+
+<a id="ref-4"></a>
+[4] : https://www.ed-data.org/school/Alameda/Oakland-Unified/Castlemont-High
