@@ -1,17 +1,12 @@
 # Castlemont High School Information
 
+[Contacts](contacts.md)
+
 ## School Details
 - **Location:** 8601 MacArthur Blvd, Oakland, CA 94605 [1](#ref-1)
 - **Status:** Title 1 Confirmed [2](#ref-2)
 - **Students:** ~700 [1](#ref-1)
 - **Demographics:** ~99% low income eligibility [2](#ref-2)
-
-## Opportunities & Athletics
-- **Opportunities Rating:** [Placeholder]
-- **Athletic Resources:** [Placeholder]
-
-## Other Info
-- [Placeholder]
 
 ### Citations
 

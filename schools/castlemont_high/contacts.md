@@ -1,5 +1,7 @@
 # Castlemont High School Contacts
 
+[Information](information.md)
+
 ## Athletic Department
 - **Athletic Director:** Phylisha Nelson [1](#ref-1)
   - Email: phylisha.nelson@ousd.org [2](#ref-2)
@@ -8,9 +10,6 @@
 ## Administration
 - **Principal:** Joseph Blasher [3](#ref-3)
   - Email: joseph.blasher@ousd.org [3](#ref-3)
-
-## Other Contacts
-- [Role]: [Name]
 
 ### Citations
 
