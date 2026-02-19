@@ -15,7 +15,7 @@ This directory contains detailed information about Title 1 and high-need schools
 - **San Mateo High School**: [Information](san_mateo_high/information.md) | [Contacts](san_mateo_high/contacts.md)
 - **Sequoia High School**: [Information](sequoia_high/information.md) | [Contacts](sequoia_high/contacts.md)
 - **Summit Shasta**: [Overview](summit_shasta/OVERVIEW.md) | [Information](summit_shasta/information.md) | [Contacts](summit_shasta/contacts.md)
-- **TIDE Academy**: [Information](tide_academy/information.md) | [Contacts](tide_academy/contacts.md)
+- **TIDE Academy** (Closing June 2026): [Information](tide_academy/information.md) | [Contacts](tide_academy/contacts.md)
 
 ## Comprehensive List of Title 1 High Schools in the SF Bay Area
 Title I schools receive federal funding to support students from low-income families. The following schools in the nine Bay Area counties are identified as Title I high schools based on their eligibility for Schoolwide Programs (SWP), typically requiring at least 40% of students to be eligible for Free or Reduced-Price Meals (FRPM) [1](#ref-1) [2](#ref-2) [3](#ref-3).
@@ -57,7 +57,7 @@ Title I schools receive federal funding to support students from low-income fami
 | **South San Francisco High** | South San Francisco | San Mateo |
 | [**San Mateo High**](san_mateo_high/information.md) | San Mateo | San Mateo |
 | [**Sequoia High**](sequoia_high/information.md) | Redwood City | San Mateo |
-| [**Tide Academy**](tide_academy/information.md) | Menlo Park | San Mateo |
+| [**TIDE Academy**](tide_academy/information.md) (Closing June 2026) | Menlo Park | San Mateo |
 | [**East Palo Alto Academy**](east_palo_alto_academy/information.md) | East Palo Alto | San Mateo |
 | **Overfelt (William C.) High** | San Jose | Santa Clara |
 | **Andrew P. Hill High** | San Jose | Santa Clara |
