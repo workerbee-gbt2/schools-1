@@ -15,6 +15,7 @@
     - 60% of students reside in Menlo Park and East Palo Alto [14](#ref-14)
     - 20% of students have an Individualized Education Program (IEP) [14](#ref-14)
     - 16.5% of students have a 504 plan [14](#ref-14)
+    - **Socioeconomically Disadvantaged:** 47.2% (2024-25) [16](#ref-16)
     - Gender distribution shows a larger percentage of male students than female students [14](#ref-14)
 
 ## Mission and Vision
@@ -33,6 +34,13 @@
 - **College Readiness Rating:** 10/10 [9](#ref-9)
 - **4-year High School Graduation Rate:** 99% [9](#ref-9)
 - **UC/CSU Entrance Requirements Met:** 55% [9](#ref-9)
+
+## Funding & Budget
+- **Total Expenditures Per Pupil (2023-24):** $73,452 [15](#ref-15)
+- **Expenditures Per Pupil (Restricted Sources):** $11,045 (includes Title I) [15](#ref-15)
+- **Expenditures Per Pupil (Unrestricted Sources):** $62,407 [15](#ref-15)
+- **Average Teacher Salary:** $111,221 [15](#ref-15)
+- **Capital Funding:** $50 million in Bond Measure A funds for facility construction [15](#ref-15)
 
 ## Opportunities & Athletics
 - **Advanced Placement (AP) Courses:**
@@ -54,9 +62,6 @@
   - **Parent/Guardian (Jan 27, 2026):** Highly satisfied; notes that the student thrives socially and academically and looks forward to attending school [11](#ref-11).
   - **Current Student (Dec 07, 2022):** Credits the school's foundational skills for a perfect score on the CAASP English Test [11](#ref-11).
   - **Parent/Guardian (Dec 07, 2022):** Describes the school as amazing and welcoming to all students [11](#ref-11).
-
-## Other Info
-- [Placeholder]
 
 ### Citations
 
@@ -101,3 +106,9 @@
 
 <a id="ref-14"></a>
 [14] : https://drive.google.com/file/d/16WVrOGbBDz1ADy2CiQ4WZ7jmoWi69vRT/view
+
+<a id="ref-15"></a>
+[15] : https://d16k74nzx9emoe.cloudfront.net/29a8a603-2740-44d0-a4e6-08aaf413dfa1/25%20SARC_Sequoia%20Union%20HSD_TIDE%20Academy.pdf
+
+<a id="ref-16"></a>
+[16] : https://www.caschooldashboard.org/reports/41690620138420/2024
