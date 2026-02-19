@@ -6,9 +6,10 @@
 - **Location:** East Palo Alto, CA [1](#ref-1)
 - **Grades:** TK – 8 [4](#ref-4)
 - **Sponsoring District:** Ravenswood School District [4](#ref-4)
-- **Status:** Title 1 (Verify)
-- **Enrollment:** 473 students [4](#ref-4)
-- **CDS Number:** #41-68999-0134197 [4](#ref-4)
+- **Status:** Title 1 (Schoolwide Program) [6](#ref-6) [9](#ref-9)
+- **Funding Status:** Directly funded [6](#ref-6)
+- **Enrollment:** 496 students (2024-25) [8](#ref-8)
+- **CDS Number:** #41-68999-0134197 [4](#ref-4) [6](#ref-6)
 - **Charter Number:** #125 [4](#ref-4)
 - **GreatSchools Rating:** 2/10 [1](#ref-1)
 - **Test Scores:** [1](#ref-1)
@@ -17,7 +18,8 @@
     - Science: 12% (State Average: 33%)
 
 ## Student Demographics
-- **Free and Reduced Lunch:** 53% [4](#ref-4)
+- **Free and Reduced Lunch:** 90.7% (2024-25) [8](#ref-8)
+- **Socioeconomically Disadvantaged:** 90.1% [7](#ref-7)
 - **Ethnicity Breakdown:** [4](#ref-4)
     - Hispanic: 87%
     - Black or African-American: 6%
@@ -59,3 +61,15 @@ The school has an overall rating of 4.0/5 stars based on 4 reviews. [3](#ref-3)
 
 <a id="ref-5"></a>
 [5] : https://aspirepublicschools.org/discover_aspire/
+
+<a id="ref-6"></a>
+[6] : https://www.cde.ca.gov/SchoolDirectory/details?cdscode=41689990134197
+
+<a id="ref-7"></a>
+[7] : https://www.caschooldashboard.org/reports/41689990134197/2024
+
+<a id="ref-8"></a>
+[8] : https://dq.cde.ca.gov/dataquest/Cbeds4.asp?FreeLunch=on&cSelect=Aspire%5EEast%5EPalo%5EAlt--Ravenswood%5ECity--4168999-0134197&cChoice=SchProf2&cYear=2024-25&cLevel=School&cTopic=FRPM&myTimeFrame=S&submit1=Submit
+
+<a id="ref-9"></a>
+[9] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?InstName=Aspire&ID=060160414051
