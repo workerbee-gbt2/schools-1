@@ -28,9 +28,16 @@
     - SAT college readiness: 4% (State Average: 45%) [1](#ref-1)
 
 ## Athletics & Resources
-- **Soccer Without Borders (SWB):** Flagship athletic program providing year-round soccer, academic support, and community-building for newcomer students. [4](#ref-4)
-- **Facilities:** Uses Temescal Fields (turf soccer field) behind the school, often in partnership with Oakland Technical High School. [4](#ref-4)
-- **Other Programs:** Multimedia Academy (athletic storytelling) and New Roots Program (wellness/gardening). [4](#ref-4)
+- **Athletic Programs:** The athletics program is managed by the [Athletic Contact](contacts.md) [4](#ref-4). Programs are heavily supported through Soccer Without Borders (SWB), which provides soccer-focused youth development, academic support, and community-building for newcomer students [4](#ref-4) [6](#ref-6).
+- **Sports Offered (Varsity):**
+    - Boys Basketball [4](#ref-4)
+    - Boys Soccer [4](#ref-4)
+    - Boys Volleyball [4](#ref-4)
+    - Boys Wrestling [4](#ref-4)
+    - Girls Soccer [4](#ref-4)
+- **Facilities:**
+    - **Temescal Fields:** Home field for soccer, featuring a turf soccer field with a retractable outfield fence and lights for nighttime use. The facility is shared with Oakland Technical High School and includes a baseball/softball field. [5](#ref-5)
+- **Other Programs:** Multimedia Academy (athletic storytelling) and New Roots Program (wellness/gardening). [6](#ref-6)
 
 ## Reviews
 - **Prospective Teacher (2014):** Noted constructive teaching and collective learning environments [3](#ref-3).
@@ -49,4 +56,10 @@
 [3] : https://www.greatschools.org/california/oakland/17625-Oakland-International-High-School/#Reviews
 
 <a id="ref-4"></a>
-[4] : https://www.soccerwithoutborders.org/oakland
+[4] : https://www.maxpreps.com/ca/oakland/oakland-international/
+
+<a id="ref-5"></a>
+[5] : https://oaklandinternational.ousd.org/new-page/our-soccer-field
+
+<a id="ref-6"></a>
+[6] : https://www.soccerwithoutborders.org/oakland
