@@ -1,5 +1,7 @@
 # Castlemont High School Information
 
+[Contacts](contacts.md)
+
 ## School Details
 - **Location:** Oakland, CA
 - **Status:** Title 1 (Verify)
