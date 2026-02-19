@@ -1,10 +1,12 @@
 # Tide Academy Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** 150 Jefferson Drive, Menlo Park, CA 94025 [2](#ref-2)
+- **Status:** Title 1 (Verified); Opened in August 2019 [2](#ref-2); scheduled to close in June 2026 due to declining enrollment and budget considerations [3](#ref-3)
 - **District:** Sequoia Union High School District (SUHSD) [2](#ref-2)
 - **Type:** Small public STEAM (Science, Technology, Engineering, Art, and Math) high school [1](#ref-1)
-- **Status:** Opened in August 2019 [2](#ref-2); scheduled to close in June 2026 due to declining enrollment and budget considerations [3](#ref-3)
 - **Students:** Approximately 245 students in grades 9-12 (2022-2023) [2](#ref-2)
 - **Demographics:**
     - 60% of students reside in Menlo Park and East Palo Alto [2](#ref-2)
