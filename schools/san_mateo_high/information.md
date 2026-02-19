@@ -1,5 +1,7 @@
 # San Mateo High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** San Mateo, CA
 - **Status:** Title 1 (Verify)

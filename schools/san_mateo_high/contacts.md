@@ -1,4 +1,6 @@
-# San Mateo High School Staff Directory
+# San Mateo High School Contacts
+
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
 ## Administration
 - **Principal:** Yvonne Shiu [1](#ref-1)
