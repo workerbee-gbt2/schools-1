@@ -8,13 +8,17 @@
   - Phone: [Phone]
 
 ## Administration
-- **Principal:** [Name]
-  - Email: [Email]
-
-## Other Contacts
-- [Role]: [Name]
+- **Principal:** Joseph Blasher [2](#ref-2)
+- **Assistant Principal:** Samantha Odom [2](#ref-2)
+- **Assistant Principal:** Jen Bender [3](#ref-3)
 
 ### Citations
 
 <a id="ref-1"></a>
 [1] : https://castlemont.ousd.org/athletics
+
+<a id="ref-2"></a>
+[2] : https://castlemont.ousd.org/about-us/administrative-team
+
+<a id="ref-3"></a>
+[3] : https://castlemont.ousd.org/about-us/staff-directory
