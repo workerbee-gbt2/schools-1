@@ -3,6 +3,7 @@
 [Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
 ## Athletic Department
+- **Athletic Directors:** Phylisha Nelson and Traivon Soto Johnson [3](#ref-3)
 - **Head Football Coach:** Edward Washington [1](#ref-1)
   - Email: edward.washington@ousd.org [1](#ref-1)
 - **Pathway Coach:** Marvin Boomer [1](#ref-1)
@@ -34,6 +35,9 @@ The following individuals are listed as athletic staff, but their specific conta
 ## Administration
 - **General School Phone:** (510) 879-2301 [1](#ref-1)
 
+## Other Contacts
+- [Role]: [Name]
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -41,3 +45,6 @@ The following individuals are listed as athletic staff, but their specific conta
 
 <a id="ref-2"></a>
 [2] : https://castlemont.ousd.org/athletics/athletics-department-staff
+
+<a id="ref-3"></a>
+[3] : https://castlemont.ousd.org/athletics
