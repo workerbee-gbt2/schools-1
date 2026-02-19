@@ -1,13 +1,19 @@
-# KIPP Valiant Community Prep Contacts
+# KIPP Valiant Community Prep Staff Directory
 
-## Athletic Department
-- **Athletic Director:** [Name]
-  - Email: [Email]
-  - Phone: [Phone]
+## Administration and Leadership
 
-## Administration
-- **Principal:** [Name]
-  - Email: [Email]
+- **Karsen Matos**: Principal, Lower School (TK-4) [1](#ref-1)
+- **Michelle Verrochi**: Principal, Upper School (5-8) [1](#ref-1)
+- **Edith Malvais Valdes**: Family Ambassador [2](#ref-2)
+- **Ms. Gina Sudaria**: Superintendent (Ravenswood City School District) [1](#ref-1)
 
-## Other Contacts
-- [Role]: [Name]
+### Citations
+
+<a id="ref-1"></a>
+[1] : [2025 Valiant School Accountability Report Card](https://drive.google.com/file/d/1QNhlZt8_0629yERIl2JD4kRL2aqnOzsW/view)
+
+<a id="ref-2"></a>
+[2] : [KIPP Valiant Community Prep Homepage](https://valiant.kippnorcal.org/)
+
+<a id="ref-3"></a>
+[3] : [KIPP Valiant Community Prep Parent Resources](https://valiant.kippnorcal.org/parent-resources/)
