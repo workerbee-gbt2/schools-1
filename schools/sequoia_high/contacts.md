@@ -1,5 +1,7 @@
 # Sequoia High School Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Athletic Department
 - **Athletic Director:** Melissa Schmidt [1](#ref-1)
   - Email: mschmidt@seq.org [1](#ref-1)
