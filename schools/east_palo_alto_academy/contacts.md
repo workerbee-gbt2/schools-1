@@ -15,31 +15,10 @@
   - Email: lnunez@seq.org [7](#ref-7)
   - Phone: (650) 839-8900 [4](#ref-4)
 
-## Sequoia Union High School District (SUHSD) Leadership
-- **Superintendent:** Crystal Leach [1](#ref-1)
-- **Executive Assistant to the Superintendent:** Laura Lauese [2](#ref-2)
-- **Assistant Superintendent, Administrative Services/CBO:** Christine Gong [2](#ref-2)
-- **Associate Superintendent, Human Resources:** Bonnie Hansen [2](#ref-2)
-- **Assistant Superintendent, Educational Services:** Dr. Elizabeth Chacón [2](#ref-2)
-
-## SUHSD Board of Trustees
-- **President:** Amy Koo [3](#ref-3)
-- **Vice President/Clerk:** Rich Ginn [3](#ref-3)
-- **Trustee:** Mary Beth Thompson [3](#ref-3)
-- **Trustee:** Dr. Maria E. Cruz [3](#ref-3)
-- **Trustee:** Sathvik Nori [3](#ref-3)
-- **Collective Board Email:** board@seq.org [3](#ref-3)
+## District Leadership
+East Palo Alto Academy is part of the Sequoia Union High School District. See [District Leadership and Board of Trustees](../DISTRICTS.md#sequoia-union-high-school-district-suhsd) for district-level contacts.
 
 ### Citations
-
-<a id="ref-1"></a>
-[1] : https://www.seq.org/ABOUT-US/Superintendent/index.html
-
-<a id="ref-2"></a>
-[2] : https://www.seq.org/ABOUT-US/Superintendent/Superintendents-Cabinet/index.html
-
-<a id="ref-3"></a>
-[3] : https://www.seq.org/ABOUT-US/Board-of-Trustees/Trustees/index.html
 
 <a id="ref-4"></a>
 [4] : https://www.seq.org/our-schools/#/schoolInfo/201
