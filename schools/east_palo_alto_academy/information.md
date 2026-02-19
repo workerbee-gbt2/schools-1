@@ -1,5 +1,7 @@
 # East Palo Alto Academy Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** East Palo Alto, CA
 - **Status:** Title 1 (Verify)
@@ -8,13 +10,13 @@
 
 ## Opportunities & Athletics
 - **Opportunities Rating:** [Placeholder]
-- **Athletic Resources:** The school offers several varsity sports and maintains a dedicated gymnasium facility.
+- **Athletic Resources:** The school offers several varsity sports and maintains a dedicated gymnasium facility. [1](#ref-1) [2](#ref-2)
 - **Sports Offered:**
     - **Boys:** Basketball, Soccer, Volleyball [1](#ref-1)
     - **Girls:** Basketball, Soccer, Volleyball [1](#ref-1)
 - **Facilities:** Includes a gymnasium facility which has been a focus of district construction and renovation projects [2](#ref-2).
 - **Mascot:** Bulldogs [1](#ref-1)
-- **Athletic Director:** Laura Nunez [1](#ref-1)
+- **Athletic Administration:** Managed by the [Athletic Director](contacts.md).
 
 ## Other Info
 - [Placeholder]
