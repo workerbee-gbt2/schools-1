@@ -42,7 +42,9 @@ The following individuals are listed as athletic staff, but their specific conta
 - Sabaa Shoraka
 
 ## OUSD District Leadership
-- **Superintendent:** Kyla Johnson-Trammell [6](#ref-6)
+- **Superintendent:** Dr. Denise Saddler [9](#ref-9) [10](#ref-10)
+  - **Email:** superintendent@ousd.org [10](#ref-10)
+  - **Phone:** (510) 879-8000 / (510) 879-4240 [10](#ref-10)
 - **Board of Education Director (District 7 - Castlemont):** Clifford Thompson [7](#ref-7)
   - **Email:** clifford.thompson@ousd.org [7](#ref-7)
 
@@ -75,3 +77,10 @@ The following individuals are listed as athletic staff, but their specific conta
 
 <a id="ref-8"></a>
 [8] : https://www.ousd.org/our-schools/school-directory/meet-our-network-superintendents/high-school-network
+
+<a id="ref-9"></a>
+[9] : https://www.ousd.org/about-us/meet-our-employees/meet-our-superintendent
+
+<a id="ref-10"></a>
+[10] : https://www.ousd.org/department-directory
+

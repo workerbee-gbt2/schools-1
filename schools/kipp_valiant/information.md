@@ -2,13 +2,25 @@
 
 [Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
 
+## Mission
+KIPP Valiant's mission is to support students academically, socially, and emotionally to help them grow into passionate, innovative agents of change who lead lives of choice and contribute to a more just world [5](#ref-5). The school's core values are Love, Courage, Justice, Curiosity, and Growth [5](#ref-5).
+
 ## School Details
+- **Grades Served:** TK-8 [5](#ref-5)
 - **Location:** 620 Willow Rd, Menlo Park, CA 94025 [1](#ref-1)
-- **Grades:** TK-8 [5](#ref-5)
+- **Status:** Title 1 School [9](#ref-9), [10](#ref-10)
+- **Total Enrollment (2024-25):** 587 students [13](#ref-13)
+- **Administrator:** Kate Belden [13](#ref-13)
+- **Funding Type:** Directly funded charter school [10](#ref-10)
 - **Type:** Public Charter (KIPP Network) [6](#ref-6)
-- **Status:** Title 1 [6](#ref-6)
 - **District:** Ravenswood City School District [8](#ref-8)
 - **Mascot:** Huskies [2](#ref-2)
+
+## Student Demographics (2024-25)
+- **Socioeconomically Disadvantaged:** 90.8% (533 students eligible for Free/Reduced-Price Meals) [13](#ref-13)
+- **English Learners:** 58% (340 students) [13](#ref-13)
+- **Primary Language:** Spanish is the predominant non-English language spoken by students [13](#ref-13).
+- **Ethnicity:** Approximately 92.7% Hispanic/Latino [14](#ref-14).
 
 ## Ratings
 - **GreatSchools Rating:** 4/10 [6](#ref-6)
@@ -39,6 +51,9 @@
   - Special Education: 5.0
   - Teaching: 1.0
 
+## Other Info
+- **Contacts:** See [contacts.md](contacts.md) for staff details.
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -64,3 +79,21 @@
 
 <a id="ref-8"></a>
 [8] : https://drive.google.com/file/d/1QNhlZt8_0629yERIl2JD4kRL2aqnOzsW/view
+
+<a id="ref-9"></a>
+[9] : https://www.caschooldashboard.org/reports/41689990135608/2024
+
+<a id="ref-10"></a>
+[10] : https://www.cde.ca.gov/SchoolDirectory/details?cdscode=41689990135608
+
+<a id="ref-11"></a>
+[11] : https://www.cde.ca.gov/sdprofile/details.aspx?cds=41689990135608
+
+<a id="ref-12"></a>
+[12] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?ID=060248114087
+
+<a id="ref-13"></a>
+[13] : https://www.ed-data.org/school/San-Mateo/Ravenswood-City-Elementary/KIPP-Valiant-Community-Prep
+
+<a id="ref-14"></a>
+[14] : https://www.schooldigger.com/go/CA/schools/0014701314/school.aspx
