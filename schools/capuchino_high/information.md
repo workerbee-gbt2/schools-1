@@ -1,8 +1,8 @@
 # Capuchino High School Information
- 
- - [Contacts](contacts.md)
- 
- ## School Details
+
+[Back to Schools Overview](../OVERVIEW.md) | [Contacts](contacts.md)
+
+## School Details
 - **Location:** San Bruno, CA [1](#ref-1)
 - **CDS Code:** 41690474130738 [3](#ref-3) [5](#ref-5)
 - **Status:** Title 1 [2](#ref-2) [4](#ref-4)
