@@ -16,6 +16,9 @@
   - Email: kkennedy@jeffersonunion.net [1](#ref-1)
   - Phone: 650-550-7796 [1](#ref-1)
 
+## District Leadership
+Jefferson High School is part of the Jefferson Union High School District. See [District Leadership and Board of Trustees](../DISTRICTS.md#jefferson-union-high-school-district-juhsd) for district-level contacts.
+
 ## Athletic Department
 - **Athletic Director:** John Falabella [3](#ref-3)
   - Email: jfalab@jeffersonunion.net [3](#ref-3)
@@ -31,37 +34,6 @@
 | Girls Basketball | Nicola Touye [3](#ref-3) | ntouye@jeffersonunion.net [3](#ref-3) |
 | Girls Volleyball | Heike Mansel [7](#ref-7) | hmansel@jeffersonunion.net [3](#ref-3) |
 | Girls Flag Football | Mathew Sparks [3](#ref-3) | msparks@jeffersonunion.net [3](#ref-3) |
-
-## District Leadership (Jefferson Union High School District)
-- **Toni Presta**, Superintendent [5](#ref-5)
-  - Email: tpresta@jeffersonunion.net [5](#ref-5)
-  - Phone: 650-550-7969 [5](#ref-5)
-- **Kareen Baca**, Deputy Superintendent of Educational Services [4](#ref-4)
-  - Email: kbaca@jeffersonunion.net [4](#ref-4)
-  - Phone: 650-550-7947 [4](#ref-4)
-- **Dorene Basuino**, Associate Superintendent of Human Resources and Student Services [4](#ref-4)
-  - Email: dbasuino@jeffersonunion.net [4](#ref-4)
-  - Phone: 650-550-7946 [4](#ref-4)
-- **Tina Van Raaphorst**, Deputy Superintendent of Business Services [4](#ref-4)
-  - Email: tvanr@jeffersonunion.net [4](#ref-4)
-  - Phone: 650-550-7954 [4](#ref-4)
-
-## Key District Directors
-- **Daina Lujan**, Director of Human Resources [4](#ref-4)
-  - Email: dlujan@jeffersonunion.net [4](#ref-4)
-  - Phone: 650-550-7964 [4](#ref-4)
-- **Lee Medvedoff**, Director of Special Education [4](#ref-4)
-  - Email: lmedvedoff@jeffersonunion.net [4](#ref-4)
-  - Phone: 650-550-7957 [4](#ref-4)
-- **Jacob Meyer**, Director of Information & Technology [4](#ref-4)
-  - Email: jmeyer@jeffersonunion.net [4](#ref-4)
-  - Phone: 650-550-7952 [4](#ref-4)
-- **Laurie Robinson**, Director of Curriculum, Instruction, and Accountability [4](#ref-4)
-  - Email: lrobinson@jeffersonunion.net [4](#ref-4)
-  - Phone: 650-550-7880 [4](#ref-4)
-- **Denise Shreve**, Director of Communication, CTE, and Housing [4](#ref-4)
-  - Email: dshreve@jeffersonunion.net [4](#ref-4)
-  - Phone: 650-550-7968 [4](#ref-4)
 
 ## Administrative School Support
 - **Family Liaison:** Carlos Acuna Melendez [6](#ref-6)
@@ -92,12 +64,6 @@
 
 <a id="ref-3"></a>
 [3] : https://jhs.juhsd.net/athletics/contacts-and-forms
-
-<a id="ref-4"></a>
-[4] : https://www.juhsd.net/about-us/administration
-
-<a id="ref-5"></a>
-[5] : https://www.juhsd.net/about-us/office-of-the-superintendent
 
 <a id="ref-6"></a>
 [6] : https://jhs.juhsd.net/our-school/staff-directory?utf8=%E2%9C%93&const_search_group_ids=208&const_search_role_ids=1&const_search_keyword=&const_search_first_name=&const_search_last_name=&const_search_department=206
