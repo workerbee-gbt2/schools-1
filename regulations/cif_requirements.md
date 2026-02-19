@@ -1,7 +1,7 @@
 # CIF Medical Eligibility Requirements
 
 ## Overview
-This document covers the California Interscholastic Federation (CIF) requirements for student-athlete physicals, governed by the California Education Code.
+This document covers the California Interscholastic Federation (CIF) requirements for student-athlete physicals, governed by the California Education Code and CIF Sports Medicine Handbook guidelines.
 
 ## Key Requirements
 Student-athletes in California are required to undergo a [Preparticipation Physical Evaluation (PPE)](medical_eligibility.md) to determine their medical eligibility for sports participation [1](#ref-1).
@@ -21,9 +21,9 @@ Under the Eric Paredes Sudden Cardiac Arrest Prevention Act, any pupil who passe
 *   **Code Section**: EDC Section 33479.5
 
 ## CIF Sports Medicine Handbook Guidelines
-The CIF Sports Medicine Handbook provides additional guidelines for the Pre-Participation Physical Examination (PPE) mandated by CIF Bylaw 307 [5](#ref-5):
+The CIF Sports Medicine Handbook provides additional guidelines for the [Pre-Participation Physical Examination (PPE)](medical_eligibility.md) mandated by CIF Bylaw 307 [5](#ref-5):
 *   **Annual Requirement**: Student-athletes must undergo a PPE annually before participating in tryouts, practice, or competition [5](#ref-5).
-*   **Authorized Forms**: The PPE must be completed using a form approved by the school's governing board [5](#ref-5).
+*   **Authorized Forms**: The PPE must be completed using [authorized forms](medical_eligibility.md) approved by the school's governing board [5](#ref-5).
 *   **Family Health History**: The examination must include a thorough family health history as part of the screening [5](#ref-5).
 *   **Authorized Practitioners**: The handbook indicates that the examination clearance should be signed by an authorized medical practitioner (MD or DO) [5](#ref-5).
 *   **Primary Objectives**: The PPE is designed to screen for life-threatening or disabling medical or musculoskeletal conditions and to meet legal and administrative requirements [5](#ref-5).
