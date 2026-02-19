@@ -1,5 +1,7 @@
 # Summit Public School: Shasta Contacts
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## School Leadership
 - **Executive Director:** Anita Ravi [1](#ref-1)
 - **Dean of Culture and Instruction:** Margaret Su [1](#ref-1)
