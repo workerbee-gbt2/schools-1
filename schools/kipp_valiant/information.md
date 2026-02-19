@@ -53,7 +53,6 @@ KIPP Valiant's mission is to support students academically, socially, and emotio
 
 ## Other Info
 - **Contacts:** See [contacts.md](contacts.md) for staff details.
-- [Placeholder]
 
 ### Citations
 
