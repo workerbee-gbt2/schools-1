@@ -1,6 +1,8 @@
 # Summit Public School: Shasta Information
-
-## School Details
+ 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+ 
+ ## School Details
 - **Location:** Daly City, CA
 - **Status:** Title 1 (Verify)
 - **Students:** [Approximate number]
