@@ -4,11 +4,14 @@
 
 ## School Details
 - **Location:** 620 Willow Rd, Menlo Park, CA 94025 [1](#ref-1)
+- **Status:** Title 1 School [9](#ref-9), [10](#ref-10)
+- **Funding Type:** Directly funded charter school [10](#ref-10)
 - **Grades:** TK-8 [5](#ref-5)
 - **Type:** Public Charter (KIPP Network) [6](#ref-6)
-- **Status:** Title 1 [6](#ref-6)
 - **District:** Ravenswood City School District [8](#ref-8)
 - **Mascot:** Huskies [2](#ref-2)
+- **Students:** 575 [11](#ref-11)
+- **Demographics:** 92.5% socioeconomically disadvantaged [9](#ref-9). Approximately 90.8% of students are eligible for Free or Reduced-Price Lunch [12](#ref-12). English Language Learners make up 59.7% of the student body [11](#ref-11).
 
 ## Ratings
 - **GreatSchools Rating:** 4/10 [6](#ref-6)
@@ -39,6 +42,10 @@
   - Special Education: 5.0
   - Teaching: 1.0
 
+## Other Info
+- **Contacts:** See [contacts.md](contacts.md) for staff details.
+- [Placeholder]
+
 ### Citations
 
 <a id="ref-1"></a>
@@ -64,3 +71,15 @@
 
 <a id="ref-8"></a>
 [8] : https://drive.google.com/file/d/1QNhlZt8_0629yERIl2JD4kRL2aqnOzsW/view
+
+<a id="ref-9"></a>
+[9] : https://www.caschooldashboard.org/reports/41689990135608/2024
+
+<a id="ref-10"></a>
+[10] : https://www.cde.ca.gov/SchoolDirectory/details?cdscode=41689990135608
+
+<a id="ref-11"></a>
+[11] : https://www.cde.ca.gov/sdprofile/details.aspx?cds=41689990135608
+
+<a id="ref-12"></a>
+[12] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?ID=060248114087
