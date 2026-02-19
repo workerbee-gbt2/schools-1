@@ -73,6 +73,9 @@
 - **Campus Supervisor:** Marcelus Steens [6](#ref-6)
 - **Registrar:** Marcia Villarreal [6](#ref-6)
 
+## Other Contacts
+- [Role]: [Name]
+
 ### Citations
 
 <a id="ref-1"></a>
