@@ -1,11 +1,12 @@
 # McClymonds High School Contacts
 
-[Back to Schools Overview](../OVERVIEW.md) | [Information](information.md)
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
 ## Athletic Department
 - **Athletic Director:** Relonda McGhee [1](#ref-1)
-  - Email: [Email]
-  - Phone: [Phone]
+- **Football Coach:** Michael Peters [7](#ref-7)
+  - Email: mpeters@spaat.org
+- **Assistant Coach (Football):** DayMarr Johnson [7](#ref-7)
 
 ## Administration
 - **Principal:** Darielle Davis (Darielle Davis-Vigay) [2](#ref-2)
@@ -17,6 +18,14 @@
 ## Other School Contacts
 - **Community Schools Manager:** Brian McGhee [3](#ref-3)
 - **Partner Network:** Darren Avent [3](#ref-3)
+- **Literacy Coach:** Amber Curry [3](#ref-3)
+  - Email: amber.curry@ousd.org
+- **Life Coach:** Eric Foster [3](#ref-3)
+  - Email: eric.foster@ousd.org
+- **Librarian and Pathway Coach:** Leah Jensen [3](#ref-3)
+  - Email: leah.jensen@ousd.org
+- **Physical Education:** Dante Marsh [3](#ref-3)
+  - Email: dante.marsh@ousd.org
 
 ## District Leadership
 - **Superintendent:** Dr. Denise Saddler [4](#ref-4) [5](#ref-5)
@@ -45,3 +54,6 @@
 
 <a id="ref-6"></a>
 [6] : https://www.ousd.org/board-of-ed/welcome-meet-the-board/district-3-board-director
+
+<a id="ref-7"></a>
+[7] : https://www.maxpreps.com/ca/oakland/mcclymonds-warriors/football/staff/
