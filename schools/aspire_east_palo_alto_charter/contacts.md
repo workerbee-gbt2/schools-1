@@ -3,13 +3,37 @@
 [Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
 ## Athletic Department
-- **Athletic Director:** General Administration (TK-8 School) [1](#ref-1)
+- **Athletic Director:** Jose Rodriguez [4](#ref-4)
+  - Email: jose.rodriguez@aspirepublicschools.org [4](#ref-4)
   - Phone: 650-614-9100 [1](#ref-1)
-  - Website: http://www.epacs.org [1](#ref-1)
+- **Volleyball Coach (Phoenix Ladies Volleyball):** Deon Taylor [4](#ref-4)
+  - Email: deon.taylor@aspirepublicschools.org [4](#ref-4)
+- **Physical Education & Athletics Support:** David Shinn [4](#ref-4)
+- **Potential Athletic/Sports Contact:** Brooke Kuhn [5](#ref-5)
+  - Email: Brooke.Kuhn@aspirepublicschools.org [5](#ref-5)
 
 ## Administration
-- **Principal:** [Name]
-  - Email: [Email]
+- **Principal:** Terry Kawi [4](#ref-4)
+  - Email: terry.kawi@aspirepublicschools.org [4](#ref-4)
+- **Assistant Principal:** David Tellez [4](#ref-4)
+  - Email: David.Tellez@aspirepublicschools.org [4](#ref-4)
+- **Special Populations Dean / Assistant Principal:** Brittany Shouse [4](#ref-4)
+  - Email: Brittany.Shouse@aspirepublicschools.org [4](#ref-4)
+- **Community School Director:** Stephen Ashford [4](#ref-4)
+  - Email: Stephen.Ashford@aspirepublicschools.org [4](#ref-4)
+- **Dean of Students:** Samantha Perez [4](#ref-4)
+  - Email: samantha.perez@aspirepublicschools.org [4](#ref-4)
+- **Expanded Learning Site Director:** Lily Rosales [4](#ref-4)
+  - Email: lily.rosales@aspirepublicschools.org [4](#ref-4)
+- **Business Manager:** Susie Estrada [4](#ref-4)
+- **Office Assistant:** Stephanie Caudillo [4](#ref-4)
+- **Program Manager of Enrollment & Special Projects:** Veronica Rivera Vega [4](#ref-4)
+  - Phone: (510) 434-5023 ext. 27504 [4](#ref-4)
+
+## Other Contacts
+- **ExL Program Manager:** Jonathan Cuevas [4](#ref-4)
+  - Email: jonathan.cuevas@aspirepublicschools.org [4](#ref-4)
+- **Homeless/Foster Youth Liaison:** Samantha Perez [4](#ref-4)
 
 ## District Leadership (Aspire Public Schools)
 - **Executive Director, Bay Area:** Javier Cabra Walteros [2](#ref-2)
@@ -45,3 +69,9 @@
 
 <a id="ref-3"></a>
 [3] : https://aspirepublicschools.org/discover_aspire/board-of-directors/
+
+<a id="ref-4"></a>
+[4] : https://aspirepublicschools.org/locations/bay-area/aspire-east-palo-alto-charter-school/
+
+<a id="ref-5"></a>
+[5] : https://www.facebook.com/AspireEPACSEPAPA/

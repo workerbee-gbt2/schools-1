@@ -5,6 +5,7 @@
 ## Athletic Department
 - **Athletic Director:** Jay Oca [1](#ref-1)
   - Email: goca@smuhsd.org [1](#ref-1)
+  - Phone: [Phone]
 - **Athletic Trainer:** Kris Rocha [1](#ref-1)
   - Email: krocha@smuhsd.org [1](#ref-1)
 
@@ -83,6 +84,9 @@
   - Email: mtrimble@smuhsd.org [2](#ref-2)
 - **Boys Volleyball:** Andrew Serrano [2](#ref-2)
   - Email: andrewserrano3@aol.com [2](#ref-2)
+
+## Other Contacts
+- [Role]: [Name]
 
 ### Citations
 
