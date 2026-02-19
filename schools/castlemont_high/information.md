@@ -6,17 +6,17 @@
 Castlemont High School’s mission is to create a safe, healthy, inclusive, and engaging learning experience that prepares all of our students for college, career and community. [1](#ref-1)
 
 ## General Information
-- **Location:** Oakland, CA [6](#ref-6)
-- **Address:** 8601 MacArthur Boulevard, Oakland, CA 94605 [1](#ref-1)
+- **Location:** 8601 MacArthur Boulevard, Oakland, CA 94605 [1](#ref-1)
 - **Phone:** (510) 879-2301 [1](#ref-1)
-- **Status:** Title 1 [6](#ref-6)
+- **Status:** Title 1 (Schoolwide Program) [12](#ref-12)
 - **Grades:** 9-12 [6](#ref-6)
 - **Administrator:** Joseph Blasher [5](#ref-5)
 
 ## Student Demographics (2024-25) [5](#ref-5)
-- **Total Enrollment:** 719 students [6](#ref-6)
+- **Total Enrollment:** 719 students [13](#ref-13)
 - **English Learners:** 361 (50.2%)
-- **Eligible for Free/Reduced-Price Meals (FRPM):** 712 (99%)
+- **Socioeconomically Disadvantaged:** 99.3% [12](#ref-12)
+- **Eligible for Free/Reduced-Price Meals (FRPM):** 712 (99%) [13](#ref-13)
 
 ### Enrollment by Ethnicity
 - **Hispanic or Latino:** 435 (60.5%)
@@ -28,6 +28,9 @@ Castlemont High School’s mission is to create a safe, healthy, inclusive, and 
 - **American Indian or Alaska Native:** 4 (0.6%)
 - **Filipino:** 2 (0.3%)
 - **None Reported:** 6 (0.8%)
+
+## Funding & Title 1 Status
+Castlemont High School operates a Title 1 Schoolwide Program, a designation for schools with high concentrations of socioeconomically disadvantaged students (99.3% as of 2024) [12](#ref-12). This status allows the school to use federal Title 1 funds to support academic achievement for the entire student body [12](#ref-12). Additionally, as part of the Oakland Unified School District, it receives state funding through the Local Control Funding Formula (LCFF) based on its high concentration of "unduplicated" students, including low-income students, English learners, and foster youth [14](#ref-14).
 
 ## Ratings
 - **GreatSchools Rating:** 2/10 [6](#ref-6)
@@ -51,7 +54,7 @@ Castlemont High School’s mission is to create a safe, healthy, inclusive, and 
 - **Fall:** Football, Girls Flag Football, Girls Tennis, Volleyball, Cheer, and Boys/Girls Cross Country. [3](#ref-3) [11](#ref-11)
 - **Winter:** Boys/Girls Basketball, Boys/Girls Soccer, and Boys/Girls Wrestling. [3](#ref-3) [11](#ref-11)
 - **Spring:** Girls Lacrosse, Boys Tennis, Boys/Girls Track & Field, Baseball, Softball, and Swimming. [3](#ref-3) [11](#ref-11)
-- **Athletic Administration:** Managed by the [Athletic Directors](contacts.md).
+- **Athletic Administration:** Managed by the [Athletic Directors](contacts.md). Athletes must comply with [CIF medical eligibility requirements](../../regulations/cif_requirements.md).
 
 ### Athletic Facilities
 The school features several key athletic facilities, many of which were part of a major $11.3 million renovation project: [2](#ref-2)
@@ -96,3 +99,12 @@ The school features several key athletic facilities, many of which were part of 
 
 <a id="ref-11"></a>
 [11] : https://www.maxpreps.com/ca/oakland/castlemont-knights/
+
+<a id="ref-12"></a>
+[12] : https://www.caschooldashboard.org/reports/01612590125161/2024
+
+<a id="ref-13"></a>
+[13] : https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?InstName=castlemont&ID=062805012992
+
+<a id="ref-14"></a>
+[14] : https://www.cde.ca.gov/schooldirectory/details?cdscode=01612590125161
