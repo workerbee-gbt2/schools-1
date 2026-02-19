@@ -1,5 +1,7 @@
 # Oakland International High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
 - **Location:** Oakland, CA
 - **Status:** Title 1 (Verify)
@@ -8,7 +10,7 @@
 
 ## Opportunities & Athletics
 - **Opportunities Rating:** [Placeholder]
-- **Athletic Resources:** The athletics program is led by Athletic Director Erin Posbergh. [1](#ref-1)
+- **Athletic Resources:** The athletics program is managed by the [Athletic Director](contacts.md). [1](#ref-1)
 - **Sports Offered (Varsity):**
     - Boys Basketball [1](#ref-1)
     - Boys Soccer [1](#ref-1)
