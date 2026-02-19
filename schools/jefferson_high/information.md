@@ -1,12 +1,42 @@
-# Jefferson High School Information
+# Jefferson High School (Daly City, CA) Information
 
 [Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
 
+## Mission Statement
+"Our Mission is to work collectively to meet every student where they are in their learning and to ensure that all students are able to demonstrate mastery of essential content standards upon graduation." [7](#ref-7)
+
 ## School Details
 - **Location:** 6996 Mission Street, Daly City, CA 94014 [1](#ref-1)
-- **Status:** Title 1 [3](#ref-3)
-- **Students:** Approximately 1,072 students [1](#ref-1)
+- **Status:** Public High School, Title 1 [1](#ref-1) [3](#ref-3) [12](#ref-12) [13](#ref-13)
+- **Mascot:** Grizzlies [9](#ref-9)
+- **District:** Jefferson Union High School District (JUHSD) [4](#ref-4) [10](#ref-10)
+- **Students:** Approximately 1,072 students [1](#ref-1) [12](#ref-12)
 - **Demographics:** 44% students from low-income families [1](#ref-1)
+- **Funding Status:** Receives funding through the Local Control Funding Formula (LCFF) [11](#ref-11)
+- **CDS Code:** 41689244133393 [10](#ref-10)
+
+## Student Demographics (2023-24) [8](#ref-8)
+- **Total Enrollment:** 1,071 students
+- **Enrollment by Grade:**
+  - Grade 9: 248
+  - Grade 10: 295
+  - Grade 11: 262
+  - Grade 12: 266
+- **Enrollment by Race/Ethnicity:**
+  - Hispanic or Latino: 49.5%
+  - Filipino: 29.4%
+  - Asian: 8.9%
+  - White: 4.6%
+  - Two or More Races: 3.5%
+  - Black or African American: 2.7%
+  - Native Hawaiian or Pacific Islander: 1.5%
+- **Enrollment by Student Group:**
+  - Socioeconomically Disadvantaged: 45%
+  - English Learners: 23.2%
+  - Students with Disabilities: 8.8%
+  - Female: 46.6%
+  - Male: 52.8%
+  - Non-Binary: 0.7%
 
 ## Ratings & Reviews
 - **GreatSchools Rating:** 5/10 [1](#ref-1)
@@ -59,3 +89,24 @@ Athletic facilities at the school include [5](#ref-5) [6](#ref-6):
 
 <a id="ref-6"></a>
 [6] : https://jhs.juhsd.net/academics/physical-education
+
+<a id="ref-7"></a>
+[7] : https://jhs.juhsd.net/our-school
+
+<a id="ref-8"></a>
+[8] : https://drive.google.com/file/d/1gq13pe2INCMFcnYJoakq1Kv4k0MoSBqC/view
+
+<a id="ref-9"></a>
+[9] : https://www.maxpreps.com/ca/daly-city/jefferson-grizzlies/
+
+<a id="ref-10"></a>
+[10] : https://www.cde.ca.gov/sdprofile/details.aspx?cds=41689244133393
+
+<a id="ref-11"></a>
+[11] : https://ias.cde.ca.gov/lcffreports/lcffreports.aspx?ID=Y2/0wLyAV7y4w302TkzIK7rJBn+QuHGVvm3rHSUBavNVC2KKF4b41hk3P5e1lyF5&refer=https://www.cde.ca.gov/
+
+<a id="ref-12"></a>
+[12] : https://www.caschooldashboard.org/reports/41689244133393/2024
+
+<a id="ref-13"></a>
+[13] : https://data-cdegis.opendata.arcgis.com/datasets/CDE::title-i-school-directory-2023-24/explore
