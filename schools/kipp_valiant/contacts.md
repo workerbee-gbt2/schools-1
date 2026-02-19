@@ -1,5 +1,7 @@
 # KIPP Valiant Community Prep Staff Directory
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
+
 ## Administration and Leadership
 
 - **Karsen Matos**: Principal, Lower School (TK-4) [1](#ref-1)
@@ -10,10 +12,7 @@
 ### Citations
 
 <a id="ref-1"></a>
-[1] : [2025 Valiant School Accountability Report Card](https://drive.google.com/file/d/1QNhlZt8_0629yERIl2JD4kRL2aqnOzsW/view)
+[1] : https://drive.google.com/file/d/1QNhlZt8_0629yERIl2JD4kRL2aqnOzsW/view
 
 <a id="ref-2"></a>
-[2] : [KIPP Valiant Community Prep Homepage](https://valiant.kippnorcal.org/)
-
-<a id="ref-3"></a>
-[3] : [KIPP Valiant Community Prep Parent Resources](https://valiant.kippnorcal.org/parent-resources/)
+[2] : https://valiant.kippnorcal.org/
