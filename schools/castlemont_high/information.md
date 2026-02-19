@@ -1,7 +1,9 @@
 # Castlemont High School Information
 
+[Back to Schools Overview](../OVERVIEW.md) | [View Contacts](contacts.md)
+
 ## School Details
-- **Location:** Oakland, CA
+- **Location:** Oakland, CA [1](#ref-1)
 - **Status:** Title 1 [1](#ref-1)
 - **Students:** 719 [1](#ref-1)
 - **Grades:** 9-12 [1](#ref-1)
