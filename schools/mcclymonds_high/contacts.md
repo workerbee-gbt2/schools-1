@@ -1,6 +1,6 @@
 # McClymonds High School Contacts
 
-[Information](information.md)
+[Back to Schools Overview](../OVERVIEW.md) | [View Information](information.md)
 
 ## Athletic Department
 - **Athletic Director:** Relonda McGhee [1](#ref-1)
