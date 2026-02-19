@@ -13,21 +13,21 @@ At McClymonds High School, students create and implement STEAM (Science, Technol
 - **Grades:** 9-12 [2](#ref-2)
 
 ## Student Demographics [2](#ref-2)
-- **Total Enrollment:** 265 students
-- **Gender:** 42% Female, 58% Male
-- **Socioeconomically Disadvantaged:** 95% (87% Free Lunch, 8% Reduced-Price Lunch)
+- **Total Enrollment:** 265 students [2](#ref-2)
+- **Gender:** 42% Female, 58% Male [2](#ref-2)
+- **Socioeconomically Disadvantaged:** 95% (87% Free Lunch, 8% Reduced-Price Lunch) [2](#ref-2)
 
-### Enrollment by Ethnicity
-- **Black:** 71.7%
-- **Hispanic:** 14.0%
-- **Two or More Races:** 7.2%
-- **Asian:** 2.3%
-- **Native Hawaiian/Pacific Islander:** 2.3%
-- **White:** 2.3%
-- **American Indian/Alaska Native:** 0.4%
+### Enrollment by Ethnicity [2](#ref-2)
+- **Black:** 71.7% [2](#ref-2)
+- **Hispanic:** 14.0% [2](#ref-2)
+- **Two or More Races:** 7.2% [2](#ref-2)
+- **Asian:** 2.3% [2](#ref-2)
+- **Native Hawaiian/Pacific Islander:** 2.3% [2](#ref-2)
+- **White:** 2.3% [2](#ref-2)
+- **American Indian/Alaska Native:** 0.4% [2](#ref-2)
 
-## Opportunities & Athletics
-- **STEAM Focus:** Students engage in projects solving community problems using Science, Technology, Engineering, Arts, and Math. [1](#ref-1)
+## Athletics
+- **Athletic Administration:** Managed by the [Athletic Directors](contacts.md). Athletes must comply with [CIF medical eligibility requirements](../../regulations/cif_requirements.md).
 - **Athletic Resources:** [Placeholder]
 
 ## Other Info
